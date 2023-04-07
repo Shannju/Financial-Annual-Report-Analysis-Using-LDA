@@ -48,13 +48,13 @@ def chinese_word_cut(mytext):
     for seg_word in seg_list:
         word = re.sub(u'[^\u4e00-\u9fa5]','',seg_word.word)
         # word = seg_word.word  #如果想要分析英语文本，注释这行代码，启动下行代码
-        # find = 0
-        # for stop_word in stop_list:
-        #     if stop_word == word or len(word)<2:     #this word is stopword
-        #             find = 1
-        #             break
-        # if find == 0 and seg_word.flag in flag_list:
-        #     word_list.append(word)      
+        find = 0
+        for stop_word in stop_list:
+            if stop_word == word or len(word)<2:     #this word is stopword
+                    find = 1
+                    break
+        if find == 0 and seg_word.flag in flag_list:
+            word_list.append(word)
     return (" ").join(word_list)
 
 
