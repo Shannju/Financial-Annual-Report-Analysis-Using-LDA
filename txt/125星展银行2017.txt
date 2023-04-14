@@ -1,0 +1,4444 @@
+DBS BANK (CHINA) LIMITEDFINANCIAL STATEMENTS AND
+REPORT OF THE AUDITORS
+FOR THE YEAR ENDED 31 DECEMBER 2017[English translation for reference only. Should there be any
+Inconsistency between the Chinese and English versions , the Chinese
+version shall prevail.]DBS BANK (CHINA) LIMITEDFINANCIAL STATEMENTS AND
+REPORT OF THE AUDITORS
+FOR THE YEAR ENDED 31 DECEMBER 2017ContentREPORT OF THE AUDITORSBALANCE SHEETINCOME STATEMENTCASH FLOW STATEMENTSTATEMENT OF CHANGES IN OWNER’S EQUITYNOTES TO THE FINANCIAL STATEMENTSPage1-3456-789-77DBS BANK (CHINA) LIMITEDBALANCE SHEET
+AS AT 31 DECEMBER 2017
+(All amounts expressed in RMB unless otherwise stated)
+[English translation for reference only]ASSETSNotes31 December 201731 December 2016Cash and deposits with the central bank
+Deposits with other banks
+Placements with financial institutions
+Financial assets at fair value through profit or loss
+Derivative assets
+Financial assets purchased under resale agreements
+Interest receivable
+Loans and advances
+Investment securities - available-for-sale
+Investment securities - loans and receivables
+Fixed assets
+Long-term prepaid expenses
+Deferred income tax assets
+Other assets
+TOTAL ASSETS8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+2113,073,531,814
+10,534,746,393
+20,298,748,020
+19,917,284,916
+8,365,624,289
+50,539,752
+714,511,277
+44,245,741,851
+2,709,065,463
+469,217,894
+101,678,671
+11,331,680
+481,168,410
+2,979,404,575
+123,952,595,00514,558,254,902
+7,334,247,820
+17,041,933,789
+6,366,848,443
+9,094,258,342
+-
+422,618,197
+37,704,672,912
+2,150,816,247
+121,542,528
+104,718,258
+14,623,102
+362,639,053
+1,408,553,793
+96,685,727,386LIABILITIESNotes31 December 201731 December 2016Deposits from other banks and financial institutions
+Borrowing from other banks
+Derivative liabilities
+Financial assets sold under repurchase agreements
+Due to customers
+Payroll and welfare payable
+Taxes payable
+Interest payable
+Bonds issued
+Other liabilities
+TOTAL LIABILITIESOWNER'S EQUITYPaid-in capital
+Capital surplus
+Other comprehensive income
+Surplus reserve
+General risk reserve
+Undistributed profits
+TOTAL OWNER'S EQUITY22
+23
+12
+24
+25
+26
+27
+28
+29
+3031
+32
+45
+33
+34
+355,738,451,959
+35,580,259,130
+9,534,700,080
+1,858,576,944
+50,314,967,417
+129,091,970
+225,895,913
+404,331,910
+3,944,025,723
+5,692,796,663
+113,423,097,7098,693,428,486
+11,627,643,459
+8,199,798,794
+1,970,930,248
+48,785,788,935
+131,272,813
+60,154,728
+381,214,776
+2,550,010,916
+3,832,839,446
+86,233,082,6018,000,000,000
+22,571,343
+(47,997,748)
+255,492,371
+996,800,000
+1,302,631,330
+10,529,497,2968,000,000,000
+22,571,343
+3,732,990
+242,634,046
+990,800,000
+1,192,906,406
+10,452,644,785TOTAL LIABILITIES AND OWNER'S EQUITY123,952,595,00596,685,727,386The accompanying notes form an integral part of these financial statements.Chairman:
+Dominic HoCEO:
+Neil GeCFO:
+Janice Chua4DBS BANK (CHINA) LIMITEDINCOME STATEMENT
+FOR THE YEAR ENDED 31 DECEMBER 2017
+(All amounts expressed in RMB unless otherwise stated)
+[English translation for reference only]Interest income
+Interest expense
+Net interest incomeFee and commission income
+Fee and commission expenses
+Net fee and commission incomeInvestment (losses)/gains
+Fair value (losses)/gains
+Net gains/(losses) from foreign exchange and
+derivative transactions
+Other business income
+Other incomeOperating incomeTax and levies
+General and administrative expenses
+Asset impairment lossesOperating expenseOperating profitNon-operating income
+Non-operating expensesTotal profitLess: Corporate Income taxNet profit
+Net profit from continued operations
+Net profit from discontinued operationsNet Other comprehensive income
+Other comprehensive income which will be
+reclassified to profit or loss subsequently
+-Gains or losses arising from changes in fair value of
+available-for-sale financial assets
+-Cash Flow Hedge ReserveTotal comprehensive incomeNotes2017201636
+3637
+3738
+39404142
+4344453,541,131,102
+(1,842,137,779)
+1,698,993,3232,840,261,759
+(1,516,735,979)
+1,323,525,780298,189,213
+(86,503,912)
+211,685,301(5,915,255)
+(943,122,537)1,144,068,855
+6,956,589
+9,160,000357,794,345
+(69,311,761)
+288,482,584118,667,226
+817,188,884(339,911,474)
+7,823,717
+-2,121,826,2762,215,776,717(20,402,690)
+(1,634,172,789)
+(289,555,824)(95,635,930)
+(1,691,811,195)
+(276,619,548)(1,944,131,303)(2,064,066,673)177,694,973151,710,0446,042,399
+(1,984,030)12,773,857
+(3,079,223)181,753,342161,404,678(53,170,093)(48,199,089)128,583,249
+128,583,249
+-113,205,589
+113,205,589
+-(51,730,738)(28,082,969)(53,104,244)
+1,373,506(33,099,074)
+5,016,10576,852,51185,122,620The accompanying notes form an integral part of these financial statements.Chairman:
+Dominic HoCEO:
+Neil GeCFO:
+Janice Chua5DBS BANK (CHINA) LIMITEDCASH FLOW STATEMENT
+FOR THE YEAR ENDED 31 DECEMBER 2017
+(All amounts expressed in RMB unless otherwise stated)
+[English translation for reference only]1Cash flows from operating activitiesNotes20172016Net decrease in loans and advances
+Net increase in borrowing from other banks
+Net decrease in financial assets at fair valuethrough profit or lossNet decrease in financial assets
+purchased under resale agreements
+Interest received
+Fee and commission received
+Cash received relating to other operating
+activities
+Sub-total of cash inflowNet increase in deposits with the central bank
+and other banks
+Net decrease in customer deposits and depositsfrom other banks and financial institutionsNet increase in loans and advances
+Net decrease in borrowing from other banks
+Net increase in placements with financial institutions
+Net increase in financial assets at fair valuethrough profit or lossNet decrease in financial assets sold
+under repurchase agreements
+Net increase in financial assets
+purchased under resale agreements
+Interest paid
+Fee and commission paid
+Cash paid to employees
+Payment of taxes
+Cash paid relating to other operating activities
+Sub-total of cash outflow-
+23,952,615,6716,143,101,176
+--1,335,508,051-
+3,151,363,738
+511,569,6464,376,341,323
+31,991,890,378495,000,000
+2,927,649,325
+455,455,6162,476,711,330
+13,833,425,498(340,016,251)(4,278,903,703)(1,425,798,045)
+(6,656,857,664)
+-
+(3,058,438,231)(13,592,161,181)(3,337,588,134)
+-
+(34,858,674)
+(3,014,205,121)-(112,300,000)(1,548,000,000)(50,549,764)
+(1,731,604,203)
+(86,503,912)
+(994,301,097)
+(203,080,255)
+(2,186,611,268)
+(30,438,221,871)-
+(1,847,140,230)
+(69,311,761)
+(1,040,849,653)
+(250,738,480)
+(2,190,374,323)
+(17,611,970,079)Net cash provided from/(used in)
+operating activities461,553,668,507(3,778,544,581)6DBS BANK (CHINA) LIMITEDCASH FLOW STATEMENT
+FOR THE YEAR ENDED 31 DECEMBER 2017
+(All amounts expressed in RMB unless otherwise stated)
+[English translation for reference only]2Cash flows from investing activitiesNotes20172016Cash received from disposal of investment
+securities - available-for-sale
+Interest received from investment securities
+Net decrease in investment securities- loans and receivablesCash received from disposal of fixed assets
+Sub-total of cash inflowCash paid for purchase of investment
+securities-loans and receivables
+Cash paid for purchase of investment
+securities-available-for-sale
+Cash paid for purchase of fixed assets and
+other long-term assets
+Sub-total of cash outflowNet cash (used in)/provided from
+investing activities3Cash flows from financing activitiesCapital injection
+Cash received from bonds issuance
+Sub-total of cash inflowCash payments for bonds redemption
+Cash payments for bonds interest expenses
+Sub-total of cash outflow1,667,664,182
+97,874,284-
+-
+1,765,538,4662,979,433,915
+105,928,648323,622,500
+927,799
+3,409,912,862(352,040,000)-(2,296,719,057)(2,373,782,607)(38,524,307)
+(2,687,283,364)(38,193,996)
+(2,411,976,603)(921,744,898)997,936,259-
+1,395,363,496
+1,395,363,496-
+(87,416,442)
+(87,416,442)1,700,000,000
+599,714,733
+2,299,714,733(1,500,000,000)
+(161,751,982)
+(1,661,751,982)Net cash flows provided from financing activities1,307,947,054637,962,75145Effect of foreign exchange rate changes
+on cash and cash equivalentsNet increase/(decrease) in cash and
+cash equivalentsAdd: Cash and cash equivalents at
+beginning of year(365,735,429)255,157,8011,574,135,234(1,887,487,770)15,723,934,54717,611,422,3176Cash and cash equivalents at end of year4617,298,069,78115,723,934,547The accompanying notes form an integral part of these financial statements.Chairman:
+Dominic HoCEO:
+Neil Ge7CFO:
+Janice ChuaDBS BANK (CHINA) LIMITEDSTATEMENT OF CHANGES IN OWNER'S EQUITY
+FOR THE YEAR ENDED 31 DECEMBER 2017
+(All amounts expressed in RMB unless otherwise stated)
+[English translation for reference only]Balance at 1 January 20166,300,000,00022,571,34331,815,959231,313,487945,200,0001,136,621,3768,667,522,165Paid-in capitalNote 31Capital surplus Other comprehensive
+income
+Note 45Note 32Surplus
+reserve
+Note 33General risk
+reserve
+Note 34Undistributed
+profits
+Note 35Total owners’
+equityComprehensive incomeNet profit for the year of 2016
+Other comprehensive incomeTotal comprehensive income
+Capital Contribution by owners
+Capital Contribution by ownersProfit distributionTransfer to general risk reserve
+Transfer to surplus reserve-
+-
+-1,700,000,000-
+--
+-
+---
+--
+(28,082,969)
+(28,082,969)--
+--
+-
+---
+-
+--113,205,589
+-
+113,205,589113,205,589
+(28,082,969)
+85,122,620-1,700,000,000-
+11,320,55945,600,000
+-(45,600,000)
+(11,320,559)-
+-Balance at 31 December 20168,000,000,00022,571,3433,732,990242,634,046990,800,0001,192,906,40610,452,644,785Comprehensive incomeNet profit for the year of 2017
+Other comprehensive incomeTotal comprehensive incomeProfit distributionTransfer to general risk reserve
+Transfer to surplus reserveBalance at 31 December 2017-
+-
+--
+--
+-
+--
+--
+(51,730,738)
+(51,730,738)-
+-
+--
+-
+-128,583,249
+-
+128,583,249128,583,249
+(51,730,738)
+76,852,511-
+--
+12,858,3256,000,000
+-(6,000,000)
+(12,858,325)-
+-8,000,000,00022,571,343(47,997,748)255,492,371996,800,0001,302,631,33010,529,497,296The accompanying notes form an integral part of these financial statements.Chairman:
+Dominic HoCEO:
+Neil Ge8CFO:
+Janice Chua12DBS BANK (CHINA) LIMITED 
+NOTES TO THE FINANCIAL STATEMENTS 
+FOR THE YEAR ENDED 31 DECEMBER 2017 
+(All amounts expressed in RMB unless otherwise stated) 
+[English translation for reference only]GENERAL INFORMATION 
+ 
+DBS Bank (China) Limited (the “Bank”) was established as a wholly-owned subsidiary of DBS 
+Bank Ltd. (“DBS Bank”) in Shanghai, China. 
+ 
+Prior  to  the  establishment  of  the  Bank  and  the  transfer  of  business  (the  “conversion”),  DBS 
+Bank had three branches (Shanghai, Beijing and Guangzhou) and DBS Bank (Hong Kong) Ltd. 
+(“DBS  HK”)  had  two  branches  (Shenzhen  and  Suzhou)  in  the  People’s  Republic  of  China 
+(“PRC”)  (collectively  known  as  the  “Former  Branches”).  On  22  December  2006,  the  Bank 
+obtained  an  approval  from  the  China  Banking  Regulatory  Commission  (“CBRC”)  to  be 
+incorporated as a wholly-owned subsidiary of DBS Bank by consolidating the two branches of 
+DBS  Bank  (Beijing  and  Guangzhou)  and  two  branches  of  DBS  HK  (Shenzhen  and  Suzhou). 
+The Shanghai Branch of DBS Bank was permitted to maintain its branch status to carry on its 
+foreign  currency  business  (the  “Retained  Branch”).  The  Retained  Branch  was  closed  on  30 
+December 2015.  
+ 
+The Bank obtained its finance approval license No.00000042 from the CBRC and obtained its 
+business  license  (Shi  Ju)  Qi  Du  Hu  Zong  Zi  No.044272  from  the  Shanghai’s  State 
+Administration of Industry and Commerce on 22 May 2007 and 24 May 2007, respectively. The 
+initial registered/paid-up capital of the Bank was RMB 4 billion. Pursuant to the approval from 
+CBRC on 21 August 2012(Yin Jian Fu(2012)No.429), the Bank increased its registered paid-up 
+capital  to  RMB  6.3  billion.The  Bank  obtained  a  new  business  license  No.1116082  from  the 
+Shanghai’s State Administration of Industry and Commerce on 24 September 2012. Pursuant 
+to  the  approval  from  CBRC  on  9  September  2016  (Hu  Yin  Jian  Fu(2016)No.382),  the  Bank 
+increased its registered paid-up capital to RMB 8.0 billion. The Bank obtained a new business 
+license No.00000002201609290009 from the Shanghai’s  State Administration of Industry  and 
+Commerce on 29 September 2016. 
+ 
+The Bank’s operating period is non-restricted according to its business license. It is principally 
+engaged in the provision of foreign currency and Renminbi banking businesses as approved by 
+the related regulators. 
+ 
+DBS  Bank  (China)  Limited  Shanghai  Pilot  Free  Trade  Zone  Sub-branch  obtained  its  finance 
+approval license from CBRC, Shanghai Bureau (HYJBZ[2014] No.3) and obtained its business 
+license  No.310000500539013  from  the  Shanghai’s  State  Administration  of  Industry  and 
+Commerce  on  3  January  2014  and  6  January  2014  respectively.  Currently,  the  Bank  has 
+twelve  branches  and  twenty  three  sub-branches  located  in  Shanghai,  Beijing,  Shenzhen, 
+Suzhou, Guangzhou, Tianjin, Nanning, Dongguan, Hangzhou, Chongqing, Qingdao and Xi’an 
+of the PRC.BASIS OF PREPARATIONThe  financial  statements  are  prepared  in  accordance  with  the  Accounting  Standard  for 
+Business  Enterprises  -  Basic  Standard,  and  other  accounting  standards  and  relevant 
+regulations issued by the Ministry of Finance on 15  February  2006 and in subsequent periods 
+(hereafter  collectively  referred  to  as  “the  Accounting  Standard  for  Business  Enterprises”  or 
+“CAS”). 
+ 
+The financial statements are prepared on a going concern basis.9DBS BANK (CHINA) LIMITED 
+NOTES TO THE FINANCIAL STATEMENTS 
+FOR THE YEAR ENDED 31 DECEMBER 2017 
+(All amounts expressed in RMB unless otherwise stated) 
+[English translation for reference only]34 
+ 
+A 
+ 
+ 
+ 
+BCDE 
+ 
+(1)STATEMENT OF COMPLIANCE WITH ACCOUNTING STANDARDS FOR BUSINESS 
+ENTERPRISES 
+ 
+The financial statements of the Bank for the year ended 31 December 2017 are in compliance 
+with the  Accounting  Standards  for  Business  Enterprises,  and  truly  and  completely  present  the 
+financial position of the  Bank as of 31 December  2017 and  of the financial performance, cash 
+flows and other information for the year then ended.PRINCIPAL ACCOUNTING POLICIES 
+ 
+Accounting period 
+ 
+The Bank’s accounting period starts on 1 January and ends on 31 December. 
+ 
+Functional currency 
+ 
+The  Bank’s  financial  statements  are  presented  in  Renminbi  (“RMB”),  which  is  its  functional 
+currency, being the currency of the primary economic environment in which the Bank operates.Foreign currency translation 
+ 
+Transactions in foreign currencies are measured using the spot exchange rate at the date of the 
+transaction. 
+ 
+Monetary assets and liabilities denominated in foreign currencies are translated into RMB at the 
+spot  exchange  rate  as  at  the  balance  sheet  date.  Foreign  exchange  differences  arising  from 
+this translation are recognised in the income statement.  
+ 
+Non-monetary assets and liabilities measured at cost in a foreign currency are translated using 
+the  spot  exchange  rate  at  the  date  of  the  transaction.  Contributions  to paid-in capital  made  in 
+foreign  currencies  are  translated  into  the  RMB  denominated  paid-in  capital  account  at  the 
+stipulated exchange rate at the contribution date.Cash and cash equivalents 
+ 
+For  the  purposes  of  the  cash  flow  statement,  cash  and  cash  equivalents  comprise  assets 
+balances with original maturities of three months or less  from the date of acquisition including: 
+cash  on  hand,  non-restricted  balances  with  central  banks,  deposits  with  other  banks  and 
+placements with financial institutions.Financial assets and financial liabilities 
+ 
+Financial assets and financial liabilities at fair value through profit or loss 
+ 
+This category includes: financial assets and financial liabilities held for trading, derivatives and 
+those designated at fair value through profit or loss at inception. 
+ 
+A financial asset or a financial liability is classified as held for trading if it is acquired or incurred 
+principally for the purpose of selling, repurchasing or redemption in the near term or if it is part 
+of a portfolio of identified financial instruments that are managed together and for which there is 
+evidence of a recent actual pattern of short-term profit-taking. Derivatives (including derivatives 
+embedded  in  other  contracts  but  separated  for  accounting  purposes)  are  also  categorised  as 
+held for trading unless they are designated as hedges in accordance with (Note 4 (H)).  
+ 
+Financial assets or financial liabilities except for hybrid instruments are designated at fair value 
+through profit or loss when:104 
+ 
+E 
+ 
+(1)(2)(3)(4)DBS BANK (CHINA) LIMITED 
+NOTES TO THE FINANCIAL STATEMENTS 
+FOR THE YEAR ENDED 31 DECEMBER 2017 
+(All amounts expressed in RMB unless otherwise stated) 
+[English translation for reference only] 
+ 
+PRINCIPAL ACCOUNTING POLICIES(continued) 
+ 
+Financial assets and financial liabilities(continued) 
+ 
+Financial assets and financial liabilities at fair value through profit or loss(continued) 
+ 
+  Doing  so  eliminates  or  significantly  reduces  measurement  or  recognition  inconsistenciesthat would otherwise arise;  Certain financial assets or financial liabilities portfolios that are managed and evaluated on 
+a  fair  value  basis  in  accordance  with  a  documented  risk  management  or  investment 
+strategy and reported to key management personnel on that basis.Financial assets and financial liabilities at fair value through profit or loss(continued) 
+ 
+Financial  assets  or  financial  liabilities  at  fair  value  through  profit  or  loss  are  measured  at  fair 
+value at the initial recognition and subsequent balance sheet dates,  and changes in fair  value 
+and the transaction costs are reported in income statement.Loans and receivables 
+ 
+Loans and receivables are non-derivative financial assets with fixed or determinable payments 
+that are not quoted in an active market, including deposits with the central bank, deposits with 
+other  banks,  placements  with  financial  institutions,  financial  assets  purchased  under  resale 
+agreements, loans and advances and investment securities classified as loans and receivables. 
+When the Bank provides funds or services directly to customers and does not intend to sell the 
+receivables, the Bank classifies such financial assets as loans and receivables and recognises 
+them  at  fair  value  plus  transaction  costs  at  initial  recognition.  At  subsequent  balance  sheet 
+dates,  such  assets  are  measured  at  amortised  cost  using  effective  interest  method  less  any 
+impairment allowances. 
+ 
+Available-for-sale financial assets 
+ 
+Financial assets classified as available-for-sale are those that are either designated as such or 
+are not classified in any of the other categories. The Bank also holds such financial assets for 
+the  purpose of  investment  or  satisfying  regulatory  liquidity  requirements.  They  are intended  to 
+be held for an indefinite period of time, which may be sold in response to needs for liquidity or 
+changes in interest rates, exchange rates or equity prices. Financial assets in this category are 
+held  in  certain  business  segments  as  well  as  the  liquidity  management  unit.  Such  financial 
+assets are recognized at fair value plus related transaction costs at time of acquisition, and are 
+subsequently measured at fair value at balance sheet dates. Unrealised gains or losses arising 
+from changes in fair value of financial assets classified as available-for-sale financial assets are 
+recognised  in  other  comprehensive  income and  accumulated directly  in  equity  after  deducting 
+tax  impact.  When  sold  or  impaired,  the  accumulated  fair  value  adjustments  previously 
+recognised in equity are reclassified to the income statement. 
+ 
+Other financial liabilities 
+ 
+Other financial liabilities are recognized initially at fair value, being their issuance proceeds net 
+of  transaction  costs  incurred.  They  are  subsequently  stated  at  amortized  cost  and  any 
+difference between proceeds net of transaction costs and the redemption value is recognized in 
+the income statement over the period of the borrowings using the effective interest method.11DBS BANK (CHINA) LIMITED 
+NOTES TO THE FINANCIAL STATEMENTS 
+FOR THE YEAR ENDED 31 DECEMBER 2017 
+(All amounts expressed in RMB unless otherwise stated) 
+[English translation for reference only]4 
+ 
+E 
+ 
+(5)(6)F 
+ 
+(1)PRINCIPAL ACCOUNTING POLICIES(continued) 
+ 
+Financial assets and financial liabilities(continued) 
+ 
+De-recognition of financial assets and financial liabilities 
+ 
+Financial assets are derecognized when: (1) the rights to receive cash flows from the financial 
+assets  have  expired;  (2)  the  financial  assets  are  transferred  and  the  Bank  has  transferred 
+substantially all risks and rewards of ownership; (3) the Bank does not transfer or retain nearly 
+all the risks and rewards relating to the ownership of the financial asset, but the Bank waives its 
+control  over  the  financial  assets.  When  financial  assets  are  derecognized,  the  difference 
+between  carrying  amount  and  accumulated  amount  of  fair  value  that  was  directly  booked  into  
+equity  (refer  to  transfer  available-for-sale  financial  assets)  was  booked  into  profit  or  loss. 
+Financial liabilities are derecognized when they are extinguished - that is, when the obligation is 
+discharged, canceled or expires. When derecognized, the difference between carrying amount 
+and received amount was booked into profit or loss. 
+ 
+Fair value of financial assets and financial liabilities 
+ 
+Fair value is the amount for which an asset could be exchanged, or a liability settled, between 
+knowledgeable,  willing  parties  in  an  arm's  length  transaction.  The  fair  values  of  quoted 
+investments  in  active  markets  are  based  on  current  bid  prices.  A  financial  instrument  is 
+regarded as quoted in an active market if quoted prices are readily and regularly available from 
+an  exchange,  dealer,  broker,  industry  group,  pricing  service  or  regulatory  agency,  and  those 
+prices represent actual and regularly occurring market transactions on an arm's length basis. If 
+the market for a financial asset is not active, the Bank establishes fair value by using valuation 
+techniques. 
+ 
+Valuation 
+transactions  between 
+knowledgeable,  willing  parties,  if available,  reference  to  the  current  fair  value  of  another 
+instrument  that  is  substantially  the  same,  discounted  cash  flow  analysis  and  option  pricing 
+models.  
+ 
+Impairment of financial assets 
+ 
+Assets carried at amortised cost 
+ 
+The Bank assesses at each balance sheet date whether there is evidence that a financial asset 
+or  a  group  of  financial  assets  is  impaired.  A  financial  asset  or  a  group  of  financial  assets  is 
+impaired  and  impairment  losses  are  incurred  if,  and  only  if,  there  is  objective  evidence  of 
+impairment  as  a  result  of  one  or  more  events  that  occurred  after  the  initial  recognition  of  the 
+asset  and  that  loss  event  has  an  impact  on  the  estimated  future  cash  flows  of  the  financial 
+asset or group of financial assets that can be reliably estimated. The criteria that the Bank uses 
+to determine whether there is evidence of an impairment loss include:include  using  recent  arm'stechniqueslength  market(i)    Significant  financial  difficulty  of  the  issuer  or  obligor  ,  including  breach  of  covenantsand/or financial conditions;(ii)   a breach of contract, such as a default or delinquency in interest or principal payments;(iii)  granting of a concession to the borrower, for economic or legal reasons relating to theborrower's financial difficulty, that the Bank would not otherwise consider;(iv)  it  becoming  probable  that  the  borrower  will  enter  bankruptcy  or  other  financialreorganisation;124F(1)DBS BANK (CHINA) LIMITED 
+NOTES TO THE FINANCIAL STATEMENTS 
+FOR THE YEAR ENDED 31 DECEMBER 2017 
+(All amounts expressed in RMB unless otherwise stated) 
+[English translation for reference only] 
+ 
+PRINCIPAL ACCOUNTING POLICIES(continued) 
+ 
+Impairment of financial assets (continued)Assets carried at amortised cost (continued)(v)  the disappearance of an active market for that financial asset because of financialdifficulties of the issuer;(vi)  observable  data  indicating  that  there  is  a  measurable  decrease  in  the  estimatedfuture  cash  flows  from  a  group  of  financial  assets  since  the  initial  recognition  of  those 
+assets,  although  the  decrease  cannot  yet  be  identified  with  the  individual  financial 
+assets in the group.The  Bank  first  assesses  whether  objective  evidence  of  impairment  exists  individually  for 
+financial  assets  that  are  individually  significant,  and  individually  or  collectively  for  financial 
+assets that are not individually significant. If the Bank determines that no objective evidence of 
+impairment  exists  for  an  individually  assessed  financial  asset,  whether  significant  or  not,  it 
+includes  the  asset  in  a  group  of  financial  assets  with  similar  credit  risk  characteristics  and 
+collectively assesses them for impairment. Assets that are individually assessed for impairment 
+and  for  which  an  impairment  loss  is  or  continues  to  be  recognized  are  not  included  in  a 
+collective assessment of impairment. 
+ 
+The amount of the loss is measured as the difference between the asset’s carrying amount and 
+the  present  value  of  estimated  future  cash  flows  (excluding  future  credit  losses  that  have  not 
+been  incurred)  discounted  at  the  financial  asset’s  original  effective  interest  rate.  The  carrying 
+amount of the asset is reduced through the use of an allowance account and the amount of the 
+loss is recognized in income statement. In practice, the Bank will also determine the fair value 
+of the financial assets  with the  observed market value and assessed the  impairment loss with 
+that fair value. 
+ 
+The  calculation  of  the  present  value  of  the  estimated  future  cash  flows  of  a  collateralized 
+financial asset reflects the  cash flows that may result  from foreclosure less costs for obtaining 
+and selling the collateral, whether or not foreclosure is probable. 
+ 
+For the  purposes of a collective evaluation of impairment, financial  assets are  grouped on the 
+basis of similar and relevant credit risk characteristics. Those characteristics are relevant to the 
+estimation  of  future  cash  flows  for  groups  of  such  assets  by  being  indicative  of  the  debtors’ 
+ability to pay all amounts due according to the contractual terms of the assets being evaluated. 
+ 
+Future  cash  flows  in  a  group  of  financial  assets  that  are  collectively  evaluated  for  impairment 
+are estimated on the basis of the contractual cash flows of the assets in the group and historical 
+loss experience for assets with credit risk characteristics similar to those in the group. Historical 
+loss  experience  is  adjusted  on  the  basis  of  current  observable  data  to  reflect  the  effects  of 
+current conditions that did not affect the period on which the historical loss experience is based 
+and to remove the effects of conditions in the historical period that do not exist currently. 
+ 
+The methodology and assumptions used for estimating future cash flows are reviewed regularly 
+by the Bank to reduce any differences between loss estimates and actual loss experience. 
+ 
+When a loan is uncollectible, it is written off against the related allowance for loan impairment. 
+Such  loans  are  written  off  after  all  the  recovery  procedures  have  been  exhausted  and  the 
+amount  of  the  loss  has  been  determined.  Recoveries  in  full  or  in  part  of  amounts  previously 
+written  off  are  credited  to  the  amount  of  the  impairment  losses  for  loans  and  advances  in  the 
+income statement.134 
+ 
+F 
+ 
+(1)(2)GHDBS BANK (CHINA) LIMITED 
+NOTES TO THE FINANCIAL STATEMENTS 
+FOR THE YEAR ENDED 31 DECEMBER 2017 
+(All amounts expressed in RMB unless otherwise stated) 
+[English translation for reference only] 
+ 
+PRINCIPAL ACCOUNTING POLICIES(continued) 
+ 
+Impairment of financial assets (continued)  
+ 
+Assets carried at amortised cost (continued) 
+ 
+If, in a subsequent period, the amount of the impairment loss decreases and the decrease can 
+be  related  objectively  to  an  event  occurring  after  the  impairment  was  recognized  (such  as  an 
+improvement  in  the  debtor’s  credit  rating),  the  previously  recognized  impairment  loss  is 
+reversed  by  adjusting the allowance account.  The  amount of  the  reversal  is  recognized in the 
+income statement. 
+ 
+Assets classified as available-for-sale 
+ 
+The  Bank  assesses  at  each  balance  sheet  date  whether  there  is  objective  evidence  that  a 
+financial  asset or  a group  of financial assets  is  impaired. In the case of investments classified 
+as available-for-sale, a significant or prolonged decline in the fair value of the security below its 
+cost is considered in determining whether the assets are impaired.  
+ 
+If  any  such  evidence  exists  for  available-for-sale  financial  assets,  the  cumulative  loss, 
+measured  as  the  difference  between  the  acquisition  cost  and  the  current  fair  value,  less  any 
+impairment  loss  on  that  financial  asset  previously  recognized  in  the  income  statement,  is 
+removed from owner’s equity and recognized in the income statement. 
+ 
+If,  in  a  subsequent  period,  the  fair  value  of  a  debt  instrument  classified  as  available-for-sale 
+increases and the increase can be objectively related to an event occurring after the impairment 
+loss  was  recognized  in  the  income  statement,  the  impairment  loss  is  reversed  through  the 
+income statement.  
+ 
+Impairment losses recognized in the income statement on equity instruments are not reversed 
+through the income statement. But impairment losses on equity instruments that are not quoted 
+in  an  active  market  and  are  not  reliably  estimated  with  fair  value,  or  impairment  losses  on 
+derivative assets set off by delivering equity instruments can not be reversed. 
+ 
+Offsetting financial instruments 
+ 
+Financial assets and liabilities are presented net when:(i)  There is a legally enforceable right to set off the recognized amounts;  
+ 
+(ii)  there  is  an  intention  to  settle  them  on  a  net  basis,  or  realize  the  asset  and  settle  theliability simultaneously.Derivative financial instruments 
+ 
+Derivatives  are  initially  recognised  at  fair  value  on  the  date  at  which  a  derivative  contract  is 
+entered into and are subsequently re-measured at their fair value. Gain or losses from changes 
+in the fair value are recorded in the income statement.The  best  evidence of  the  fair  value of  a derivative  at  initial  recognition is  the transaction  price 
+(i.e., the fair value of the consideration given or received) unless the fair value of the instrument 
+is  evidenced  by  comparison  with  other  observable  current  market  transactions  in  the  same 
+instrument (i.e., without modification or repackaging) or based on a valuation technique whose 
+variables  include  only  data  from  observable  markets.  When  such  evidence  exists,  the  Bank 
+recognises profits or losses on day 1.14DBS BANK (CHINA) LIMITED 
+NOTES TO THE FINANCIAL STATEMENTS 
+FOR THE YEAR ENDED 31 DECEMBER 2017 
+(All amounts expressed in RMB unless otherwise stated) 
+[English translation for reference only]4 
+ 
+HPRINCIPAL ACCOUNTING POLICIES(continued) 
+ 
+Derivative financial instruments (continued) 
+ 
+Certain  derivatives  are  embedded  in  the  non-derivative  financial  instruments  (i.e.  host 
+contracts)  and  the  embedded  derivative  and  the  corresponding  host  contract  are  collectively 
+referred to as hybrid financial instruments.  An embedded derivative shall be separated from the 
+host contract and accounted for as a derivative if, and only if:(i)      The  economic  characteristics  and  risks  of  the  embedded  derivative  are  not  closely 
+related to the economic characteristics and risks of the host contract;(ii)    a separate instrument with the same terms as the embedded derivative would meet the 
+definition of a derivative;(iii)    the  hybrid  (combined)  instrument  is  not  measured  at  fair  value  with  changes  in  fair 
+value recognized in profit or loss.The  unrealized  gain  or  loss  arising  from  fair  value  measurement  of  separate  derivative 
+instrument is reported as the “fair value gains or losses” in the income statement. 
+ 
+Hedge accounting 
+ 
+At the inception of each hedging relationship, the Bank documents the relationship between the 
+hedging instrument and hedged item; the risk management objective for undertaking the hedge 
+transaction;  and the methods used to assess the  effectiveness of the hedge. At  inception and 
+on  an  on-going  basis,  the  Bank  also  documents  its  assessment  of  whether  the  hedging 
+instrument is highly effective in offsetting changes in the fair value of the hedged item.  
+ 
+Fair value hedge 
+ 
+Fair value hedge is a hedge of the exposure to changes in fair value of a recognised asset or 
+liability or an unrecognised firm commitment, or an identified portion of such an asset, liability or 
+firm commitment, that is attributable to a particular risk and could affect income statement. 
+ 
+For  a  qualifying  fair  value  hedge,  the  changes  in  the  fair  value  of  the  hedging  derivatives  are 
+recorded  in  the  income  statement,  together  with  any  changes  in  the  fair  value  of  the  hedged 
+item attributable to the hedged risk. 
+ 
+If  the  hedge no  longer  meets  the  criteria for  hedge  accounting, the adjustment  to the  carrying 
+amount  of  a  hedged  item  is  amortised  to  the  income  statement  over  its  remaining  maturity, 
+using the effective interest method.  
+ 
+Cash flow hedge 
+ 
+The  effective  portion  of  changes  in  the  fair  value  of  hedging  instruments  that  are  designated 
+and  qualify  as  cash  flow  hedges  is  recognized  in  other  comprehensive  income  and 
+accumulated in owner’s equity. The ineffective portion is recognized immediately in the income 
+statement.154 
+ 
+HIJDBS BANK (CHINA) LIMITED 
+NOTES TO THE FINANCIAL STATEMENTS 
+FOR THE YEAR ENDED 31 DECEMBER 2017 
+(All amounts expressed in RMB unless otherwise stated) 
+[English translation for reference only] 
+ 
+PRINCIPAL ACCOUNTING POLICIES(continued) 
+ 
+Derivative financial instruments (continued) 
+ 
+Hedge accounting (continued) 
+ 
+Amounts  accumulated  in  equity  are  reclassified  to  the  income  statement  in  the  same  periods 
+when the hedged item affects the income statement. 
+ 
+When a hedging instrument expires or  is sold, or the hedge designation  is revoked or  when  a 
+hedge  no  longer  meets  the  criteria  for  hedge  accounting,  any  cumulative  gain  or  loss  on  the 
+hedging  instrument  existing  in  equity  at  that  time  remains  in  equity  and  is  reclassified  to  the 
+profit or loss when the forecast transaction ultimately occurs. When a forecast transaction is no 
+longer  expected  to  occur,  the  cumulative  gain  or  loss  existing  in  equity  is  immediately 
+transferred to the profit or loss.Fixed assets 
+ 
+Fixed assets comprise office equipment and furniture and computers. Fixed  assets purchased 
+or constructed by the Bank are initially recorded at cost. 
+ 
+Subsequent costs  are  included  in the  asset’s  carrying amount,  as  appropriate,  only  when it  is 
+probable  that  future  economic  benefits  associated  with  the  item  will  flow  to  the  Bank  and  the 
+cost of the item can be measured reliably.  However, the carrying amount of any  parts of fixed 
+assets  that  are  being  replaced  shall  be  derecognised  and  all  related  subsequent  costs  are 
+expensed when incurred.   
+ 
+Depreciation is calculated  using the straight-line method to write down the cost of such assets 
+to their residual values over their estimated useful lives. For impaired fixed assets, depreciation 
+is calculated based on carrying amounts after deducting the provision for impairment over their 
+estimated remaining useful lives.   
+ 
+Estimated useful lives, estimated residual value and annual depreciation rates are as follows:Estimated useful lives  Estimated residual value 
+ 
+ 
+0%-10%5-8 yearsDepreciation rate 
+ 
+ 
+11.25%-20%Office equipmentand furniture 
+Computers andother electronic  
+ equipment2-5 years0%-10%18%-50%The  Bank  reviews  the  estimated  residual  value,  useful  lives  and  depreciation  method  of  fixed 
+assets and makes appropriate adjustments on an annual basis.   
+ 
+When the Bank disposes or ceases to use the fixed assets, or does not expect to further benefit 
+from fixed assets,  the Bank derecognises the assets. Proceeds from sale, transfer or disposal 
+of fixed assets are recorded in the income statement after deducting carrying value and related 
+taxes. 
+ 
+Long-term prepaid expenses 
+ 
+Long-term  prepaid  expenses  include  leasehold  improvement  and  other  expenses  that  have 
+been incurred but are attributable to current and future periods, and should be amortised over a 
+period  of  more  than  one  year.  Long-term  prepaid  expenses  are  amortised  on  the  straight-line 
+basis  over  the  expected  beneficial  periods  and  are  presented  at  cost  net  of  accumulated 
+amortisation.16DBS BANK (CHINA) LIMITED 
+NOTES TO THE FINANCIAL STATEMENTS 
+FOR THE YEAR ENDED 31 DECEMBER 2017 
+(All amounts expressed in RMB unless otherwise stated) 
+[English translation for reference only]4 
+ 
+KLPRINCIPAL ACCOUNTING POLICIES(continued) 
+ 
+Impairment of non-financial assets 
+ 
+Fixed assets or other non-financial assets are reviewed for impairment if there are indications of 
+impairment.  If  the  carrying  value  of  such  assets  is  higher  than  the  recoverable  amount,  the 
+excess  is  recognized  as  an  impairment  loss.    The  recoverable  amount  is  the  higher  of  the 
+asset’s fair value less costs to sell and value in use. 
+ 
+Provision  for  impairment  is  determined  on  individual  basis.  If  it  is  not  possible  to  estimate  the 
+recoverable amount of the individual asset, the Bank determines the recoverable amount of the 
+cash-generating  unit  to  which  the  asset  belongs  (the  asset’s  cash-generating  unit).    A  cash-
+generating  unit  is  the  smallest  group  of  assets  that  includes  the  asset  and  generates  cash 
+inflows that are largely independent of the cash inflows from other assets or groups of assets.  
+ 
+Once  an  impairment  loss  is  recognised,  it  shall  not  be  reversed  to  the  extent  of  recovery  in 
+value in subsequent periods.Interest income and expenses 
+ 
+Interest income and expense for all interest-bearing financial instruments are recognised within 
+‘interest  income’  and  ‘interest  expense’  in  the  income  statement  using  the  effective  interest 
+method. 
+ 
+The effective interest method is a method of calculating the amortised cost of a  financial asset 
+or a financial liability and of allocating the interest income or interest expense over the relevant 
+period using its effective interest rate. 
+ 
+The effective interest rate is the rate that exactly discounts estimated future cash payments or 
+receipts  through  the  expected  life  of  the  financial  instrument  or,  when  appropriate,  a  shorter 
+period to the net carrying amount of the financial asset or financial liability. 
+ 
+When  calculating  the  effective  interest  rate,  the  Bank  estimates  cash  flows  considering  all 
+contractual terms of the financial instrument (e.g., prepayment options, call options and similar 
+options) but does not consider future credit losses.The  calculation  includes  all  fees  paid  or  received  between  parties  to  the  contract  that  are  an 
+integral  part  of  the  effective interest  rate,  such as  transaction  costs  and all  other  premiums  or 
+discounts.  If the cash flows cannot  be  estimated, the Bank shall use contractual cash flows  in 
+the entire contract period. 
+ 
+Once a financial asset or a group of similar financial assets has been written down as a result of 
+an impairment loss, interest income is recognised using the rate of interest used to discount the 
+future cash flows for the purpose of measuring the impairment loss.MFee and commission income/expense 
+ 
+Fee  and  commission  incomes  are  generally  recognized  on  the  percentage  of  completion 
+method  when  the  related  service  has  been  provided.  Fees  and  commission  expenses  are 
+generally recognized on an accrual basis when the related service has been received.174 
+ 
+NOPQDBS BANK (CHINA) LIMITED 
+NOTES TO THE FINANCIAL STATEMENTS 
+FOR THE YEAR ENDED 31 DECEMBER 2017 
+(All amounts expressed in RMB unless otherwise stated) 
+[English translation for reference only] 
+ 
+PRINCIPAL ACCOUNTING POLICIES(continued) 
+ 
+Deferred income taxes 
+ 
+Deferred  income  tax  is  provided  in  full,  using  the  liability  method,  on  temporary  differences 
+arising between the tax bases of assets and liabilities and their carrying amounts in the financial 
+statements. Deferred tax assets shall be recognised for deductible losses or tax credits that can 
+be  carried  forward  to subsequent  years.  The  deferred  tax  assets  and deferred  tax  liabilities  at 
+the balance sheet date shall  be measured the tax rates that, according to the requirements of 
+tax laws, are expected to apply to the period when the asset is realised or the liability is settled.Deferred tax assets shall be recognised to the extent that it is probable that future taxable profit 
+will be available against which the deductible losses and tax credits can be utilised. 
+ 
+Deferred income tax related to fair value re-measurement of available-for-sale investments is 
+credited or charged directly to equity and is subsequently recognised in the income statement 
+together with the deferred gain and loss. 
+ 
+The  Bank’s  deferred  income  tax  assets  and  liabilities  are  netted  as  the  amounts  are 
+recoverable from or due to the same tax authority. 
+ 
+Operating leases 
+ 
+Leases in which a significant portion of the risks and rewards of ownership are retained by the 
+leaser  are  classified  as  operating  leases.The  Bank  entered  into  various  operating  lease 
+agreements to rent its branches’ offices and facilities.  Payments made under operating  leases 
+are expensed on a straight-line basis over the period of the leases. 
+ 
+When  an  operating  lease  is  terminated  before  the  lease  period  has  expired,  any  payment 
+required to be made to the lesser by way of penalty is recognized as an expense in the period 
+in which termination takes place. 
+ 
+Contingent liabilities and acceptances 
+ 
+A contingent liability is a possible obligation that  arises from past events and whose existence 
+will  only  be  confirmed  by  the  occurrence  or  non-occurrence  of  one  or  more  uncertain  future 
+events not wholly within the control of the Bank. It can also be a present obligation arising from 
+past  events  that  is  not  recognized  because  it  is  not  probable  that  an  outflow  of  economic 
+resources will be required or the amount of obligation cannot be measured reliably. 
+ 
+A  contingent  liability  is  not  recognized  as  a  provision  but  is  disclosed  in  the  notes  to  the 
+financial  statements. When  a  change  in  the  probability  of  an  outflow  occurs  so  that  outflow  is 
+probable, it will then be recognized as a provision. 
+ 
+Acceptances comprise undertakings by the Bank to pay bills of exchange drawn on customers. 
+The Bank expects most acceptances to be settled simultaneously with the reimbursement from 
+the  customers.  Acceptances  are  accounted  for  as  off-balance  sheet  transactions  and  are 
+disclosed as contingent liabilities and commitments. 
+ 
+Financial guarantee contracts 
+ 
+The Bank has the following types of financial guarantee contracts: letters of credit and letters of 
+guarantee.  These  financial  guarantee  contracts  provide  for  specified  payments  to  be  made  to 
+reimburse the holder for losses incurred when the guaranteed parties default under the original 
+or modified terms of the specified debt instruments.18DBS BANK (CHINA) LIMITED 
+NOTES TO THE FINANCIAL STATEMENTS 
+FOR THE YEAR ENDED 31 DECEMBER 2017 
+(All amounts expressed in RMB unless otherwise stated) 
+[English translation for reference only]4 
+ 
+QR(1)(2)(3)PRINCIPAL ACCOUNTING POLICIES(continued) 
+ 
+Financial guarantee contracts(continued) 
+ 
+A financial guarantee is initially recognised in the financial  statements at fair value on the date 
+the  guarantee  is  given.  Subsequent  to  initial  recognition,  the  Bank’s  liability  under  each 
+guarantee is measured at the higher of the initial measurement less amortisation and the best 
+estimate  of  the  expenditure  required  to  settle  any  financial  obligation  arising  at  the  balance 
+sheet date. 
+ 
+The  contractual  amounts  of  financial  guarantee  contracts  are  disclosed  as  off-balance  sheet 
+items in Note 47. 
+ 
+Employee benefits 
+ 
+Employee  benefits  mainly  include  short-term  employee  salary,  post-employment  benefits,  and 
+share plan incurred in exchange for service rendered by employees or various forms of rewards 
+or compensation due to severance of labour relation. 
+ 
+Short-term employee benefits 
+ 
+Short-term employee benefits include wages or salaries, bonus, allowances and subsidies, staff 
+welfare,  medical  insurance,  work  injury  insurance,  maternity  insurance,  housing  funds,  union 
+running costs and employee education costs, short-term paid absences. The employee benefits 
+are  recognised  in  the  accounting  period  in  which  the  service  has  been  rendered  by  the 
+employees,  and  as  costs  of  assets  or  expenses  to  whichever  the  employee  service  is 
+attributable.  Employee  benefits  which  are  non-monetary  benefits  shall  be  measured  at  fair 
+value. 
+ 
+Post-employment benefits 
+ 
+The  Bank  classifies  post-employment  benefit  plans  as  either  defined  contribution  plans  or 
+defined  benefit  plans.  Defined  contribution  plans  are  post-employment  benefit  plans  under 
+which the Bank pays fixed contributions into a separate fund and will have no obligation to pay 
+further  contributions;  and  Defined  benefit  plans  are  post-employment  benefit  plans  other  than 
+defined  contribution  plans.  During  the  reporting  period,  the  Bank  's  post-employment  benefits 
+mainly  include  basic  pensions  and  unemployment  insurance,  both  of  which  belong  to  the 
+defined contribution plans. 
+ 
+The  Bank’s  employees  participate  in  the  defined  basic  pension  insurance  plan  set  up  and 
+administered by  local labour and social protection authorities.  Basic pensions are provided for 
+monthly  according  to  stipulated  bases  and  proportions  to  local  labour  and  social  security 
+institutions. When employees retire, local  labour  and  social security  institutions  have a duty  to 
+pay  the  basic  pension  insurance  to  them.  The  amounts  payable  are  recognised  as  liabilities 
+based on the above provisions in the accounting period in which the service has been rendered 
+by  the  employees,  and  as  costs  of  assets  or  expenses  to  whichever  the  employee  service  is 
+attributable. 
+ 
+Share Based Payment 
+ 
+The employees of the Bank enjoy the equity-settled stock incentive plan implemented by the 
+DBS Group Holding Ltd. (“DBS Group”), under which the Bank provides shares issued by DBS 
+Group to all the employees for exchange of services they provided. Such shares provided are 
+recognised in the Bank’s income statement according to the fair value of the equity instruments 
+at the grant date and amortized over the vesting period with a corresponding adjustment to the 
+payable to head office account.19DBS BANK (CHINA) LIMITED 
+NOTES TO THE FINANCIAL STATEMENTS 
+FOR THE YEAR ENDED 31 DECEMBER 2017 
+(All amounts expressed in RMB unless otherwise stated) 
+[English translation for reference only]PRINCIPAL ACCOUNTING POLICIES(continued) 
+ 
+Provision 
+ 
+Provisions are recognized when the Bank has a present obligation as a result of past transactions 
+or  events,  and  it  is  more  likely  than  not  that  an  outflow  of  economic  benefits  will  be  required  to 
+settle the obligation, and the amount can be reliably estimated. 
+. 
+Provisions are initially determined using best estimates based on historical experience, taking into 
+consideration  the  risks,  uncertainties  and  discount  effect  related  to  contingencies.    Where  the 
+effect  of  discounting  future  cash  flow  is  significant,  provisions  shall  be  determined  at  the 
+discounted  future  cash  flows.  The  Bank  reviews  carrying  value  of  provision  on  date  of  balance 
+sheet, and adjust the carrying value to indicate the best estimates.Segment Reporting 
+ 
+The Bank identifies operating segments based on the internal organization structure, management 
+requirement and internal reporting,  and then disclose segment information of reportable segment 
+which is based on operating segment. 
+ 
+An  operating  segment  is  a  component  of  the  Bank  :  (a)  that  engages  in  business  activities  from 
+which  it  may  earn  revenues  and  incur  expenses  (including  revenues  and  expenses  relating  to 
+transactions); b)whose operating results are regularly reviewed by the Bank’s senior management 
+to  make  decisions  about  resources  to  be  allocated  to  the  segment  and  assess  its  performance, 
+and  (c)  for  which  discrete  financial  information,  including  the  financial  position,  the  financial 
+performance  and  cash  flows,  is  available.  Two  or  more  operating  segments  may  be  aggregated 
+into  a  single  operating  segment  if  the  segments  have  similar  economic  characteristics,  and  fulfil 
+certain criteria.  
+ 
+The majority of the Bank’s business activities are conducted within Shanghai, Beijing, Guangzhou, 
+Shenzhen , Suzhou and Tianjin of the PRC.  
+ 
+Business combinationsU 
+ 
+(1)  Business combinations involving enterprises not under common control.The  cost  of  combination  and  identifiable  net  assets  obtained  by  the  acquirer  in  a  business 
+combination are measured at fair value at the acquisition date. Where the cost of the combination 
+exceeds  the  acquirer’s  interest  in  the  fair  value  of  the  acquiree’s  identifiable  net  assets,  the 
+difference  is  recognised  as  goodwill;  where  the  cost  of  combination  is  lower  than  the  acquirer’s 
+interest  in  the  fair  value  of  the  acquiree’s  identifiable  net  assets,  the  difference  is  recognised  in 
+profit  or  loss  for  the  current  period.  Costs  directly  attributable  to  the  combination  are  included  in 
+profit or loss in the period in which they are incurred. Transaction costs associated with the issue 
+of  equity  or  debt  securities  for  the  business  combination  are  included  in  the  initially  recognised 
+amounts of the equity or debt securities.4 
+ 
+ST(2)  Business combinations involving enterprises under common controlThe consideration paid and net assets obtained by the absorbing party in a business combination 
+are  measured  at  the  carrying  amount.  The  difference  between  the  carrying  amount  of  the  net 
+assets  obtained  from  the  combination  and  the  carrying  amount  of  the  consideration  paid  for  the 
+combination is treated as an adjustment to capital surplus (share premium). If the capital surplus 
+(share  premium)  is  not  sufficient  to  absorb  the  difference,  the  remaining  balance  is  adjusted 
+against  retained  earnings.  Costs  directly  attributable  to  the  combination  are  included  in  profit  or 
+loss in the period in which they are incurred. Transaction costs associated with the issue of equity 
+or debt securities for the business combination are included in the initially recognised amounts of 
+the equity or debt securities.20The  Ministry  of  Finance  issued  the  revised  CAS  No.42  -  Non-Current  Assets  and  Disposal 
+Groups Held for Saleand Termination of Business Operation (implement from 28 May 2017) and 
+CAS No.16 - Government Grants (implement from 12 June 2017).  
+  
+According to ‘the Notice of Revision of Enterprise's General Financial Statement Format’ issued 
+in December 2017 (Cai Kuai [2017] 30),  and 'the Interpretation of Questions about Enterprise's 
+General  Financial  Statement  Format'  issued  on  12  January  2018,  the  Bank  shall  disclose  the 
+account of 'asset disposal income' and the  comparative data. Given there is no asset disposal in 
+2017  or  2016,  the  change  of  the  revised  CAS  No.42  is  not  applied  for  the  Bank  in  current  or 
+comparative period. 
+ 
+Besides, the Bank shall disclose 'other income' to deal with the government grants in 2017, the 
+comparative  figures  for  the  year  ended  31  December  2016  do  not  need  to  be  restated.  The 
+implementation of this change do not have significant impact on the Bank's financial conditions, 
+operating performance or cash flows.W  Government Grants4VDBS BANK (CHINA) LIMITED 
+NOTES TO THE FINANCIAL STATEMENTS 
+FOR THE YEAR ENDED 31 DECEMBER 2017 
+(All amounts expressed in RMB unless otherwise stated) 
+[English translation for reference only]PRINCIPAL ACCOUNTING POLICIES(continued)Changes in significant accounting policiesGovernment grants refer to the monetary or non-monetary assets obtained by the Bank from the 
+government, including tax return, financial subsidy and etc. 
+ 
+Government grants are recognised  when the grants can be received and  the  Bank can comply 
+with all attached conditions. If a government grant is a monetary asset, it will be measured at the 
+amount  received  or  receivable.  If  a  government  grant  is  a  non-monetary  asset,  it  will  be 
+measured at its fair value. If it is unable to obtain its fair value reliably, it will be measured at its 
+nominal amount. 
+ 
+Government grants related to assets refer to government grants which are obtained by the Bank 
+for  the  purposes  of  purchase,  construction  or  acquisition  of  the  long-term  assets.  Government 
+grants related to income refer to the government grants other than those related to assets. 
+ 
+Government  grants  related  to  assets  are  either  deducted  against  the  carrying  amount  of  the 
+assets, or recorded as deferred income and recognised in profit or loss on a systemic basis over 
+the useful lives of the assets. Government grants related to income  that compensate the future 
+costs, expenses or losses  are recorded as  deferred  income and recognised in profit or  loss, or 
+deducted  against  related  costs,  expenses  or  losses  in  reporting  the  related  expenses; 
+government  grants  related  to  income  that  compensate  the  incurred  costs,  expenses  or  losses 
+are recognised in profit or loss, or deuducted against related costs, expenses or losses directly in 
+current period. The Bank applies the presentation method consistently to the similar government 
+grants in the financial statements. 
+ 
+Government  grants  that  are  related  to  ordinary  activities  are  included  in  operating  profit, 
+otherwise, they are recorded in non-operating income or expenses.For  the  policy  loans  with  favourable  interest  rates,  the  Bank  records  the  loans  at  the  actual 
+amounts  and  calculates  the  interests  by  loan  principals  and  the  favourable  interest  rates.  The 
+interest  subsidies  directly  received  from  government  are  recorded  as  a  reduction  of  interest 
+expenses.21DBS BANK (CHINA) LIMITED 
+NOTES TO THE FINANCIAL STATEMENTS 
+FOR THE YEAR ENDED 31 DECEMBER 2017 
+(All amounts expressed in RMB unless otherwise stated) 
+[English translation for reference only]5ABCCRITICAL ACCOUNTING ESTIMATES AND JUDGMENTS IN APPLYING ACCOUNTING 
+POLICIES 
+ 
+The  Bank  makes  estimates  and  assumptions  that  affect  the  reported  amounts  of  assets  and 
+liabilities in the financial statements.  Estimates and judgments are continually evaluated and  are 
+based on historical experience and other factors, including expectations of future events that are 
+believed  to  be  reasonable  under  the  circumstances.  Areas  susceptible  to  changes  in  essential 
+estimates  and  judgments,  which  affect  the  carrying  value  of  assets  and  liabilities,  are  set  out 
+below.  It  is  impracticable  to  determine  the  effect  of  changes  to  either  the  key  assumptions 
+discussed  below  or  other  estimation  uncertainties.  It  is  possible  that  actual  results  may  require 
+material adjustments to the estimates referred to below. 
+ 
+Allowance for impairment losses on loans and advances 
+ 
+The  Bank  reviews  its  loan  portfolios  to assess  impairment  except  that  there  are  known situation 
+demonstrates  impairment  losses  have  occurred  on  a  regular  basis.  In  determining  whether  an 
+impairment loss should be recorded in the income statement, the Bank makes judgements as to 
+whether  there  is  any  observable  data  indicating  that  there  is  a  measurable  decrease  in  the 
+estimated future cash flows from a portfolio of loans before the decrease can be identified with an 
+individual  loan  in  that  portfolio.  This  evidence  may  include  observable  data  indicating  that  there 
+has  been  an  adverse  change  in  the  payment  status  of  borrowers  in  a  group  (e.g.  payment 
+delinquency  or  default),  or  national  or  local  economic  conditions  that  correlate  with  defaults  on 
+assets in the group.  Management uses estimates based on historical loss  experience for assets 
+with credit risk characteristics and objective evidence of impairment similar to those in the portfolio 
+when  scheduling  its  future  cash  flows.  The  methodology  and  assumptions  used  for  estimating 
+both the amount and timing of future cash flows are reviewed regularly to reduce any differences 
+between loss estimates and actual loss experienc.Fair value of financial instruments 
+ 
+The fair value of financial instruments that is not quoted in active markets is determined by using 
+valuation  techniques.  The  valuation  models  (like  cash  flow  discount  model)  are  periodically 
+evaluated and validated by the specialists with professional qualifications, who are independent of 
+the designers of the models. To the extent practical, cash flow models use only observable data, 
+however,  areas  such  as  credit  risk  (both  own  and  counterparty),  volatilities  and  correlations 
+require management to make estimates. Changes in assumptions about these factors could affect 
+reported fair value of financial instruments. 
+ 
+Income tax 
+ 
+Significant  estimates  are  required  in  determining the  provision for  income tax.  There  are  certain 
+transactions  and  calculations  for  which  the  ultimate  tax  determination  is  uncertain  during  the 
+ordinary course of business. The Bank recognizes liabilities for anticipated tax audit issues based 
+on estimates of whether additional taxes will be due. In particular, the deductibility of certain items 
+in the  PRC  is  subject  to tax  authority’s  approval,  mainly  like the  impairment  allowance for  loans 
+and  advances. Where  the  final  tax  outcome  of  these  matters  is  different  from  the  amounts  that 
+were  initially  recorded,  such  differences  will  impact  the  income  tax  and  deferred  income  tax 
+provisions in the period in which such determination is made.6  AUTHORIZATION OF FINANCIAL STATEMENTSThe financial statements were authorized for issue by Board of Directors on 31 January 2018.2278DBS BANK (CHINA) LIMITED 
+NOTES TO THE FINANCIAL STATEMENTS 
+FOR THE YEAR ENDED 31 DECEMBER 2017 
+(All amounts expressed in RMB unless otherwise stated) 
+[English translation for reference only]TAXATION 
+ 
+The Bank’s business activities are mainly subject to the following taxes: 
+ 
+Tax 
+ 
+Corporate income tax 
+Value added tax (“VAT”)Tax rate 
+ 
+25% 
+6%Tax base  
+ 
+  Taxable income 
+  Taxable  value  added  amount  (Tax  payable  is 
+calculated  using  the  taxable  sales  amount 
+multiplied  by  the  applicable  tax  rate  less 
+deductible VAT input of the current period)7%3% 
+2% 
+1%The payment amount of VAT and business taxUrban construction and 
+maintenance tax 
+Education surcharges 
+Local education surcharges 
+River way administrative toll 
+ 
+Under  the  Corporate  Income Tax  Law  of  the  People’s  Republic  of  China,  the  corporate  income 
+tax rate applicable to the Bank was 25% (2016: 25%). 
+ 
+Pursuant  to  the  'Circular  on  the  Overall  Promotion  of  Pilot  Program  of  Levying  VAT  in  place  of 
+Business  Tax'(Cai  Shui  [2016]  36)  jointly  issued    by  the  Ministry  of  Finance  and  the  State 
+Administration of Taxation, revenue from financial service is subject to VAT from 1 May 2016, and 
+the applicable tax rate is 6%, while the business tax was 5% before then.The payment amount of VAT and business tax 
+  The payment amount of VAT and business tax 
+  The payment amount of VAT and business taxCASH AND DEPOSITS WITH THE CENTRAL BANK31 December 201731 December 201653,689,1215,772,082,6595,389,065,6063,343,417,51614,558,254,90241,017,1496,100,571,4395,583,432,1261,348,511,10013,073,531,814Cash 
+Statutory deposit reserve with thecentral bank (a)Excess deposit reserve with thecentral bankForeign exchange risk reserve withcentral bank (b)(a)  According to the relevant provisions of the People’s Bank of China (“PBOC”), the mandatory 
+reserve  ratio  for  customer  deposits  denominated  in  foreign  currencies  was  5%  at  31 
+December 2017(31 December 2016: 5%).Such reserve is non-interest-bearing.According to the relevant provisions of the PBOC, the mandatory reserve ratio for customer 
+deposits  denominated  in  RMB  was15%  at  31  December  2017  (31  December  2016:  15%). 
+RMB deposit reserve bears interest at annual rate of 1.62% (2016: 1.62%). 
+ 
+These statutory reserve deposits are of limited use to fund the Bank’s operations.(b)  Pursuant to the 'Circular on the strengthing the macro prudential management about forwardFX sales and purchase '(Yin Fa [2015] 273), the Bank places the foreign currency reserve 
+with the People’s Bank of China (“PBOC”).Pursuant to the ‘Circular on the Adjustment of Foreign Exchange Risk Reserve Policies’ (Yin 
+Fa [2017] 207),  the reserve ratio of the bank's foreign exchange risk should be adjusted to 
+zero from 11 September 2017, related business occurred before 11 September 2017 is 
+treated according to Yin Fa [2015] 273.23DBS BANK (CHINA) LIMITED 
+NOTES TO THE FINANCIAL STATEMENTS 
+FOR THE YEAR ENDED 31 DECEMBER 2017 
+(All amounts expressed in RMB unless otherwise stated) 
+[English translation for reference only]DEPOSITS WITH OTHER BANKSDeposits with domestic banks 
+Deposits with overseas banks 
+Deposits with overseas related parties 
+(Note 52(e)(3)(i))31 December 2017 
+ 
+9,154,699,749 
+1,131,566,272248,480,37210,534,746,393PLACEMENTS WITH FINANCIAL INSTITUTIONS 
+ 
+ 
+ 
+Placements with domestic banks 
+Placements with domestic financial institutions 
+Placements with overseas related parties 
+(Note 52(e)(3)(i))31 December 2017 
+ 
+842,778,520 
+15,939,624,5003,516,345,000 
+20,298,748,02031 December 2016 
+ 
+6,345,831,532 
+777,095,836211,320,4527,334,247,82031 December 2016 
+ 
+243,128,456 
+12,887,825,3333,910,980,000 
+17,041,933,78931 December 201631 December 2017FINANCIAL ASSETS AT FAIR VALUE THROUGH PROFIT OR LOSS  
+ 
+ 
+ 
+Bonds issued by policy banks 
+Corporate bonds 
+Treasury bonds 
+Local Treasury bonds 
+Negotiable certificates of deposit 
+Securities Company Short-term Commercial 
+Paper 
+  
+ 
+As  at  31  December  2017,  trading  assets  amounting  to  RMB  1,830,000,000  were  pledged  as 
+collateral  under  repurchase  agreements  with  other  banks.  As  at  31  December  2016,  trading 
+assets  amounting  to  RMB  1,510,000,000  were  pledged  as  collateral  under  repurchase 
+agreements with other banks.2,600,667,129 
+2,563,803,266 
+296,322,085 
+29,395,058 
+14,367,157,7351,937,559,200 
+1,277,746,957 
+185,009,111 
+29,834,725 
+2,936,698,45059,939,643 
+19,917,284,916- 
+6,366,848,4439101112DERIVATIVE INSTRUMENTS AND HEDGE ACCOUNTING12.1  DERIVATIVE INSTRUMENTSThe following major derivative instruments are utilized by the Bank for trading purpose: 
+ 
+Foreign  exchange  forwards  represent  commitments  to  purchase/sell  foreign  exchanges 
+including unsettled spot transactions.24DBS BANK (CHINA) LIMITED 
+NOTES TO THE FINANCIAL STATEMENTS 
+FOR THE YEAR ENDED 31 DECEMBER 2017 
+(All amounts expressed in RMB unless otherwise stated) 
+[English translation for reference only]DERIVATIVE INSTRUMENTS AND HEDGE ACCOUNTING(continued)12 
+ 
+12.1  DERIVATIVE INSTRUMENTS(continued)Foreign exchange and interest rate swaps are commitments to exchange one set of cash flows 
+for another.  Swaps result in an economic exchange of currencies or interest rates (for example, 
+fixed rate for floating rate) or a combination of all these (i.e. cross-currency interest rate swaps).  
+The  Bank’s  credit  risk  represents  the  potential  cost  to  replace  the  swap  contracts  if 
+counterparties  fail  to  perform  their  obligation.  This  risk  is  monitored  on  an  ongoing  basis  with 
+reference to the current  fair  value,  the  notional  amount  of  the  contracts  and  the  liquidity  of  the 
+market.  To  control  the  level  of  credit  risk  taken,  the  Bank  assesses  counterparties  using  the 
+same techniques as for its lending activities. 
+ 
+Foreign currency  options  are contractual  agreements  under  which  the  seller  (writer)  grants  the 
+purchaser  (holder)  the  right,  but  not  the  obligation,  either  to  buy  (a  call  option)  or  sell  (a  put 
+option)  at  or  by  a set  date  or  during  a set  period,  a  specific  amount of  a foreign currency  or  a 
+financial instrument at a predetermined price. The seller receives a premium from the purchaser 
+in consideration for the assumption of foreign exchange risk. Options may be either exchange-
+traded or negotiated between the Bank and a customer (OTC). 
+ 
+Interest rate options is a right obtained by the buyer, after payment of a premium, to buy or sell 
+certain  interest  rate  instrument  at  certain  interest  rate  (price)  within  its  validity  period  or  after 
+expiration.   
+ 
+Equity  options  provide  the  buyer,  on  payment  of  a  premium,  the  right  but  not  the  obligation, 
+either  to  purchase  or  sell  a  specified  stock  or  stock  index  at  a  specified  price  or  level  on  or 
+before a specified date. 
+ 
+Equity  swaps  involve  the  exchange  of  a  set  of  payments  whereby  one  of  these  payments  is 
+based on an equity-linked return while the other is typically based on an interest reference rate.Commodity  contracts  are  agreements  between  two  parties  to  exchange  cash  flows  which  are 
+dependent on the price of the underlying physical assets. 
+ 
+Total  Return  Swap  is  a  bilateral  financial  transaction  where  the  counterparties  swap  the  total 
+return of a single asset or basket of assets in exchange for periodic cash flows. 
+ 
+The  notional  amounts  of  certain  types  of  financial  instruments  provide  a  basis  for  comparison 
+with instruments recognised on the balance sheet but do not necessarily indicate the amounts of 
+future  cash  flows  involved  or  the  current  fair  value  of  the  instruments  and,  therefore,  do  not 
+indicate  the  Bank’s  exposure  to  credit  or  market  risks.    The  derivative  instruments  become 
+favourable (assets) or unfavourable (liabilities) as a result of fluctuations in market interest rates 
+or foreign exchange rates relative to their terms. The aggregate fair values of derivative financial 
+assets and liabilities can fluctuate significantly from time to time.The fair value of financial instruments that is not quoted in active markets is determined by using 
+valuation  techniques.    To  the  extent  practical,  cash  flow  models  use  only  observable  data,  like 
+interest  rate  and  foreign  currency  exchange  rate,  certain  data  like  credit  risk  (both  own  and 
+counterparty),  volatilities  and  correlations  require  management  to  make  estimates.  Changes  in 
+assumptions about these factors could affect reported fair value of financial instruments. 
+ 
+The notional amount and fair value of the Bank’s derivative financial instruments are as follows:25DBS BANK (CHINA) LIMITED 
+NOTES TO THE FINANCIAL STATEMENTS 
+FOR THE YEAR ENDED 31 DECEMBER 2017 
+(All amounts expressed in RMB unless otherwise stated) 
+[English translation for reference only]DERIVATIVE INSTRUMENTS AND HEDGE ACCOUNTING(continued)12 
+ 
+12.1  DERIVATIVE INSTRUMENTS(continued)31 December 2017 
+ 
+ 
+Foreign exchange derivativesForeign exchange19,879,825,110Notional amountAssetsFair valueforwardForeign exchange swap 
+ Foreign exchange option 
+Cross-currency swapInterest rate derivativesInterest rate swap 
+Interest rate cap and floorEquity derivatives 
+ 
+ 
+Total31 December 2016 
+ 
+ 
+Foreign exchange derivativesForeign exchange forwardForeign exchange swap 
+    Foreign exchange option 
+    Cross-currency swap 
+ 
+ 
+Interest rate derivatives 
+   Interest rate swap 
+   Interest rate cap and floor 
+ 
+ 
+ 
+Equity derivatives 
+ 
+ 
+ 
+Commodity derivatives 
+ 
+ 
+ 
+Credit derivatives 
+ 
+ 
+Total450,583,634,310 
+88,547,411,166 
+6,770,890,802 
+565,781,761,3881,001,839,084,216 
+11,523,709,180 
+1,013,362,793,3968,087,725,882 
+ 
+1,587,232,280,666Notional amount34,757,222,109 
+439,882,640,851 
+47,111,155,964 
+1,778,528,502 
+523,529,547,426697,030,053,544    
+13,756,694,978    
+710,786,748,5222,120,996,143 
+ 
+226,624,159 
+ 
+55,496,000 
+ 
+1,236,719,412,25026Liabilities(272,187,202)(6,742,653,246) 
+(685,575,581) 
+(135,654,162) 
+(7,836,070,191)(1,580,913,607) 
+(2,259,888) 
+(1,583,173,495) 
+ 
+(115,456,394) 
+ 
+(9,534,700,080)344,966,9795,556,396,744 
+599,185,552 
+ 
+180,690,642 
+ 
+  6,681,239,917 
+ 
+ 
+  1,565,430,670 
+ 
+2,469,127 
+  1,567,899,797 
+ 
+116,484,575 
+ 
+8,365,624,289Fair valueAssets158,771,772 
+6,535,664,089 
+399,035,195 
+- 
+7,093,471,056 
+ 
+ 
+1,884,656,540 
+3,580,229 
+1,888,236,769 
+ 
+27,522,034 
+ 
+84,777,714 
+ 
+250,769 
+ 
+9,094,258,342Liabilities(332,959,296) 
+(5,391,438,000) 
+(357,753,228) 
+(92,052,418) 
+(6,174,202,942) 
+ 
+ 
+(1,909,562,790) 
+(3,533,192)(1,913,095,982) 
+ 
+(27,471,387) 
+ 
+(84,777,714) 
+ 
+(250,769) 
+ 
+(8,199,798,794)DBS BANK (CHINA) LIMITED 
+NOTES TO THE FINANCIAL STATEMENTS 
+FOR THE YEAR ENDED 31 DECEMBER 2017 
+(All amounts expressed in RMB unless otherwise stated) 
+[English translation for reference only]12DERIVATIVE INSTRUMENTS AND HEDGE ACCOUNTING(continued)12.2  HEDGE ACCOUNTING(a)  Fair value hedge 
+ 
+As at 31 December 2017, derivative contracts designated as hedging instruments by the Bank are 
+as follows:Fair ValueDerivatives designated ashedging instruments in fair 
+value hedgesInterest rate swapsnotional amountAssetsLiabilities1,000,000,000-(44,619,187)As at 31 December 2016, derivative contracts designated as hedging instruments by the Bank are 
+as follows:Fair Valuenotional amountAssetsLiabilitiesDerivatives designated as      
+hedging instruments in fair 
+value hedgesInterest rate swaps1,000,000,000-(43,176,713)The Bank uses interest rate swaps to hedge against changes in the fair value of bonds issued and 
+the fair value listed as above excluded interest part. 
+ 
+Net loss on fair value hedges are as follows:20172016(44,619,187) 
+43,942,499 
+(676,688)(43,176,713) 
+42,593,810 
+(582,903)—hedging instruments 
+  —hedged items: bonds issued 
+  Net loss on fair value hedges27DBS BANK (CHINA) LIMITED 
+NOTES TO THE FINANCIAL STATEMENTS 
+FOR THE YEAR ENDED 31 DECEMBER 2017 
+(All amounts expressed in RMB unless otherwise stated) 
+[English translation for reference only]12  DERIVATIVE INSTRUMENTS AND HEDGE ACCOUNTING(continued)12.2  HEDGE ACCOUNTING(continued) 
+ (a) 
+ (b)(b)     Cash flow hedge 
+ 
+The  Bank’s  cash  flow  hedges  consist  principally  of  currency  swaps  transacted  to  hedge  highly 
+probable  forecast  transactions  expected  to  occur  at  various  future  dates  against  variability  in 
+exchange  rates.    The  currency  swaps  have  maturity  dates  that  coincide  within  the  expected 
+occurrence of these transactions. 
+ 
+For the year ended 31 December 2017, the Bank’s net gain from the cash flow hedge of RMB 6.39  
+million  (for  the  year  ended  31  December  2016:  5.02  million)  were  recognized  in  other 
+comprehensive  income and the  gain  and  loss  arising  from  ineffective portion  of  cash flow  hedge 
+was immaterial for the year ended 31 December 2017. There were no transactions for which cash 
+flow hedge accounting had to be ceased for the year ended 31 December 2017, as a result of the 
+highly probable cash flows no longer being expected to occur.  
+ 
+FINANCIAL ASSETS PURCHASED UNDER RESALE AGREEMENTS  
+ 
+ 
+ 
+Financial assets purchased under resale31 December 201731 December 20161314agreements designated at fair value through 
+profit or loss, at fair value- 
+ 
+ 
+According  to  the  Bank’s  policies,  reverse  repo  and  repo  transactions  conducted  by  the  Bank’s 
+trading desk are managed and evaluated together with other trading portfolios on fair value basis. 
+Therefore, the Bank designated such assets and liabilities as fair value through profit or loss.50,539,752INTEREST RECEIVABLE 
+ 
+ 
+ 
+Loans and advances  
+Deposits and placements with financialinstitutionsFinancial  assets  at  fair  value  throughprofit or lossInvestment securities - 
+   available-for-sale 
+Deposits with the central bank 
+Investment securities - loans andreceivablesFinancial assets purchased underresale agreements31 December 2017275,492,004268,078,55096,822,90470,053,918 
+3,674,175379,34710,379 
+714,511,27731 December 2016201,105,77289,180,54365,224,70963,713,609 
+3,324,93168,633- 
+422,618,19731 December 
+2016422,618,197Increase in  
+current year3,541,131,102Decrease in 
+ 
+current year(3,249,238,022)Interest receivable2831 December 
+2017714,511,277DBS BANK (CHINA) LIMITED 
+NOTES TO THE FINANCIAL STATEMENTS 
+FOR THE YEAR ENDED 31 DECEMBER 2017 
+(All amounts expressed in RMB unless otherwise stated) 
+[English translation for reference only]LOANS AND ADVANCES31 December 2017    31 December 20166,308,893,353   
+ 754,071,903   
+7,062,965,25626,395,535,779 
+10,838,225,288 
+761,272,583 
+37,995,033,650 
+ 
+45,057,998,906(185,678,864) 
+(626,578,191) 
+(812,257,055) 
+ 
+44,245,741,8514,447,186,346 
+925,306,377 
+5,372,492,72323,885,004,021 
+8,762,446,360 
+374,515,187 
+33,021,965,568 
+ 
+38,394,458,291(90,027,099) 
+(599,758,280) 
+(689,785,379) 
+ 
+37,704,672,91231 December 201731 December 2016Balance%Balance5,372,492,72312,493,596,7398,437,967,731 
+7,226,859,4661,535,115,748928,752,890726,378,234150,000,000180,930,093463,694,593235,067,655149,387,875200,000,000185,874,808108,339,73617%24%21% 
+16%10%4%3%2%1%1%1%0%0%0%0% 
+ 
+  100%7,062,965,25610,758,853,2919,447,268,394 
+7,430,208,6044,355,556,3131,793,629,1301,539,409,713829,616,479488,693,690423,171,125397,495,192155,276,970145,644,55470,000,000160,210,19545,057,998,90629%14%33%22% 
+19%4%2%2%0%0%1%1%0%1%0%1%38,394,458,291100%15(1)Retail loans   
+-Mortgage loans 
+-Others 
+ 
+ 
+Corporate loans and advances  
+-Loans 
+-Trade finance 
+-Discounted bills and others 
+ 
+ 
+Total loansIndividual impairment allowance 
+Collective impairment allowance 
+Total impairment allowance 
+ 
+Loans and advances, netIndustry sector: 
+ 
+ 
+ 
+ 
+Retail loansManufacturingWholesale and retailbusinessReal estate  
+Leasing and commercialservicesTransportation, storage andpostalInformation and technologyFinanceElectricity, Gas and WaterAgriculture, Hunting,Forestry and FishingConstructionHotel and restaurantTechnical services 
+  Mining industry 
+  OthersTotal grossDBS BANK (CHINA) LIMITED 
+NOTES TO THE FINANCIAL STATEMENTS 
+FOR THE YEAR ENDED 31 DECEMBER 2017 
+(All amounts expressed in RMB unless otherwise stated) 
+[English translation for reference only]15  LOANS AND ADVANCES (continued)(2)  Geographic sector:Shanghai 
+Beijing 
+Shenzhen 
+Guangzhou 
+Xi’an 
+Chongqing  
+Suzhou 
+Hangzhou 
+Nanning 
+Tianjin 
+Others 
+Total gross31 December 201731 December 201628,187,701,051  
+ 4,766,274,664  
+ 3,027,597,121  
+ 2,321,229,987  
+ 1,494,250,000  
+ 1,225,783,291  
+ 1,046,293,229  
+ 1,031,643,076  
+ 831,160,171  
+ 672,771,005  
+ 453,295,31145,057,998,90621,254,137,173  
+ 4,445,769,609  
+ 4,901,269,000  
+ 1,942,638,333  
+ 1,504,500,000  
+ 1,568,290,926  
+ 643,603,589  
+ 466,124,973  
+ 780,892,094  
+ 394,617,791  
+ 492,614,80338,394,458,291(3)  By type of collateral and guarantee:Clean loansWith guarantee only  
+  With collateral only 
+  With both collateral and guaranteeTotal gross31 December 201731 December 20169,720,881,923 
+ 10,673,385,723 
+ 14,643,232,101 
+ 10,020,499,159 
+ 45,057,998,9068,840,470,411 
+7,429,658,252 
+11,001,467,569 
+11,122,862,059 
+38,394,458,291(4)  Loans and advances past due:Past due up 
+to 90 daysClean loans 
+- 
+  With guarantee only  50,000,000 
+  With collateral only  391,202,842 
+  With both collateral31 December 2017Past due 90 
+to 365 days 
+ 
+- 
+- 
+23,993,499Past due 1 toPast due3 years- 
+5,215,009 
+29,627,369over 3 years- 
+739,066 
+6,238,202and guaranteeTotal gross14,662,212 
+91,883,511 
+455,865,054  115,877,01069,227,914 
+104,070,2927,107,333 
+14,084,601Total- 
+55,954,075 
+451,061,912182,880,970 
+689,896,957TotalPast due up 
+to 90 daysPast due 90 
+to 365 daysPast due 1 toPast dueover 3 years31 December 20163 years- 
+5,109,440 
+34,238,429Clean loans 
+31,632,737 
+  With guarantee only 
+253,046 
+  With collateral only  169,144,415 
+  With both collateral- 
+83,399,750 
+20,355,829- 
+819,054 
+5,247,15731,632,737 
+89,581,290 
+228,985,830and guaranteeTotal gross67,420,986 
+80,771,928 
+268,451,184  184,527,50730,026,767 
+69,374,63610,658,104 
+16,724,315188,877,785 
+539,077,64230DBS BANK (CHINA) LIMITED 
+NOTES TO THE FINANCIAL STATEMENTS 
+FOR THE YEAR ENDED 31 DECEMBER 2017 
+(All amounts expressed in RMB unless otherwise stated) 
+[English translation for reference only]15  LOANS AND ADVANCES (continued)(5)  Allowance for impairment losses on loans and advances:At 1 January 
+Impairment losses for loans andadvances (Note 43)Transfer in 
+Current Year Write-off 
+Exchange difference 
+At 31 DecemberAt 1 January 
+Impairment losses  for loans andadvances (Note 43)Transfer out provision for non2017Individually 
+assessedCollectively 
+assessedTotal90,027,099599,758,280689,785,379107,907,570 
+-(12,134,001)  
+(121,804) 
+185,678,86421,447,285 
+5,372,626 
+- 
+- 
+626,578,191129,354,855 
+5,372,626 
+(12,134,001) 
+(121,804) 
+812,257,0552016 
+Collectively 
+assessedTotal1,033,124,5131,172,090,383Individually 
+assessed138,965,870511,058,200(433,366,233)77,691,967performing loan sell down(Note 43)Write-off(525,261,083) 
+(272,326,315)- 
+-(525,261,083) 
+(272,326,315)Reversal of previously write off loans 
+for non performing loan sell downExchange difference 
+At 31 December237,905,219 
+(314,792) 
+90,027,099- 
+- 
+599,758,280237,905,219 
+(314,792) 
+689,785,37931161718DBS BANK (CHINA) LIMITED 
+NOTES TO THE FINANCIAL STATEMENTS 
+FOR THE YEAR ENDED 31 DECEMBER 2017 
+(All amounts expressed in RMB unless otherwise stated) 
+[English translation for reference only] 
+ 
+INVESTMENT SECURITIES - AVAILABLE-FOR-SALE 
+ 
+ 
+At fair value 
+ 
+Treasury bonds 
+Local Treasury bonds 
+Bonds issued by policy banks31 December 20171,047,753,154    
+38,890,459    
+1,622,421,850    
+2,709,065,46331 December 2016549,246,720 
+39,564,148 
+1,562,005,379 
+2,150,816,247As  at  31  Dec  2017,  the  notional  amount  of  available  for  sale  financial  assets  pledged  is  RMB 
+350,000,000.The  notional  amount  of  available  for  sale  financial  assets  pledged  is  RMB 
+590,000,000as at 31 Dec 2016.   
+ 
+INVESTMENT SECURITIES – LOANS AND RECEIVABLES 
+ 
+ 
+ 
+Assets backed securities 
+Impairment allowance-collectively assessed(5,622,106)31 December 2017122,800,000 
+(1,257,472) 
+121,542,52831 December 2016474,840,000469,217,894FIXED ASSETSCost 
+ 
+At 1 January 2017 
+Add: Addition and transfer-in 
+ Less: Disposal/write-offAt 31 December 2017Accumulated depreciation 
+At 1 January 2017 
+Add: Charge for the year 
+ Less: Disposal/write-offAt 31 December 2017Net book value 
+At 31 December 2017Office 
+equipment 
+and furnitureComputers and 
+other electronic 
+equipment102,922,152 
+5,509,161 
+(9,144,507)Total232,259,571 
+29,894,271 
+(2,394,560)335,181,723 
+35,403,432 
+(11,539,067)99,286,806259,759,282359,046,08875,999,637 
+8,313,736 
+(8,161,158)76,152,21523,134,591154,463,828 
+29,051,630 
+(2,300,256)230,463,465 
+37,365,366 
+(10,461,414)181,215,202257,367,41778,544,080101,678,67132DBS BANK (CHINA) LIMITED 
+NOTES TO THE FINANCIAL STATEMENTS 
+FOR THE YEAR ENDED 31 DECEMBER 2017 
+(All amounts expressed in RMB unless otherwise stated) 
+[English translation for reference only]FIXED ASSETS(continued)18Cost 
+At 1 January 2016 
+Add: Addition and transfer-in 
+ Less: Disposal/write-offAt 31 December 2016Accumulated depreciation 
+At 1 January 2016 
+Add: Charge for the year 
+ Less: Disposal/write-offAt 31 December 2016Office 
+equipment 
+and furnitureComputers and 
+other electronic 
+equipmentTotal103,337,296 
+6,907,426 
+(7,322,570)208,771,949 
+29,820,426 
+(6,332,804)312,109,245 
+36,727,852 
+(13,655,374)102,922,152232,259,571335,181,72372,359,771 
+9,397,473 
+(5,757,607)129,620,833 
+30,491,309 
+(5,648,314)201,980,604 
+39,888,782 
+(11,405,921)75,999,637154,463,828230,463,465Net book value 
+At 31 December 2016 
+ 
+LONG-TERM PREPAID EXPENSES19As at 1 January 2017 
+Additions 
+  Transfer-out 
+Amortization 
+As at 31 December 2017As at 1 January 2016 
+Additions 
+Transfer-out 
+AmortizationAs at 31 December 201626,922,515Leasehold improvement14,311,267 
+3,748,716 
+(627,841) 
+(6,383,513) 
+11,048,62919,938,910 
+2,063,010 
+(596,866) 
+(7,093,787)14,311,26777,795,743104,718,258OthersTotal311,835 
+- 
+- 
+(28,784) 
+283,051340,619 
+- 
+- 
+(28,784)311,83514,623,102 
+3,748,716 
+(627,841) 
+(6,412,297) 
+11,331,68020,279,529 
+2,063,010 
+(596,866) 
+(7,122,571)14,623,10233DBS BANK (CHINA) LIMITED 
+NOTES TO THE FINANCIAL STATEMENTS 
+FOR THE YEAR ENDED 31 DECEMBER 2017 
+(All amounts expressed in RMB unless otherwise stated) 
+[English translation for reference only] 
+ 
+DEFERRED INCOME TAX ASSETS 
+ 
+Deferred  income  taxes  is  provided  in  full,  using  the  liability  method,  on  temporary  differences  arising 
+between  the  tax  bases  of  assets  and  liabilities  and  their  carrying  amounts  in  the  financial  statements 
+using tax rate of 25% (31 December 2016: 25%). 
+ 
+The movements of deferred taxation are shown as below:At beginning of year 
+Income statement credit (Note 44) 
+Available-for-sale securities  
+    -Fair value measurement(Note 45) 
+Cash flow hedge reserve(Note 45) 
+At end of year2017362,639,053 
+101,285,77717,701,416 
+(457,836) 
+481,168,4102016406,120,475 
+(52,842,412)11,033,025 
+(1,672,035) 
+362,639,05331 December 2016Deferred taxassets229,184,215 
+217,790,267427,70512,030,527 
+89,146,229491,525 
+51,616,789 
+600,687,257Deductible 
+temporary 
+differences916,736,859 
+871,161,0661,710,82148,122,108 
+356,584,9171,966,101 
+206,467,156 
+2,402,749,02831 December 201689,146,229 
+511,541,028 
+600,687,257356,584,917 
+2,046,164,111 
+2,402,749,02820(1)Deferred tax assetsProvision for loan impairment 
+Provision for other impairment 
+Fair value measurement ofShare based incentive planpayment not exercisedAccrued expenses 
+Losses for disposal of fixedassetsTotal losses carry forward31 December 2017Deferred taxassets213,801,260 
+128,735,64712,660,669 
+109,248,079Deductible 
+temporary 
+differences855,205,037 
+514,942,58772,516,48050,642,677 
+436,992,317555,426 
+- 
+483,130,2012,221,705 
+ 
+ 
+- 
+  1,932,520,803available-for-sale securities18,129,120The estimated amount to be recovered comprised:31 December 2017Within 1 year (including 1 year) 
+After 1 year109,248,079 
+373,882,122 
+483,130,201436,992,317 
+  1,495,528,486 
+  1,932,520,80334DBS BANK (CHINA) LIMITED 
+NOTES TO THE FINANCIAL STATEMENTS 
+FOR THE YEAR ENDED 31 DECEMBER 2017 
+(All amounts expressed in RMB unless otherwise stated) 
+[English translation for reference only]DEFERRED INCOME TAX ASSETS(continued) 
+ 
+Deferred tax liabilities31 December 2017Fair  value  measurement  of 
+financial  assets  at  fair  value 
+through profit and lossDeferred taxliabilitiesTaxable 
+temporary 
+differences31 December 2016Deferred taxliabilitiesTaxable 
+temporary 
+differences20 
+ 
+(2)21(1,961,791)(7,847,164)(238,048,204)(952,192,814)The estimated amount to be recovered comprised:Within 1 year (including 1 year)(1,961,791)   
+(1,961,791)(7,847,164)   
+(7,847,164)(238,048,204)   
+(238,048,204)(952,192,814) 
+(952,192,814)(3)The net balances of deferred tax assets and liabilities after offsetting are as follows:Deferred tax assets, netOTHER ASSETSSecurity Deposits & Guarantee fund 
+Receivables from related parties 
+   (Note 52(e)(3)(iii)) 
+Settlement receivables fromcustomersProvision for settlement receivablesfrom  customersNet settlement receivables fromcustomersPrepaid expenses 
+OthersAt 1 January 
+Impairment losses 
+Transfer in provision for non 
+performing loan sell downWrite-off 
+Foreign Exchange difference 
+At 31 December31 December 201731 December 2016481,168,41031 December 20172,584,440,31728,534,316174,344,072(84,119,467)90,224,605 
+13,690,248 
+262,515,0892,979,404,575362,639,05331 December 2016888,682,49523,347,520369,538,075(131,678,081)237,859,994 
+16,636,869 
+242,026,915 
+1,408,553,7932017Provision for settlement 
+receivables from customers2016Provision for settlement 
+receivables from customers131,678,081(6,940,321)- 
+(40,529,025) 
+(89,268)84,119,46735,115,254 
+146,215,549525,261,083 
+(574,736,560) 
+(177,245) 
+131,678,0813522232425DBS BANK (CHINA) LIMITED 
+NOTES TO THE FINANCIAL STATEMENTS 
+FOR THE YEAR ENDED 31 DECEMBER 2017 
+(All amounts expressed in RMB unless otherwise stated) 
+[English translation for reference only]DEPOSITS FROM OTHER BANKS AND FINANCIAL INSTITUTIONSDeposits from domestic financial instituitions 
+Deposits from overseas financial instituitions 
+Deposits from overseas related parties 
+  (Note 52(e)(3)(iv))31 December 2017771,465,177 
+3,961,693,0271,005,293,755 
+5,738,451,95931 December 2016 
+ 
+  2,043,592,801 
+  4,163,759,4772,486,076,208 
+  8,693,428,486BORROWING FROM OTHER BANKSPlacements from domestic banks 
+Placements from overseas related parties 
+  (Note 52(e)(3)(iv))31 December 201731 December 20167,974,295,62527,605,963,505 
+35,580,259,1304,523,084,0007,104,559,459 
+ 11,627,643,459FINANCIAL ASSETS SOLD UNDER REPURCHASE AGREEMENTS 
+ 
+ 
+ 
+Financial assets sold under repurchase 
+agreements designated at fair value 
+through profit or loss, at fair value1,858,576,94431 December 201731 December 20161,970,930,248According to the Bank’s policies, reverse repo and repo transactions conducted by the Bank’s trading 
+desk are managed and evaluated together with other trading portfolios on fair value basis. Therefore, 
+the Bank designated such assets and liabilities as fair value through profit or loss.DUE TO CUSTOMERSAt amortized cost 
+Corporate current deposits 
+Corporate time deposits 
+Retail current deposits 
+Retail time depositsSIPs sold to corporate customers 
+SIPs sold to retail customers31 December 201713,398,719,655 
+22,409,021,506 
+3,073,513,714 
+4,869,130,569 
+6,002,836,973 
+561,745,000 
+50,314,967,41731 December 20169,873,757,996 
+24,945,998,223 
+2,003,237,095 
+4,459,550,725 
+6,469,089,676 
+1,034,155,220 
+48,785,788,9353626272831 December 2016125,681,450 
+5,591,363 
+131,272,81331 December 
+2017122,961,7016,130,269129,091,97031 December 2016- 
+29,261,523 
+6,457,468 
+24,435,737 
+60,154,72831 December 2016338,755,233 
+3,534,24738,430,435494,861 
+381,214,776Increase in 
+current yearDecrease in 
+current year31 December 2017404,331,910DBS BANK (CHINA) LIMITED 
+NOTES TO THE FINANCIAL STATEMENTS 
+FOR THE YEAR ENDED 31 DECEMBER 2017 
+(All amounts expressed in RMB unless otherwise stated) 
+[English translation for reference only] 
+ 
+PAYROLL AND WELFARE PAYABLE 
+ 
+ 
+ 
+Short-term employee benefits 
+Defined contribution plans31 December 2017122,961,701 
+6,130,269 
+129,091,970Short-term employeebenefitsDefined contributionplans31 December 
+2016125,681,4505,591,363131,272,813Additions856,685,641135,434,613992,120,254Deductions(859,405,390)(134,895,707)(994,301,097)TAXES PAYABLECorporate income tax payable 
+ Value added tax and surcharges payable 
+Withholding corporate tax 
+Withholding individual income tax and others31 December 2017142,364,960  
+ 41,187,520  
+ 16,761,397  
+ 25,582,036  
+ 225,895,913INTEREST PAYABLEDue to customers 
+Bonds issued 
+Deposits / borrowing from other banks andfinancial institutionsFinancial assets sold under repurchaseagreements31 December 201631 December 2017356,711,388 
+3,534,24743,216,879869,396 
+404,331,910Interest payable381,214,7761,842,137,779(1,819,020,645)37293031DBS BANK (CHINA) LIMITED 
+NOTES TO THE FINANCIAL STATEMENTS 
+FOR THE YEAR ENDED 31 DECEMBER 2017 
+(All amounts expressed in RMB unless otherwise stated) 
+[English translation for reference only]BONDS  ISSUED 
+ 
+ 
+Negotiable Certificate of Deposit 
+RMB bond31 December 20171,992,099,511  
+ 1,951,926,212    
+ 3,944,025,72331 December 2016 
+598,152,4561,951,858,460 
+2,550,010,916On  17  December  2015,  the  Bank  issued  a  Tier  2  capital  bond  with  notional  amount  of  RMB  2,000 
+million in the PRC inter-bank market. The bond bears interest at annual rate of 4.3% and its maturity 
+date is 17 December 2025. 
+  
+On  24  October  2017,  the  Bank  issued  a  Negotiable  Certificate  of  Deposit  with  notional  amount  of 
+RMB 1,000 million in the PRC inter-bank market. The bond bears interest at annual rate of 4.3085% 
+and its maturity date is 25 January 2018. 
+  
+On 10 November 2017, the Bank issued a Negotiable Certificate of Deposit with  notional amount of 
+RMB 1,000 million in the PRC inter-bank market. The bond bears interest at annual rate of 4.3898% 
+and its maturity date is 13 February 2018. 
+ 
+OTHER LIABLITIES 
+ 
+ 
+ 
+Accrued expenses 
+Payable to overseas related parties 
+  (Note 52(e)(3)(viii)) 
+Settlements payable 
+Unearned commission income31 December 2017269,054,046    
+980,448,224    
+47,544,317708,233,307 
+402,326,661 
+26,330,454213,957,191170,902,90831 December 2016Provision for loss in respect of off-balance sheetcredit exposuresNon-principal protected SIPs – retail customers 
+  MTM Margin from Shanghai Clearing House  
+  OthersPAID-IN CAPITAL 
+ 
+ 
+ 
+Registered and fully paid by DBS Bank265,972,429    
+3,895,471,667    
+ 
+ 
+5,692,796,663- 
+20,348,78994,638,023 
+597,540,538 
+1,666,744,806 
+166,122,749 
+3,832,839,44631 December 20178,000,000,00031 December 20168,000,000,000Pursuant  to  the  approval  from  CBRC  on  9  September  2016  (Hu  Yin  Jian  Fu(2016)  No.382),  DBS 
+Bank  Limited  injected  additional  capital  to  the  Bank  amounted  to  RMB  1.7  billion.  Such  capital 
+injection was verified by PricewaterhouseCoopers Zhong Tian CPAs Limited Company. 
+ 
+Before the additional capital injection, the registered capital of the Bank was RMB 6.3 billion, verified 
+by  Ernst&Young Hua Ming CPAs Company  Limited and  PricewaterhouseCoopers Zhong Tian CPAs 
+Limited Company. 
+ 
+As of 31 December 2017, the paid-in capital of the Bank is equivalent RMB 8.00 billion.38323334DBS BANK (CHINA) LIMITED 
+NOTES TO THE FINANCIAL STATEMENTS 
+FOR THE YEAR ENDED 31 DECEMBER 2017 
+(All amounts expressed in RMB unless otherwise stated) 
+[English translation for reference only]CAPITAL SURPLUS 
+ 
+Upon  approval  from  the  Board  of  Directors,  capital  surplus,  other  than  those  relating  to  receipts  of 
+donated  non-cash  assets  and  equity  investments  held,  can  be  used  to  increase  capital.  Capital 
+surplus arising from receipts of donated non-cash assets and equity investments can only be used to 
+increase capital after the donated assets or investments have been disposed.Transfer of capitalsurplus recognised 
+under the previous 
+accounting systemSURPLUS RESERVE 
+ 
+Reserve FundAt beginning of year 
+Current year additionAt end of year31 December 201731 December 201622,571,34322,571,34331 December 201712,858,325242,634,046255,492,37131 December 2016231,313,487 
+11,320,559242,634,046In  accordance  with  the  Article  167  of  Company  Law  of  PRC  and  the  Company’s  Articles  of 
+Association,  appropriations  from  net  profit  should  be  made  to  the  Reserve  Fund,  after  offsetting 
+accumulated losses from prior years, and before profit distributions to the parent. The percentages to 
+be appropriated to the Reserve Fund are determined by the Board of Directors of the Bank, but should 
+not  be  less  than  10%  of  net  income  after  tax  before  accumulated  Reserve  Fund  reaching  50%  or 
+more  of  the  registered  capital.Upon  approval  from  the  Board of  Directors,  the  Reserve Fund can be 
+used to offset accumulated losses or to increase capital.GENERAL RISK RESERVE31 December 201731 December 2016At beginning of year 
+Current year addition 
+At end of year990,800,000 
+6,000,000 
+996,800,000945,200,000 
+45,600,000 
+990,800,000 
+ 
+ 
+Pursuant to Circular Caijin No.49 issued by MOF in 2005, banks and certain other financial institutions 
+in  the  PRC,  are  required  to  maintain  adequate  allowances  for  impairment  losses  against  their  risk 
+assets. In addition, a general risk reserve should be established through the appropriation of retained 
+earnings. This general risk reserve should form part of the owner’s equity of financial institutions. As a 
+guiding  principle,  the  balance  of  general  risk  reserve  should  not  be  less  than  1%  of  the  aggregate 
+amount  of  all  risk  assets.  On  17  April  2012,  MOF  issued  Circular  Caijin  No.20,  which  supersedes 
+Circular  Caijin  No.49  and  raises  the  minimum  level  of  general  risk  reserve  to  1.5%  of  aggregated 
+amount of all risk assets, which should be fulfilled in the next five years since July 2012. 
+ 
+On  7  February  2017,  the  directors  approved  the  appropriation  to  the  Bank’s  general  risk  reserve 
+amounting to RMB 6 million in accordance with Circular Caijin No.20 issued in 2012. The general risk 
+reserve after this appropriation amounts to RMB 996.8 million.393536DBS BANK (CHINA) LIMITED 
+NOTES TO THE FINANCIAL STATEMENTS 
+FOR THE YEAR ENDED 31 DECEMBER 2017 
+(All amounts expressed in RMB unless otherwise stated) 
+[English translation for reference only]UNDISTRIBUTED PROFITS 
+ 
+On  31  January  2018,  the  directors  approved  the  appropriation  to  the  Bank’s  general  risk  reserve 
+amounting of RMB 238.1 million, in accordance with Circular Caijin No.20 issued in 2012.201720161,937,689,430490,653,887 
+891,789,124 
+116,342,713 
+85,013,729 
+12,860,5556,781,664 
+- 
+3,541,131,102(649,382,096) 
+(1,050,765,365) 
+(87,416,442)(54,573,876) 
+(1,842,137,779)1,698,993,3232017497,435,5513,043,695,551(54,573,876)(1,787,563,903) 
+1,698,993,3231,822,730,073177,281,180 
+649,633,745 
+101,612,310 
+74,136,108 
+9,475,9583,774,113 
+1,618,272 
+2,840,261,759(312,074,914) 
+(1,062,234,247) 
+(93,158,214)(49,268,604) 
+(1,516,735,979)1,323,525,7802016181,055,2932,659,206,466(49,268,604)(1,467,467,375) 
+1,323,525,780NET INTEREST INCOMEInterest income:Loans and advances 
+Financial assets at fair value through profit orlossDue from other banks and financial institutions 
+Deposits with the central bank 
+Investment securities – available- for-sale 
+Investment securities - loans and receivables 
+Financial assets purchased under resaleagreementsOthersInterest expense:Due to other banks and financial institutions 
+Due to customers 
+Bonds issued 
+Financial assets sold under repurchaseagreementsNet interest incomeComprisingInterest income for financial assets at fairvalue through profit or lossInterest income for financial assets not atfair value through profit or lossInterest expense for financial liabilities atfair value through profit or lossInterest expense for financial liabilities notat fair value through profit or loss4037383940DBS BANK (CHINA) LIMITED 
+NOTES TO THE FINANCIAL STATEMENTS 
+FOR THE YEAR ENDED 31 DECEMBER 2017 
+(All amounts expressed in RMB unless otherwise stated) 
+[English translation for reference only]NET FEE AND COMMISSION INCOMEFee and commission incomeLoan and trade related fee 
+Wealth management fee 
+Treasury advisory feeSyndication fee 
+   Cash Management fee 
+   OthersFee and commission expenseSettlement and clearing fees, brokerageexpensesNet fee and commission incomeINVESTMENT GAINS 
+ 
+ 
+ 
+Financial assets at fair value through profit orlossInvestment securities –available-for-saleFAIR VALUE GAINS 
+ 
+ 
+ 
+Net unrealized gains on financial assets purchasedunder resale and sold under repurchase 
+agreementsNet unrealized gains on financial assets at fair valuethrough profit or lossNet unrealized losses/ gains on derivativeinstruments2017 
+ 
+ 
+121,400,048 
+73,624,297 
+47,679,661 
+20,954,865 
+16,114,789 
+18,415,553 
+298,189,213(86,503,912)211,685,3012017(5,915,255) 
+- 
+(5,915,255)201743,292(34,460,765)(908,705,064) 
+(943,122,537)2016178,548,131 
+62,847,442 
+46,361,702 
+39,299,035 
+13,464,095 
+17,273,940 
+357,794,345(69,311,761)288,482,584201696,350,644 
+22,316,582 
+118,667,226201674,40333,015,060784,099,421817,188,884NET GAINS/(LOSS) FROM FOREIGN EXCHANGE AND DERIVATIVE TRANSACTIONS 
+ 
+ 
+ 
+Net gains/(losses) from foreign exchange and20172016derivatives transactions1,144,068,855(339,911,474)41DBS BANK (CHINA) LIMITED 
+NOTES TO THE FINANCIAL STATEMENTS 
+FOR THE YEAR ENDED 31 DECEMBER 2017 
+(All amounts expressed in RMB unless otherwise stated) 
+[English translation for reference only] 
+ 
+NET GAINS/(LOSS) FROM FOREIGN EXCHANGE AND DERIVATIVE TRANSACTIONS 
+(continued) 
+ 
+ 
+For the year ended 31 December 2017, the Bank's net gains/(losses) from foreign exchange and 
+derivative  transactions  are  disclosed  separately  in  the  Income  Statement.  The  amount  include 
+remittence  income  from  foreign  exchange  related  businesses,  the  realized  profits/(losses)  and 
+unrealized  profits/(losses)  from  fair  value  changes  of  foreign  exchange  derivative  financial 
+instruments,  and  exchange  profits/(losses)  from  translation  of  foreign  currency  monetary  assets 
+and liabilities.OTHER INCOMEFinancial talents award 
+New regional financial institution subsidies20177,160,000 
+2,000,000 
+9,160,0002016- 
+- 
+-According to  ‘the Notice of Revision of  Enterprise's General Financial  Statement Format’ issued in 
+December  2017  (Cai  Kuai  [2017]  30),  and  'the  Interpretation  of  Questions  about  Enterprise's 
+General  Financial  Statement  Format'  issued  on  12  January  2018,  the  comparative  financial 
+statements for the year ended 31 December 2016 do not need to be restated.GENERAL AND ADMINISTRATIVE EXPENSES2017799,962,738 
+192,157,516 
+25,581,869 
+227,155,831 
+164,892,757 
+43,777,663 
+23,144,669 
+12,140,129 
+1,188,474 
+144,171,1431,634,172,7892017129,354,855 
+176,342,786- 
+(13,566,130) 
+(6,940,321)4,364,634 
+289,555,8242016827,751,956  
+202,181,462  
+26,323,884  
+218,027,584  
+182,683,810  
+47,011,353  
+20,853,096  
+11,810,703  
+4,455,062  
+150,712,2851,691,811,1952016(447,569,116) 
+94,638,023525,261,083 
+(39,897,793) 
+146,215,549(2,028,198) 
+276,619,548Salaries and bonus 
+Social insurance and other welfare benefits 
+Share-based compensation plan 
+Telecommunications and computers 
+Rental and utilities  
+Depreciation and amortization 
+Travelling expenses 
+Business entertainment expenses 
+Staff training expenses 
+OthersASSET IMPAIRMENT  LOSSES 
+ 
+ 
+ 
+Impairment losses on loans and advances    
+(Note 15(5)) 
+Impairement losses on contingent liabilities 
+Impairment losses on other assets for non-
+performing assets sell down (Note 21) 
+Recovery of loans previously written-off 
+Impairment losses on other assets(Note 21) 
+Impairment losses on investment securities  
+   -loans and receivables4240414243DBS BANK (CHINA) LIMITED 
+NOTES TO THE FINANCIAL STATEMENTS 
+FOR THE YEAR ENDED 31 DECEMBER 2017 
+(All amounts expressed in RMB unless otherwise stated) 
+[English translation for reference only]INCOME TAXCurrent income tax 
+Deferred income tax (Note 20)Profit before income tax 
+ 
+Income tax calculated at 25% (2016: 25%) 
+Annual tax filing differences 
+Non-taxable income 
+Non-deductible expenses 
+Others44The  actual  income  tax  expense  differs  from  the  theoretical  amount  that  would  arise  using  the 
+standard tax rate of 25%:201720162017154,455,870  
+(101,285,777)53,170,093181,753,342 
+ 
+45,438,336 
+(9,317) 
+(10,257,679) 
+18,497,838 
+(499,085) 
+53,170,0932016(4,643,323) 
+52,842,412 
+48,199,089161,404,67840,351,170 
+(739,715) 
+(3,104,808) 
+11,890,217 
+(197,775) 
+48,199,08945  OTHER COMPREHENSIVE INCOME(1)  Other  comprehensive  income,  its  impact  on  income  tax  and  the  status  of  reclassifying  to  profit  orlossAmount before taxIncome taxNet after tax2017Other comprehensive income items 
+which will  be reclassified 
+subsequently to profit or lossGains or losses arising from changes in 
+fair value of available-for-sale financial 
+assetsCash flow hedge reserve 
+Less: Reclassification of other 
+comprehensive income to profit or loss(70,805,659)17,701,415(53,104,244)99,851,833(24,962,958)74,888,875(98,020,492)24,505,123(73,515,369)Total other comprehensive income(68,974,318)17,243,580(51,730,738)43DBS BANK (CHINA) LIMITED 
+NOTES TO THE FINANCIAL STATEMENTS 
+FOR THE YEAR ENDED 31 DECEMBER 2017 
+(All amounts expressed in RMB unless otherwise stated) 
+[English translation for reference only]45  OTHER COMPREHENSIVE INCOME(continued)Amount before tax2016 
+Income taxNet after taxOther comprehensive income itemswhich will be reclassified 
+subsequently to profit or loss 
+Gains or losses arising from changesin fair value of available-for-sale 
+financial assetsCash flow hedge reserve 
+Less: Reclassification of othercomprehensive income to 
+profit or lossTotal other comprehensive income(2)  Reconciliation of other comprehensive income31 December 2015Movements for the year ended 31December 201631 December 2016 
+ 
+Movements for the year ended 31 
+December 2017 
+ 
+31 December 201711,282,901(1,672,035)(33,848,702)5,016,105(249,876) 
+ 
+9,360,990749,628 
+ 
+(28,082,969)Cash flow 
+hedge-5,016,105 
+ 
+5,016,1051,373,506 
+ 
+6,389,611Total other 
+comprehensive 
+ income31,815,959(28,082,969) 
+ 
+3,732,990(51,730,738) 
+ 
+(47,997,748)(45,131,603)6,688,140999,504 
+ 
+(37,443,959)Gains or losses 
+arising from changes 
+in fair value of 
+available-for-sale 
+financial assets31,815,959(33,099,074) 
+ 
+(1,283,115)(53,104,244) 
+ 
+(54,387,359)46  NOTES TO THE STATEMENT OF CASH FLOWS  
+ 
+(1)  Cash and cash equivalentsCash (Note 8) 
+Balances with the PBOC other than restrictedreserve deposits (Note 8)Deposits with other banks with original terms lessthan three months from acquisition date6,338,312,506Placements with financial institutions with originalterms less than three months from acquisition date445,335,308,000 
+17,298,069,78131 December 201731 December 201641,017,1495,583,432,12653,689,1215,389,065,6065,144,247,8205,136,932,000 
+15,723,934,547DBS BANK (CHINA) LIMITED 
+NOTES TO THE FINANCIAL STATEMENTS 
+FOR THE YEAR ENDED 31 DECEMBER 2017 
+(All amounts expressed in RMB unless otherwise stated) 
+[English translation for reference only]NOTES TO THE STATEMENT OF CASH FLOWS (continued)Cash flows from operating activities46(2)Net profitNotes43 
+423638 
+ 
+ 
+3944Adjusted by: 
+ 
+  Depreciation and amortizationImpairment charge for asset lossesInterest income for investment securities –available-for-sale and Investment 
+securities - loans and receivablesGains for investment securities –available-for-saleLosses on retirement of fixed assetsInterest expenses of bonds issued 
+  Loss /(gain) from fair value change(Increase)/Decrease in deferred income(3)tax assets(Increase)/Decrease in operatingreceivablesIncrease/(Decrease) in operating payablesNet cash provided /(used) fromoperating activitiesNet increase in cash and cash equivalents:Cash and cash equivalents at end of year 
+Less: cash and cash equivalents atbeginning of yearNet increase /(decrease) in cash and cashequivalentsCONTINGENT LIABILITIES AND COMMITMENTS47 
+ 
+(1)  Off-balance sheet items2016 
+ 
+113,205,589 
+ 
+316,517,341 
+47,011,353(83,612,066)(22,316,582) 
+1,321,654 
+93,158,214 
+(817,188,884)2017128,583,249 
+ 
+303,121,954 
+43,777,663(97,874,284)- 
+1,077,653 
+87,416,442 
+943,122,537(101,285,777)52,842,412(25,561,477,509) 
+25,807,206,5791,553,668,50717,298,069,781(15,723,934,547)1,574,135,234(218,597,889) 
+(3,260,885,723)(3,778,544,581)15,723,934,547(17,611,422,317)(1,887,487,770)Letters of credit issued  
+Standby letter of credit 
+Letters of guarantee issued 
+Irrevocable loan commitment 
+Bank acceptances 
+Letters of credit confirmation31 December 201731 December 20163,327,277,162    
+          4,365,485,792    
+924,197,154    
+          1,801,408,829    
+          2,381,848,691    
+              30,316,263    
+12,830,533,8913,442,944,799  
+ 8,287,686,672  
+ 2,230,085,195  
+ 3,379,431,431  
+ 2,376,076,932  
+ 23,363,087  
+ 19,739,588,11645DBS BANK (CHINA) LIMITED 
+NOTES TO THE FINANCIAL STATEMENTS 
+FOR THE YEAR ENDED 31 DECEMBER 2017 
+(All amounts expressed in RMB unless otherwise stated) 
+[English translation for reference only]CONTINGENT LIABILITIES AND COMMITMENTS (continued)47 
+ 
+(2)  Operating lease commitments(3)(4)Future minimum lease payments under non-cancelable operating leases in respect of office premises 
+are as follows: 
+ 
+ 
+ 
+Within 1 year  
+Over 1 year less than 2 years 
+Over 2 year less than 3 years 
+Over 3 years167,423,808 
+80,380,097 
+39,076,686 
+3,212,589 
+290,093,180156,983,519 
+117,002,863 
+75,064,465 
+8,307,16531 December 201731 December 2016357,358,012Legal proceedings 
+ 
+At  31  December  2017,  there  was  no  significant  legal  proceeding  against  the  Bank  (31  December 
+2016: nil). 
+ 
+Capital commitments 
+ 
+As  at  31  December  2017,  the  Bank  has  no  significant  capital  commitments  which  require  separate 
+disclosure (31 December 2016: nil).48SUBSEQUENT EVENTSOn  31  January  2018,  the  directors  approved  the  appropriation  to  the  Bank's  general  risk  reserve 
+amounting of RMB 238.1 million, in accordance with Circular Caijin No.20 issued in 2012. The general 
+risk reserve after this appropriation amounts to RMB 1,234.9 million. 
+ 
+The  Ministry  of  Finance  revised  and  issued  CAS  22  (Recognition  and  Measurement  of  Financial 
+Instruments),  CAS  23  (Financial  Instruments  Transfer),  CAS  24  (Hedge  Accounting)  and  CAS  37 
+(Presentation  of  Financial  Instruments),  requiring  non-listed  companies  to  apply  new  CAS  from  1 
+January  2021,  and  early  implementation  is  encouraged.  The  Bank  has  decided  to  early  adoption  of 
+the above accounting standards from 1 January 2018. 
+ 
+According to the new financial instruments guidelines, companies do  not have to revise the previous 
+comparable  figures  but  the  opening  balance  of  retained  earnings  or  other  comprehensive  income 
+need  retrospective  adjustment.  Therefore,  from  2018,  the  Bank  will  disclose  the  accounting 
+statements according to the new CAS. The Bank does not need to restate the comparable figures for 
+2017 but only need to adjust the retained earnings and other comprehensive income of the beginning 
+balance of 2018.46DBS BANK (CHINA) LIMITED 
+ 
+NOTES TO THE FINANCIAL STATEMENTS 
+FOR THE YEAR ENDED 31 DECEMBER 2017 
+(All amounts expressed in RMB unless otherwise stated) 
+[English translation for reference only]49 
+ 
+RMB(’thousand) 
+31 December 2017 
+ 
+Interest income 
+Interest expense 
+Net interest incomeFee and commissionincomeFee and commissionexpensesNet fee and commission 
+incomeOther operating income 
+Operating expenses 
+Non-operatingincome/(losses)Total profit/(loss) beforetaxLoans and advances, 
+ 
+net 
+Total assetsDue to customers 
+Total liabilitiesImpairment (reversals)/charge for credit lossesDepreciation and 
+amortizationCapital expenditureSEGMENT INFORMATION 
+ 
+ 
+ShanghaiHead officeBeijingShenzhen  GuangzhouSuzhou  ChongqingTianjinNanning243,474 
+(143,820) 
+99,6543,217,483 
+(2,306,996) 
+910,487568,462 
+(278,190) 
+290,272608,715 
+(479,093) 
+129,622224,015 
+(163,529) 
+60,48681,868 
+(42,661) 
+39,20771,294 
+(27,442) 
+43,85234,739 
+(23,148) 
+11,59141,459 
+(18,313) 
+23,146OthersElimination231,136 
+(140,460) 
+90,676(1,781,514) 
+1,781,514 
+--135,06177,43614,94439,2933,56310,3962,453(3)(85,551)(322)(426)(124)(8)(1)(24)60(2)(3) 
+ 
+(87,945) 
+(156,585)49,510 
+ 
+242,149 
+(903,760)77,114 
+ 
+42,114 
+(262,688)14,518493  
+(132,480)39,169 
+ 
+ (12,699) 
+(84,315)3,5559,820  
+(18,669)10,395 
+ 
+7,229 
+(19,747)2,4291,765  
+(289,937)58 
+ 
+(68) 
+(7,311)4,395(314)(81)1,014(127)(399)69(215)-(140,484)298,072146,73113,1672,51433,51441,798(274,367)15,82514,983(43)14,9408,290  
+(68,639)(282)44,985--- 
+ 
+- 
+---Total3,541,131 
+(1,842,138) 
+1,698,993298,189(86,504)211,685 
+ 
+211,148 
+(1,944,131)4,060181,755-  27,690,303 
+ 6,789,730   97,902,473 
+ 
+(27,085,519)4,716,491 
+ 13,670,285  
+ 
+(9,787,255) 
+(2,450,184)   (95,276,555)  (12,638,852)-2,981,115 
+ 7,801,057  
+ 
+(4,883,414) 
+(6,838,733)-529 
+ 
+-(39,787)30,077(1,126)32,824 
+ 
+32,3205,596 
+ 
+4,316422 
+ 
+2102,303,140 
+ 3,049,787  
+ 
+(2,295,743) 
+(2,586,336)1,032,837 
+ 2,326,863  
+ 
+(1,935,398) 
+(2,000,406)1,214,890 
+ 1,512,399  
+ 
+(684,717)551,138 
+ 822,091  
+ 
+(334,441) 
+(1,179,906)   (1,032,812)2,935,450 
+820,378 
+ 4,845,885  
+ 824,997  
+ 
+ 
+(366,376) 
+(2,942,104) 
+(719,155)    (4,293,131)- 
+ (15,592,972) 
+ 
+-44,245,742 
+ 123,952,595  
+ 
+(50,314,967) 
+ 15,592,972    (113,423,098)3,604114 
+ 
+224(4,403)270,0471,416105 
+ 
+-519 
+ 
+1,646443 
+ 
+-15,0501,834 
+ 
+74-- 
+ 
+-289,55643,778 
+ 
+39,15214,6781,392 
+ 
+36247DBS BANK (CHINA) LIMITED 
+ 
+NOTES TO THE FINANCIAL STATEMENTS 
+FOR THE YEAR ENDED 31 DECEMBER 2017 
+(All amounts expressed in RMB unless otherwise stated) 
+[English translation for reference only]49 
+ 
+RMB(’thousand) 
+31 December 2016 
+ 
+Interes tincome 
+Interest expense 
+Net interest incomeFee and commissionincomeFee and commissionexpenses 
+Net fee andcommission incomeOther operating income 
+Operating expenses 
+Non-operatingincome/(losses)Total profit/(loss)before taxLoans and advances,netTotal assetsDue to customers 
+Total liabilitiesImpairment (reversals)/charge for credit 
+lossesDepreciation andamortizationCapital expenditureSEGMENT INFORMATION(continued)HeadofficeShanghai185,738 
+(138,617) 
+47,1212,531,141 
+(1,896,704) 
+634,437BeijingShenzhenGuangzhouSuzhou  ChongqingTianjinNanningOthers  Elimination483,548 
+(277,086) 
+206,462626,770 
+(474,033) 
+152,737229,488 
+(163,778) 
+65,71081,471 
+(41,314) 
+40,157118,982 
+(47,112) 
+71,87041,719 
+(24,976) 
+16,74347,390 
+(27,443) 
+19,947192,467 
+(124,125) 
+68,342(1,698,452) 
+1,698,452 
+--(1)(1) 
+ 
+99,005 
+(160,985)7,390(7,470)180,49661,36828,58213,02813,97318,6113,2832,10436,349(68,551)(203)(317)(135)(8)(23)(26)(3)(45)111,945 
+ 
+361,313 
+(850,561)3,416260,55061,165 
+ 
+47,707 
+(296,728)28,265 
+ 
+25,146 
+(200,625)(862)17,7441055,62812,893 
+ 
+28,478 
+(101,372)(187)5,52213,965 
+ 
+15,514 
+(20,581)(701)48,35418,588 
+ 
+12,205 
+(12,543)3,257 
+ 
+5,115 
+(258,295)247462,101 
+ 
+339 
+(91,497)22936,304 
+ 
+8,946 
+(70,880)1290,367(233,134)(68,881)42,724--- 
+ 
+- 
+---- 
+6,810,593 
+ 
+- 
+(2,294,783)20,721,606 
+69,945,464 
+ 
+(25,367,326) 
+(67,548,497)4,431,843 
+12,232,061 
+ 
+(8,003,794) 
+(11,347,358)4,865,261 
+8,083,486 
+ 
+(6,988,776) 
+(7,134,331)1,937,490 
+3,593,531 
+ 
+(1,502,927) 
+(3,132,593)635,093 
+2,505,237 
+ 
+(2,168,191) 
+(2,212,293)1,554,663 
+1,970,210 
+ 
+(1,009,037) 
+(1,679,516)351,997 
+641,222 
+ 
+(339,356) 
+(577,574)771,526 
+777,226 
+ 
+(430,546) 
+(687,209)-(14,900,141)2,435,194 
+5,026,838 
+ 
+ 
+(2,975,836) 
+- 
+(4,519,070)  14,900,141Total2,840,262 
+(1,516,736) 
+1,323,526357,794(69,312)288,482 
+ 
+603,768 
+(2,064,067)9,695161,40437,704,673 
+96,685,727 
+ 
+(48,785,789) 
+(86,233,083)-(154,771)590 
+ 
+(1,706)34,144 
+ 
+29,95477,3166,124 
+ 
+1,44848,371985 
+ 
+23018,2231,356 
+ 
+3,93248(7,853)(18,550)234,02776,986181 
+ 
+9649 
+ 
+1,024519 
+ 
+-430 
+ 
+922,8712,033 
+ 
+3,808-- 
+ 
+-276,62047,011 
+ 
+38,791DBS BANK (CHINA) LIMITED 
+ 
+NOTES TO THE FINANCIAL STATEMENTS 
+FOR THE YEAR ENDED 31 DECEMBER 2017 
+(All amounts expressed in RMB unless otherwise stated) 
+[English translation for reference only] 
+ 
+SEGMENT INFORMATION(continued) 
+ 
+Geographical Information 
+ 
+The Bank’s revenue from external customers is mainly from mainland China for 2017 and 2016. 
+As at 31 December 2017 and 2016, all non-current assets of the Bank are located in mainland 
+China.Business combinations 
+ 
+Business combination involving enterprise not under common control 
+ 
+On 15 July 2017, the Bank acquired the retail banking business of Australian and New Zealand 
+Bank (China) Company Limited in China for RMB 1,421 million, the fair value of the acquired 
+business. This is part of DBS Bank Ltd's agreed acquisition of the wealth management and retail 
+banking businesses of ANZ in Singapore, Hong Kong, China, Taiwan and Indonesia. The 
+acquisition of the businesses in each jurisdiction is independent from each other.  As at 31 
+December 2017, the Bank completed this acquisition.  
+ 
+The assets and liabilities of ANZ China at the acquisition date relating to the acquisition are as 
+follows: 
+ 
+ 
+ 
+Assets  
+ 
+Loans and advances, net 
+Accrued Interest and other fees/accrued 
+receivables 
+Total Assets 
+ 
+Liabilities 
+ 
+Customer Deposits 
+Accrued Interest and other accrued payables 
+Other liabilities 
+Total Liabilities 
+ 
+NET FINANCIAL ASSETS 
+ 
+Details of net assets obtained and goodwill recognised are as follows: 
+ 
+Cash paid 
+Less: Fair value of the identifiable net assets obtained 
+Less: Interest expense relating to this acquisition 
+Less: Foreign exchange 
+Total8,659,148 
+2,779,433,607 
+ 
+ 
+ 
+(1,351,249,311) 
+(4,937,900) 
+(1,747,107) 
+(1,357,934,318) 
+ 
+1,421,499,2898,659,148 
+2,779,433,607 
+ 
+ 
+ 
+(1,351,249,311) 
+(4,937,900) 
+(1,747,107) 
+(1,357,934,318) 
+ 
+1,421,499,2891,420,825,477 
+(1,421,499,289) 
+(509,679) 
+1,183,491 
+-Fair value 
+Acquisition date 
+ 
+ 
+2,770,774,459Carrying amount 
+Acquisition date2,770,774,4594950 
+ 
+(1)4951DBS BANK (CHINA) LIMITED 
+ 
+NOTES TO THE FINANCIAL STATEMENTS 
+FOR THE YEAR ENDED 31 DECEMBER 2017 
+(All amounts expressed in RMB unless otherwise stated) 
+[English translation for reference only] 
+ 
+Share-based Compensation Plans 
+ 
+The  Bank  provides  various  share-based  compensation  plans  to  foster  a  culture  that  aligns 
+employees’  interests  with  shareholders,  enable  employees  to  share  in  the  bank’s  performance 
+and enhance talent retention. 
+ 
+DBSH Share Plan (Share Plan)  The  Share  Plan  is  granted  to  the  Bank‘s  executives  as  determined  by  the  Committeeappointed to administer the Share Plan from time to time.  Participants are awarded equivalent cash value of shares of the Group Company 
+  Awards  consist  of  main  award  and  retention  award  (20%  of  main  award).  Dividends  onunvested shares do not accrue to employees.  The vesting of main award is staggered between 2 to 4 years after grant i.e. 33% will vest 
+2  years  after grant;  another 33%  will  vest on the third  year  and the remaining 34% plus 
+the retention award will vest 4 years after grant.  The  market  price  of  shares  on  the  grant  date  is  used  to  estimate  the  fair  value  of  theshares awarded.  Vested and unvested shares are subject to clawback/malus. Conditions that trigger suchclawback/malus are in the Corporate Governance section of the Group Annual Report.  Shares are awarded to non-executive directors as part of director’s remuneration. Details 
+of these awards are disclosed in the Corporate Governance section of the Group Annual 
+Report.DBSH Employee Share Plan (ESP)  The  ESP  caters  to  employees  not  eligible  to  participate  in  the  above  listed  Share  Plan. 
+Eligible  employees  are  awarded  ordinary  shares  of  the  Company,  their  equivalent  cash 
+value  or  a  combination  of  both  (at  the  discretion  of  the  Committee),  when  time-based 
+conditions are met.  The awards structure and vesting conditions are similar to Share Plan. 
+  There  are  no  additional  retention  awards  for  shares  granted  to  top  performers  and  keyemployees.  However,  in  specific  cases  where  the  award  forms  part  of  an  employee’s  annual 
+performance  remuneration,  the  retention  award  which  constitutes  20%  of  the  shares 
+given  in  the  main  award  will  be  granted.  The  shares  in  the  retention  award  will  vest  4 
+years after the date of grant. For such cases, vested and unvested shares are subject to 
+clawback/malus.  Conditions  that  trigger  such  clawback/malus  are  in  the  Corporate 
+Governance section of the Group Annual Report.Number of shares 
+ 
+Balance at 1 January 
+Granted 
+Transfer 
+Vested 
+Forfeited 
+Balance at 31 December 
+Weighted average fair value of the shares 
+granted during the year2017Share Plan 
+ 
+432,738 
+188,838 
+386,430 
+(212,305) 
+(27,348) 
+768,353ESP195,686 
+75,500 
+(98) 
+(50,815) 
+(30,411) 
+189,8622016Share Plan747,628 
+204,899 
+(400,390) 
+(91,311) 
+(28,088) 
+432,738ESP173,822 
+101,900 
+(510) 
+(47,036) 
+(32,490) 
+195,686SGD 18.58  SGD 18.58SGD 13.69  SGD13.6950DBS BANK (CHINA) LIMITED 
+ 
+NOTES TO THE FINANCIAL STATEMENTS 
+FOR THE YEAR ENDED 31 DECEMBER 2017 
+(All amounts expressed in RMB unless otherwise stated) 
+[English translation for reference only]52RELATED PARTY RELATIONSHIPS AND TRANSACTIONSRelated parties who control the Bank or are controlled by the BankRegisteredRelationsRegisteredChairman ofName of entitylocationMain businesswith the bankcapitalthe BoardDBS Bank Ltd.SingaporeBanking andfinancial serviceParentcompanySGD 24,452Peter SeahmillionLim HuatDBS Group Holding Ltd., incorporated in Singapore, is the ultimate parent company of the Bank.Registered capital of related parties which control the Bank or are controlled by the Bank and their 
+changes 
+ 
+Name of entity31 December 201631 December 2017Change(a)(b)(c)DBS Bank Ltd.SGD 24,146  MillionSGD 306  MillionSGD 24,452 MillionShares of interest of related parties who control the Bank or are controlled by the Bank and their 
+changes 
+ 
+Name of entity31 December 201631 December 2017ChangeAmount%RMBAmount%AmountRMB%DBS Bank Ltd.8.0 Billion100--8.0 Billion100Related Entity(d)  Nature of related parties which do not control the Bank or are controlled by the Bank 
+ 
+(1)Names of related parties 
+ 
+DBS Bank (Hong Kong) Limited 
+DBS Bank (Tai Wan) Limited 
+DBS Vickers (Hong Kong) Limited  
+DBS Investment and Financial AdvisoryRelationship with the Bank 
+ 
+Company controlled by the parent company 
+Company controlled by the parent company 
+Company controlled by the parent company(2)(e) 
+ 
+(1)Company LimitedCompany controlled by the parent companyRelated Person 
+ 
+The  term  key  management  refer  to  people  who  have  the  power  and  responsibility  to  directly  or 
+indirectly plan, direct or control the business of our group, including but not limited to directors and 
+senior management. 
+ 
+Related party transactions 
+ 
+Pricing policy 
+ 
+The major transactions entered into by the Bank with its related parties are inter-bank borrowing 
+and  lending,  and  derivative  transactions.  The  terms  of  inter-bank  borrowing  and  lending,  and 
+derivative  transactions  with  related  parties  follow  commercial  terms  arranged  in  the  ordinary 
+course of the Bank’s business. The service charges were either based on the actual cost incurred 
+by related parties with no mark-up or actual cost plus a mark-up. Majority of service charges were 
+based on actual cost plus a mark-up of 7%.51DBS BANK (CHINA) LIMITED 
+ 
+NOTES TO THE FINANCIAL STATEMENTS 
+FOR THE YEAR ENDED 31 DECEMBER 2017 
+(All amounts expressed in RMB unless otherwise stated) 
+[English translation for reference only]RELATED PARTY RELATIONSHIPS AND TRANSACTIONS(continued) 
+ 
+Related party transactions (continued) 
+ 
+Significant related party transactions 
+ 
+(i) Interest income2016(113,480,460) 
+ -    
+ (113,480,460)(iii) Net gains/(losses) from foreign exchange and derivative transactions 
+ 
+ 
+DBS Bank Ltd. 
+DBS Bank (Hong Kong) Limited 
+ 
+ 
+ 
+ 
+(iv) Fair value gains/losses 
+2016 
+ 
+ 
+ 
+ 208,361,064  
+DBS Bank Ltd. 
+ - 
+DBS Bank (Hong Kong) Limited 
+ 208,361,064  
+ 
+ 
+ 
+ 
+(v) Service charge income 
+ 
+ 
+2016 
+ 
+ 
+ 
+ 4,690,074 
+DBS Bank Ltd. 
+ 1,850,306 
+DBS Bank (Hong Kong) Limited 
+ 6,540,380 
+ 
+ 
+ 
+ 
+(vi) Service charge expense 
+ 
+ 
+2016 
+ 
+ 
+ 
+ 91,875,547 
+DBS Bank Ltd. 
+ 9,239,720 
+DBS Bank (Hong Kong) Limited 
+ 101,115,267 
+ 
+ 
+ 
+The service charge is mainly related to technology service support provided by related parties.2017 
+ 
+ 670,601,990  
+ (589,009) 
+ 670,012,981  
+ 
+ 
+2017 
+ 
+ (50,438,310) 
+ - 
+ (50,438,310) 
+ 
+ 
+ 
+2017 
+ 
+ 13,762,058 
+ 1,785,414 
+ 15,547,472 
+ 
+ 
+ 
+2017 
+ 
+96,350,698 
+6,082,753 
+ 102,433,45152DBS Bank Ltd. 
+DBS Bank (Hong Kong) Limited 
+ 
+ 
+(ii) Interest expenseDBS Bank Ltd. 
+DBS Bank (Hong Kong) Limited2016 
+ 
+20,698,146  
+- 
+20,698,146  
+ 
+ 
+ 
+2016 
+ 
+225,509,882 
+41,284,635 
+  266,794,5172017 
+ 
+21,980,495 
+514,613 
+22,495,108 
+ 
+ 
+ 
+2017 
+ 
+272,963,065 
+41,287,378 
+314,250,44352 
+ 
+(e) 
+ 
+(2)52 
+ 
+(e) 
+ 
+(3)31 December 2016 
+ 
+3,993,356,858 
+128,943,594 
+4,122,300,45231 December 2016 
+ 
+649,85931 December 2016 
+ 
+ 22,270,008  
+ 159,201  
+ 918,311  
+ 23,347,52031 December 20169,577,702,829 
+10,893,372 
+- 
+2,039,466 
+9,590,635,667DBS BANK (CHINA) LIMITED 
+ 
+NOTES TO THE FINANCIAL STATEMENTS 
+FOR THE YEAR ENDED 31 DECEMBER 2017 
+(All amounts expressed in RMB unless otherwise stated) 
+[English translation for reference only]RELATED PARTY RELATIONSHIPS AND TRANSACTIONS(continued) 
+ 
+Related party transactions (continued) 
+ 
+Balances with related parties 
+ 
+(i) Due from other financial institution 
+ 
+ 
+ 
+DBS Bank Ltd. 
+DBS Bank (Hong Kong) Limited31 December 2017 
+ 
+ 3,581,872,569  
+ 182,952,803  
+ 3,764,825,372(ii) Interest receivable 
+ 
+ 
+ 
+DBS Bank Ltd.31 December 2017 
+ 
+954,95731 December 2017 
+ 
+ 27,078,077  
+ 154,895  
+ 1,301,344  
+ 28,534,316(iii) Other receivables 
+ 
+ 
+ 
+DBS Bank Ltd. 
+DBS Bank (Tai Wan) Limited 
+DBS Bank (Hong Kong) Limited 
+ 
+ 
+(iv) Deposits / borrowing from other financial institution 
+ 
+ 
+ 
+DBS Bank Ltd. 
+DBS Bank (Hong Kong) Limited 
+DBS Vickers (Hong Kong) Limited31 December 2017 
+ 
+28,522,762,477 
+ 87,022,001  
+ 77,790  
+ 1,394,992  
+28,611,257,260DBS Bank (Tai Wan) Limited53DBS BANK (CHINA) LIMITED 
+ 
+NOTES TO THE FINANCIAL STATEMENTS 
+FOR THE YEAR ENDED 31 DECEMBER 2017 
+(All amounts expressed in RMB unless otherwise stated) 
+[English translation for reference only] 
+ 
+RELATED PARTY RELATIONSHIPS AND TRANSACTIONS(continued) 
+ 
+Related party transactions (continued) 
+ 
+Balances with related parties (continued) 
+ 
+(v) Due to customers 
+ 
+ 
+ 
+DBS Investment and Financial31 December 201731 December 2016Advisory Company Limited(vi) Interest payable 
+ 
+ 
+ 
+DBS Bank Ltd. 
+DBS Bank (Hong Kong) Limited 
+ 
+ 
+(vii) Bonds issued 
+ 
+ 
+ 
+DBS Bank (Hong Kong) Limited 
+ 
+(viii) Other payables 
+ 
+ 
+ 
+DBS Bank Ltd. 
+DBS Bank (Hong Kong) Limited 
+ 
+ 
+(ix) Derivative transactions 
+ 
+ 
+ 
+ 
+ 
+DBS Bank Ltd. 
+DBS Bank (Hong Kong) LimitedDBS Bank Ltd. 
+DBS Bank (Hong Kong) Limited7,514,445  
+ 
+ 
+ 
+31 December 2017132,227,351 
+3,534,247 
+135,761,59831 December 2017 
+ 
+960,000,000 
+ 
+ 
+ 
+31 December 2017 
+ 
+ 263,181,665  
+ 5,872,381  
+ 269,054,0467,725,271 
+ 
+ 
+ 
+31 December 2016 
+ 
+ 26,617,963  
+ 3,534,247  
+ 30,152,210  
+ 
+ 
+ 
+31 December 2016 
+ 
+960,000,000 
+ 
+ 
+ 
+31 December 2016 
+ 
+ 704,467,270  
+ 3,766,037  
+708,233,30731 December 2017Notional amount 
+ 
+ 49,101,692,453  
+ 65,342,000  
+ 49,167,034,45331 December 2016Notional amount 
+ 
+ 39,753,504,601-39,753,504,601Fair value 
+ 
+ (49,917,048)(586,418)(50,503,466)Fair value 
+ 
+ (65,637,664)-(65,637,664)5452 
+ 
+(e) 
+ 
+(3)52 
+ 
+(e) 
+ 
+(3) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(f)DBS BANK (CHINA) LIMITED 
+ 
+NOTES TO THE FINANCIAL STATEMENTS 
+FOR THE YEAR ENDED 31 DECEMBER 2017 
+(All amounts expressed in RMB unless otherwise stated) 
+[English translation for reference only] 
+ 
+RELATED PARTY RELATIONSHIPS AND TRANSACTIONS(continued) 
+ 
+Related party transactions (continued) 
+ 
+Balances with related parties (continued) 
+ 
+(x) Standby letter of credit 
+ 
+ 
+ 
+DBS Bank Ltd. 
+DBS Bank (Hong Kong) Limited 
+DBS Bank (Tai Wan) Limited(xi) Letters of gurantee issued 
+ 
+ 
+ 
+DBS Bank Ltd. 
+DBS Bank (Hong Kong) Limited(xii) Letters of credit issued 
+ 
+ 
+ 
+DBS Bank Ltd. 
+DBS Bank (Hong Kong) Limited 
+DBS Bank (Tai Wan) Limited31 December 2016 
+ 
+5,779,408,908 
+404,234,765 
+185,018,000 
+6,368,661,673 
+ 
+ 
+ 
+31 December 2016 
+ 
+150,358,795 
+219,878,816 
+370,237,611 
+ 
+ 
+ 
+31 December 2016 
+ 
+457,476,107 
+- 
+18,103,337 
+475,579,44431 December 2017 
+ 
+4,084,844,990 
+156,106,574 
+1,106,998  
+4,242,058,562  
+ 
+ 
+ 
+31 December 2017 
+ 
+29,035,23229,035,232  
+ 
+ 
+ 
+31 December 2017 
+ 
+ 111,639,455  
+ 103,678,642  
+- 
+215,318,097-Emoluments for directors, supervisors and senior management 
+ 
+The key management  employee benefits is comprised of: 
+ 
+ 
+ 
+Salary and welfare 
+Share incentive plan2017 
+ 
+34,660,996 
+2,780,147 
+37,441,1432016 
+ 
+35,201,316 
+4,195,143 
+39,396,45955DBS BANK (CHINA) LIMITED 
+ 
+NOTES TO THE FINANCIAL STATEMENTS 
+FOR THE YEAR ENDED 31 DECEMBER 2017 
+(All amounts expressed in RMB unless otherwise stated) 
+[English translation for reference only]FINANCIAL RISK MANAGEMENT53 
+ 
+53.1  Risk governanceThe  Board  oversees  the  Bank’s  affairs  and  provides  sound  leadership  for  the  CEO  and 
+management.  Authorised  by  the  Board,  various  Board  committees  oversee  specific 
+responsibilities based on clearly defined terms of reference. 
+ 
+Under  the  Bank’s  risk  governance  frameworks,  the  Board,  through  the  Board  Risk 
+Management  Committee  (‘China  BRMC’),  sets  the  Bank’s  risk  appetite,  oversees  the 
+establishment  of    enterprise-wide  risk  management  policies  and  processes,  and  sets  risk 
+limits to guide risk-taking within the Bank. 
+ 
+The BRMC oversees the identification, monitoring, management and reporting of credit, 
+market, liquidity, operational and reputational risks. To facilitate the BRMC’s risk oversight, 
+the following risk management committees have been established: 
+ 
+1.  Risk Executive Committee (Risk ExCo); 
+2.  China Credit Risk Committee (CCRC);  
+3.  China Market and Liquidity Risk Committee (CMLRC); and 
+4.  China Operational Risk Committee (CORC). 
+ 
+As the overall executive body regarding risk matters, the Risk ExCo oversees the Bank’s 
+risk management as a whole. 
+ 
+Each of the committees reports to the Risk Exco, and the committees as a whole serve as 
+an executive forum to discuss and implement the Bank’s risk management: 
+ 
+Key responsibilities:  Assess and approve risk-taking activities;  
+  Oversee  the  Bank’s  risk  management  infrastructure,  which  includes  frameworks, 
+decision  criteria,  authorities,  people,  policies,  standards,  processes,  information 
+and systems;  Approve risk policies; 
+  Assess and monitor specific credit concentration; and 
+Recommend scenarios and the resulting macroeconomic variable projections used 
+for enterprise-wide stress tests.The members in these committees comprise representatives from the Risk Management 
+Group (RMG) as well as key business and support units. 
+ 
+The Chief Risk Officer (CRO) oversees the risk management function. The CRO is 
+independent of business lines and is actively involved in key decision-making processes. 
+He often engages with regulators to discuss risk matters, enabling a more holistic risk 
+management perspective. 
+ 
+Working closely with the risk and business committees, the CRO is responsible for the 
+following:  Management  of  the  Bank’s  risks,  including  systems  and  processes  to  identify,approve, measure, monitor, control and report risks;  Engagement  with  senior  management  about  material  matters  regarding  all  risktypes;56DBS BANK (CHINA) LIMITED 
+ 
+NOTES TO THE FINANCIAL STATEMENTS 
+FOR THE YEAR ENDED 31 DECEMBER 2017 
+(All amounts expressed in RMB unless otherwise stated) 
+[English translation for reference only] 
+ 
+FINANCIAL RISK MANAGEMENT (continued)53 
+ 
+53.1  Risk governance(continued)  Development of risk controls and mitigation processes; and 
+  Ensuring  the  Bank’s  risk  management  is  effective  and  the  Risk  Appetiteestablished by the Board is adhered to.53.2  Credit riskAB(i)The most significant measurable risk DBS China faces is Credit risk which arises from the 
+Bank’s  daily  activities  in  various  businesses.  These  activities  include  lending  to  retail, 
+corporate and institutional customers; it includes both the risk of lending as well as the pre-
+settlement  and  settlement  risk  of  foreign  exchange,  derivatives  and  debt  securities;  and 
+settlement of transactions. 
+ 
+Credit Risk Management 
+ 
+The Bank’s approach to credit risk management comprises the following building blocks:Policies 
+ 
+The  Bank  localized  Group  Core  Credit  Risk  Policy,  by  taking  account  of  the  local  laws, 
+regulations.    The  Core  Credit  Risk  Policy  provides  the  foundation  upon  which  the  Bank 
+conducts our credit risk management and control activities. This policy supplemented by a 
+number  of  operational  policies  and  standards,  ensures  consistency  in  identifying, 
+assessing, underwriting, measuring, reporting and controlling credit risk across the Bank. 
+ 
+The operational policies and standards are established to provide greater details about the 
+implementation of credit principles within the Group and localized CCRP, and are adapted 
+to reflect different credit environments and portfolio risk profiles.Risk Methodologies 
+ 
+Credit risk is managed by thoroughly understanding the Bank’s customers – the businesses 
+they are in, as well as the economies in which they operate.  
+ 
+Loans and advances and off balance sheet exposures 
+ 
+The Bank uses internal rating system adopted by the group to identify, out of the 11 broad 
+ratings in the system, the risk rating of the corporate borrowers. At the same time, the Bank 
+also assigns loan grade to each facility for both corporate and retail borrowers under a five 
+grade  asset  classification  system  to  manage  the  quality  of  its  loan  portfolio.  Such 
+classification  system  is  based  on  “the  Guidance  on  Credit  Risk  Classification”  (”the 
+Guidance”) issued by CBRC. Under the Bank’s own system and the CBRC Guidance, the 
+Bank classifies its credit assets and off-balance sheet credit exposures into five categories, 
+which  are  namely  pass,  special  mention,  substandard,  doubtful  and  loss.  The  last  three 
+categories are also classified as “non-performing credit assets”. 
+ 
+The core definition of the Bank’s credit asset classification is as follows: 
+ 
+Pass: The borrower is able to fulfil  the contractual  obligations, and  there is no uncertaintythat principal and interest can be paid on time.57DBS BANK (CHINA) LIMITED 
+ 
+NOTES TO THE FINANCIAL STATEMENTS 
+FOR THE YEAR ENDED 31 DECEMBER 2017 
+(All amounts expressed in RMB unless otherwise stated) 
+[English translation for reference only] 
+ 
+FINANCIAL RISK MANAGEMENT (continued)53 
+ 
+53.2  Credit risk (continued) 
+ 
+B 
+ 
+(i)Credit risk measurement (continued) 
+ 
+Loans and advances and off balance sheet exposure(continued) 
+ 
+Special Mention: The borrower is able to make current due payments, but there exist some 
+indications  that  may  have  negative  impact  on  the  borrower’s  future 
+payments.(ii)(iii)(iv)Substandard:  The  borrower's  repayment  ability  has  been  in  doubt  and  its  normal  income 
+cannot  repay  the  loan  principal  and  interest  in  full.  Losses  may  be 
+incurred  by  the  Bank,  even  with  the  enforcement  of  guarantees  and 
+collateral.Doubtful: The borrower cannot repay the principal and the interest in full. Significant losseswill be incurred even with the enforcements of guarantees and collateral.Loss:  After  taking  into  consideration  all  possible  recovery  actions  and  necessary  legal 
+procedures,  the  principal  and  interest  cannot  be  collected  or  only  a  very 
+small portion of principal and interest can be collected.Traded products and securities 
+ 
+Counterparty risk that may arise from traded products and securities is viewed similarly to 
+loan  exposures  and  included  under  the  Bank’s  overall  lending  limits  to  counterparties. 
+Issuer  Default  Risk  that  may  arise  from  traded  products  and  securities  are  generally 
+measured and monitored via limits set by the Bank. 
+ 
+Loans to other banks and financial institutions 
+ 
+The Bank reviews and monitors the credit risk of individual financial institutions on regular 
+basis. Limits are placed for each individual bank or non-banking financial institution which 
+has business relationship with the Bank.Pre-settlement credit risk 
+ 
+Pre-settlement  credit  risk  for  traded  products  arising  from  a  counterparty’s  potentially 
+defaulting  on  its  obligations  is  quantified  by  evaluation  of  the  market  price,  plus  potential 
+future exposure. 
+ 
+The Bank actively monitors and manages its exposure to counterparties in over-the-counter 
+(OTC)  derivative  trades  to  protect  its  balance  sheet  in  the  event  of  counterparty  default. 
+Counterparty  risk  exposures  that  may  be  adversely  affected  by  market  risk  events  are 
+identified,  reviewed  and  acted  upon  by  management,  and  highlighted  to  the  appropriate 
+risk  committees.  Specific  wrong-way  risk  arises  when  the  exposure  to  a  particular 
+counterparty directly  correlates with the probability of defaulting due to guide the handling 
+of  specific  wrong-way  risk  transactions,  and  its  risk  mearsurement  metric  takes  into 
+account the higher risks associated with such transactions.  
+ 
+Issuer default risk that may also arise from derivatives, notes and securities are  generally 
+measured based on jump-to-default computations.58DBS BANK (CHINA) LIMITED 
+ 
+NOTES TO THE FINANCIAL STATEMENTS 
+FOR THE YEAR ENDED 31 DECEMBER 2017 
+(All amounts expressed in RMB unless otherwise stated) 
+[English translation for reference only] 
+ 
+FINANCIAL RISK MANAGEMENT (continued)53 
+ 
+53.2  Credit risk (continued) 
+ 
+CDProcess, System and Reports 
+ 
+The  Bank  constantly  invest  in  systems  to  support  risk  monitoring  and  reporting  for  its 
+Institutional Banking and Consumer Banking Management businesses.  
+ 
+The end-to-end credit process is constantly being reviewed and improved through various 
+front-to-back initiatives involving the business units, the operations unit, the RMG and other 
+key stakeholders. Day-to-day monitoring of credit exposures, portfolio performance and the 
+external  environment  factors  potentially  affecting  credit  risk  profiles  is  key  to  the  Bank's 
+philosophy of effective credit risk management.  
+ 
+In  addition,  risk  reporting  on  credit  trends,  which  may  include  industry  analysis,  early 
+warning  alerts  and significant  weak  credits,  is  submitted  to the  various  credit  committees, 
+allowing  key  strategies  and  action  plans  to  be  formulated  and  evaluated.  Credit  control 
+functions  also  ensure  that  any  credit  risks  taken  complies  with  group-wide  credit  policies 
+and guidelines. These functions ensure that approved limits are activated, credit excesses 
+and  policy  exceptions  are  appropriately  endorsed,  compliance  with  credit  standards  is 
+carried out, and covenants established by management and regulators are informed. 
+ 
+Collateral received 
+ 
+Where  possible,  the  Bank  takes  collateral  as  a  secondary  recourse  to  the  borrower.  This 
+includes,  but  not  limited  to  cash,  marketable  securities,  real  estate,  trade  receivables, 
+inventory and equipment and other physical and financial collateral. We may also take fixed 
+and floating charges on the assets of borrowers.  
+ 
+Policies  have  been  put  in  place  to  determine  the  eligibility  of  collateral  for  credit  risk 
+mitigation.  These  include  requiring  specific  collaterals  to  meet  minimum  operational 
+requirements in order to be considered as effective risk mitigants. The Bank’s collateral is 
+generally  diversified  and  periodic  valuations  of  collateral  are  required.  Real  Estate 
+constitute the bulk of our collateral, while marketable securities and cash are immaterial. 
+ 
+For  derivatives,  repurchase  agreements  (repo)  and  other  repo-style  transactions  with 
+financial  market  counterparties,  collateral  arrangements  are  typically  covered  under 
+market-standard  documentation,  such  as    International  Swaps  &  Derivatives  Association 
+(ISDA) Agreements/ National Association Financia lMarket Institutional Investors (NAFMII) 
+Agreements and Master Repurchase Agreements. The collateral received is mark-to-market 
+on  a  frequency  which  the  Group  and  the  counterparties  mutually  agreed  upon  and  is 
+governed by internal guidelines with respect to collateral eligibility. In the event of a default, 
+the  credit  risk  exposure  is  reduced  by  master-netting  arrangements  where  the  Group  is 
+allowed to offset what it owes a counterparty against what is due from that counterparty in 
+a netting-eligible jurisdiction.  
+ 
+Collateral held against derivatives generally consists of cash in major currencies and highly 
+rated  government  or  quasi-government  bonds.  Exceptions  may  arise  in  certain  countries, 
+where  due  to  domestic  capital  markets  and  business  conditions,  the  Group  may  be 
+required  to  accept  less  highly  rated  or  liquid  government  bonds  and  currencies.  Reverse 
+repo-transactions  are  generally  limited  to  large  institutions  with  reasonably  good  credit 
+standing.  The  Group takes  haircuts  against  the underlying  collateral  of  these transactions 
+that commensurate with collateral quality to ensure credit risks are adequately mitigated.59DBS BANK (CHINA) LIMITED 
+ 
+NOTES TO THE FINANCIAL STATEMENTS 
+FOR THE YEAR ENDED 31 DECEMBER 2017 
+(All amounts expressed in RMB unless otherwise stated) 
+[English translation for reference only]FINANCIAL RISK MANAGEMENT (continued)53 
+ 
+53.2  Credit risk (continued) 
+ 
+D`EFCollateral received (continued) 
+ 
+In  times  of  difficulty,  the  Group  will  review  the  customer’s  specific  situation  and 
+circumstances  to  assist  them  in  restructuring  their  repayment  liabilities.  However,  should 
+the need arise, disposal and recovery processes are in place to dispose of collateral held 
+by  the  Group.  The  Group  also  maintains  a  panel  of  agents  and  solicitors  that  helps  it  to 
+dispose of non-liquid assets and specialised equipment quickly. 
+ 
+Other Risk Mitigants 
+ 
+The  Bank  accepts  guarantees  as  credit  risk mitigants.  Internal  thresholds  for  considering 
+the eligibility of guarantors for credit risk mitigation are in place.Maximum  exposure 
+enhancementsto  credit  risk  before  collateral  held  or  other  credit31 December201731 December2016Deposits with other banks 
+Placements with financialinstitutions 
+Financial assets at fair value through profit orlossDerivative assets 
+Financial assets purchased under resaleagreements10,534,746,393 
+20,298,748,02019,917,284,916 
+8,365,624,2897,334,247,820 
+  17,041,933,789 
+                                 
+6,366,848,443 
+9,094,258,34250,539,752 
+714,511,277 
+44,245,741,851 
+2,709,065,463 
+469,217,894 
+2,965,714,327 
+ 110,271,194,182- 
+ 
+422,618,197 
+ 
+  37,704,672,912 
+2,150,816,247 
+ 
+121,542,528 
+ 
+ 
+1,391,916,924 
+  81,628,855,202Interest receivable 
+Loans and advances 
+Investment securities – available-for-sale 
+Investment securities – loans and receivables 
+Other financial assets 
+Sub-total 
+ 
+Letters of credit issued 
+Standby letter of credit 
+Letters of guarantee issued 
+Irrevocable loan commitment 
+Bank acceptances 
+Letters of credit confirmation 
+Sub-total 
+Total 
+ 
+The above table represents a worse-case scenario of credit risk exposure to the Bank at 
+31  December  2017,  without  taking  account  of  any  collateral  held  or  other  credit 
+enhancements  attached.  For  on-balance-sheet  assets,  the  exposures  set  out  above  are 
+based on net carrying amounts as reported in the balance sheet. 
+ 
+As  shown  above,  40%of  the  total  on-balance-sheet  maximum  exposure  is  derived  from 
+loans and advances to customers (31 December 2016: 46%).123,101,728,0733,442,944,799 
+ 
+8,287,686,672 
+ 
+2,230,085,195 
+ 
+3,379,431,431 
+ 
+2,376,076,932 
+ 
+ 
+23,363,087 
+  19,739,588,116 
+  101,368,443,3183,327,277,162 
+4,365,485,792 
+924,197,154 
+1,801,408,829 
+2,381,848,691 
+30,316,263 
+12,830,533,89160DBS BANK (CHINA) LIMITED 
+ 
+NOTES TO THE FINANCIAL STATEMENTS 
+FOR THE YEAR ENDED 31 DECEMBER 2017 
+(All amounts expressed in RMB unless otherwise stated) 
+[English translation for reference only]53FINANCIAL RISK MANAGEMENT (continued)53.2  Credit risk (continued)G 
+ 
+ 
+ 
+ 
+ 
+H(i)31 December 201720,298,748,02031 December 201617,041,933,78931 December 2017Placements with financial institutions 
+ 
+ 
+ 
+Neither past due nor impaired 
+ 
+Loans and advances 
+ 
+ 
+ 
+Neither past due nor impaired 
+Past due but not impaired 
+Impaired 
+Total 
+ 
+Less:allowance for impairment losses 
+Net 
+ 
+The  total  allowance  for  impairment  of  loans  and  advances  amounted  to  RMB  812  million 
+(31 December 2016: RMB 690million), of which RMB 186 million (31 December 2016: RMB 
+90  million)  represents  the  individually  assessed  impairment  allowance  and  the  remaining 
+amount  of  RMB  626  million  (31  December  2016:  RMB  600million)  represents  the 
+collectively assessed impairment allowance. 
+ 
+Loans and advances neither past due nor impaired 
+ 
+The credit quality of the portfolio of loans and advances that were neither past due nor 
+impaired can be assessed by reference to the five rating classification system adopted by 
+the Bank.31 December 2016 
+ 
+37,848,565,405 
+232,642,712 
+313,250,174 
+38,394,458,291 
+ 
+(689,785,379) 
+37,704,672,91244,227,585,942 
+452,162,040 
+ 
+378,250,924 
+  45,057,998,906 
+ 
+ 
+ 
+(812,257,055) 
+  44,245,741,85131 December 2017 
+Pass 
+Special mention 
+ 
+ 
+31 December 2016 
+Pass 
+Special mentionCorporateloans37,608,124,483 
+8,465,158 
+37,616,589,641 
+ 
+ 
+32,668,670,336 
+33,749,946 
+32,702,420,282Retail 
+loans6,593,757,008 
+17,239,293 
+6,610,996,301 
+ 
+ 
+5,144,335,557 
+1,809,566 
+5,146,145,123Total44,201,881,491 
+25,704,451 
+44,227,585,942 
+ 
+ 
+37,813,005,893 
+35,559,512 
+37,848,565,40561DBS BANK (CHINA) LIMITED 
+ 
+NOTES TO THE FINANCIAL STATEMENTS 
+FOR THE YEAR ENDED 31 DECEMBER 2017 
+(All amounts expressed in RMB unless otherwise stated) 
+[English translation for reference only] 
+ 
+FINANCIAL RISK MANAGEMENT (continued)5353.2  Credit risk (continued)H 
+ 
+(ii)(iii) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(iv)Loans and advances (continued) 
+ 
+Loans and advances past due but not impaired 
+ 
+At  the  inception  of  loans,  the  Bank  will  appoint  independent  valuers  to  determine  the fair 
+value  of  collateral.  The  Bank  will  review  the  latest  value  of  collateral  when  there  is 
+objective evidence of impairment of loan. 
+ 
+The breakdown by overdue period is as follows:Past due up 
+to 30 daysPast due 
+60-90 daysPast dueover 90 daysTotalPast due 
+30-60 days- 
+- 
+-- 
+653,794 
+653,79462,975,653 
+151,757,204 
+214,732,85760,108,430 
+366,608,009 
+426,716,4392,302,893 
+6,085,186 
+8,388,0791,096,709 
+15,960,813 
+17,057,52278,423 
+5,429,928 
+5,508,35163,508,032 
+388,654,008 
+452,162,04067,414,910 
+165,227,802 
+232,642,7124,360,834 
+7,386,876 
+11,747,71031 December 2017 
+Corporate loans 
+Retail loans 
+Total 
+ 
+31 December 2016 
+Corporate loans 
+Retail loans 
+Total 
+ 
+Loans and advances individually impaired 
+ 
+ 
+ 
+Corporate loans 
+Retail loans 
+ 
+ 
+Loans and advances renegotiated 
+ 
+Renegotiated loans represent the loans that original contract repayment terms have been 
+modified  as  a  result  of  the  deterioration  of  borrowers’  financial  conditions  or  inability  to 
+repay the loans according to contractual terms. As at 31 December 2017, the renegotiated 
+loans  held  by  the  Bank  is  RMB  136  million.  As  of  31  December  2016,  there  was  no 
+renegotiated loan held by the Bank.31 December 2016 
+ 
+252,130,375 
+61,119,799 
+313,250,17431 December 2017314,935,976 
+63,314,948 
+378,250,92462DBS BANK (CHINA) LIMITED 
+ 
+NOTES TO THE FINANCIAL STATEMENTS 
+FOR THE YEAR ENDED 31 DECEMBER 2017 
+(All amounts expressed in RMB unless otherwise stated) 
+[English translation for reference only] 
+ 
+FINANCIAL RISK MANAGEMENT (continued)5353.2  Credit risk (continued) 
+ 
+ITrading assets, available-for-sale (“AFS”) securities and asset-backed securities 
+ 
+The tables below analyse the Bank’s investment securities by issuers’ credit rating:Asset-backed 
+Securities 
+ 
+ 
+ 
+469,217,894 
+- 
+- 
+ 
+- 
+- 
+- 
+- 
+469,217,894 
+ 
+Asset-backed 
+Securities 
+ 
+ 
+ 
+121,542,528 
+- 
+- 
+ 
+- 
+- 
+- 
+- 
+ 121,542,528RMB Securities 
+ 
+31 December 2017Rated as AAA 
+Rated as AA+ 
+Rated as AA 
+Unrated:  
+PBOC notes 
+Bonds issued by policy banks 
+Treasury bonds 
+Local Treasury bondsRMB Securities 
+ 
+31 December 2016Rated as AAA 
+Rated as AA+ 
+Rated as AA 
+Unrated:  
+PBOC notes 
+Bonds issued by policy banks 
+Treasury bonds 
+Local Treasury bondsTrading Assets15,636,394,072 
+1,284,631,569 
+69,875,003 
+ 
+- 
+2,600,667,129 
+296,322,085 
+29,395,058 
+19,917,284,916Trading Assets4,214,445,382 
+- 
+- 
+ 
+- 
+1,937,559,225 
+185,009,111 
+29,834,725 
+6,366,848,443AFS Securities- 
+- 
+- 
+ 
+- 
+1,622,421,850 
+1,047,753,154 
+38,890,459 
+2,709,065,463AFS Securities  
+ 
+ 
+ 
+ 
+ 
+ 
+- 
+ 
+- 
+- 
+ 
+- 
+ 1,562,005,379  
+ 549,246,720  
+ 39,564,148  
+2,150,816,24763DBS BANK (CHINA) LIMITED 
+ 
+NOTES TO THE FINANCIAL STATEMENTS 
+FOR THE YEAR ENDED 31 DECEMBER 2017 
+(All amounts expressed in RMB unless otherwise stated) 
+[English translation for reference only]FINANCIAL RISK MANAGEMENT (continued)5353.3  Market riskMarket  Risk  is  a  risk  arising  from  adverse  changes  in  interest  rates,  foreign  exchange  rates, 
+equity  prices,  credit  spreads  and  commodity  prices,  as  well  as  related  factors.  The  Bank’s 
+exposure to market risk is categorized into:  Trading portfolios: Arising from positions taken for (i) market-making, (ii) client-facilitationAand (iii) benefiting from market opportunities.  Banking  portfolios:  Arising  from  (i)  positions  taken  to  manage  the  interest  rate  risk  of 
+Institutional  Banking  and  Consumer  Banking  assets  and  liabilities;  (ii)  structural  foreign 
+exchange risk arising mainly from the Bank’s USD capital; and (iii) accrual interest which 
+is denominated in currencies other than RMB.Market Risk Management  
+ 
+China  BRMC  establishes  the  Bank’s  risk  appetite  and  framework  for  market  risk  and  China 
+MLRC  serves  as  the  executive  forum  for  overseeing  various  aspects  of  market  risk  taking 
+including  limit  management,  policies,  processes,  methodologies  and  systems,  and  report  to 
+China Risk Exco. 
+ 
+The Bank’s approach to market risk management is formulated on the following building blocks: 
+ 
+Policies 
+ 
+The Market Risk Management Policy sets the overall approach towards market risk management, 
+while  the  Market  Risk  Management  Standard  establishes  the  base  requirements  for  the  said 
+management  within  the  Bank.  The  Market  Risk  Management  Guide  complements  the  Market 
+Risk  Management  Standard  by  providing  more  details  regarding  specific  subject  matters.  Both 
+the  Market  Risk  Management  Standard  and  Market  Risk  Management  Guide  facilitate  the 
+identification,  measurement,  control,  monitoring  and  reporting  of  market  risk  in  a  consistent 
+manner.  They  also  set  out  the  overall  approach,  standards  and  controls  governing  market  risk 
+stress  testing  across  the  Bank.  The  criteria  for  determining  the  positions  to  be  included  in  the 
+trading book are stipulated in the Trading Book Policy Statement.64DBS BANK (CHINA) LIMITED 
+ 
+NOTES TO THE FINANCIAL STATEMENTS 
+FOR THE YEAR ENDED 31 DECEMBER 2017 
+(All amounts expressed in RMB unless otherwise stated) 
+[English translation for reference only] 
+ 
+FINANCIAL RISK MANAGEMENT (continued)5353.3  Market risk (continued)A  Market Risk Management (continued)Risk Methodologies 
+ 
+Value-at-Risk (VaR) is a method that computes the potential losses on risk positions as a result 
+of market movements over a specified time horizon and according to a given level of confidence. 
+The Bank’s VaR model is based on historical simulation with a one-day holding period. The Bank 
+uses  Expected  Shortfall  (ES),  which  is  the  average  of  potential  loss  beyond  a  given  level  of 
+confidence,  to  monitor  and  limit  market  risk  exposures.  ES  is  supplemented  by  risk  control 
+metrics such as sensitivities to risk factors and loss triggers for management action. 
+ 
+The  Bank  conducts  back-testing  to  verify  the  predictiveness  of  the  VaR  model.  Back-testing 
+compares VaR calculated for positions at the close of each business day with the Profit and Loss 
+(P&L) that actually arises in those positions on the following business day. The back-testing P&L 
+excludes fees and commissions, and revenues from intra-day trading.  
+ 
+For back-testing, VaR at the 99% level of confidence and over a one-day holding period is used. 
+The  Bank  adopts  the  standardised  approach  to  compute  market  risk  regulatory  capital  for  the 
+trading book positions. As such, VaR back-testing does not impact the Bank’s regulatory capital 
+for market risk. 
+ 
+VaR models allow the Bank to estimate the aggregate portfolio market risk potential loss due to a 
+range of market risk factors and instruments. However, there are limitations to VaR models. For 
+example,  past  changes  in  market  risk  factors  may  not  provide  accurate  predictions  of  future 
+market movements, and the risk arising from adverse market events may be understated.To  monitor  the  Bank’s  vulnerability  to  unexpected  but  plausible  extreme  market  risk-related 
+events,  the  Bank  conducts  multiple  market  risk  stress  tests  regularly.  These  cover  trading  and 
+non-trading portfolios and follow a combination of historical and hypothetical scenarios depicting 
+risk-factor movement. 
+ 
+ES and Net Interest Income (NII) Variability are the key risk metrics used to manage the Bank’s 
+assets  and  liabilities.  As  an  exception,  credit  spread  risk  arising  from  loans  and  receivables  is 
+managed  under  the  credit  risk  management  framework.  The  Bank  also  manages  banking  book 
+interest  rate  risk  arising  from  mismatches  in  the  interest  rate  profiles  of  assets,  liabilities  and 
+capital  instruments  (and  associated  hedges),  which  includes  basis  risk  arising  from  different 
+interest rate benchmarks, interest rate re-pricing risk, yield curve risks and embedded optionality. 
+The Bank measures interest rate risk in the banking book on a weekly basis. 
+ 
+Processes, Systems and Reports 
+ 
+Robust internal control processes and systems have been designed and implemented to support 
+the  Bank’s  market  risk  management  approach.  The  Bank  reviews  these  control  processes 
+regularly, and these reviews allow senior management to assess their effectiveness. 
+ 
+The RMG Market and Liquidity Risk unit – an independent market risk management function 
+reporting to CRO – monitors, controls and analyses the Bank’s market risk daily.65DBS BANK (CHINA) LIMITED 
+ 
+NOTES TO THE FINANCIAL STATEMENTS 
+FOR THE YEAR ENDED 31 DECEMBER 2017 
+(All amounts expressed in RMB unless otherwise stated) 
+[English translation for reference only]FINANCIAL RISK MANAGEMENT (continued)  
+ 
+Market risk (continued)53 
+ 
+53.3B  Market Risk in 2017Trading Portfolio 
+ 
+The period-end, average, high and low ES based on the 97.5% level of confidence is tabulated 
+below.  
+ 
+The following table is computed in Singapore dollars and translated into Renminbi using 
+PBOC’s respective year-end rates for presentation purpose.RMB in millionAs at 
+31 December 20172017AverageHighestLowest9.3717.892016Highest 
+ 
+ 22.05Lowest 
+ 
+ 6.915.06Average 
+ 
+ 13.959.90 
+ 
+As at 
+31 December 2016 
+ 
+ 16.46Total 
+ 
+ 
+RMB in million 
+ 
+Total 
+ 
+The key market risk factors driving Treasury’s trading portfolios in 2017 were RMB interest rate, 
+USD/RMB foreign exchange and credit spread. 
+ 
+The estimated MtM PL for RMB interest rate position as at 31 December 2017, assuming a 50 
+basis point increase in general interest rates was a decrease of RMB 39.41million. 
+ 
+The estimated MtM PL for foreign exchange position as of 31 December 2017, assuming USD 
+appreciation  by  3%  and  USD/RMB  FX  volatility  increase  by  40%  was  an  increase  of  RMB 
+29.92million. 
+ 
+Banking Portfolio 
+ 
+The period-end, average, high and low ES  based on the 97.5% level of confidence is tabulated 
+below.  
+ 
+The  following  tables  are  computed  in  Singapore  dollars  and  translated  into  Renminbi  using 
+PBOC’s respective year-end rates for presentation purpose.66DBS BANK (CHINA) LIMITED 
+ 
+NOTES TO THE FINANCIAL STATEMENTS 
+FOR THE YEAR ENDED 31 DECEMBER 2017 
+(All amounts expressed in RMB unless otherwise stated) 
+[English translation for reference only] 
+ 
+FINANCIAL RISK MANAGEMENT (continued)5353.3  Market risk (continued)B  Market Risk in 2017 (continued)Table 1 Treasury Banking 
+ 
+ 
+RMB in million 
+ 
+TotalAs at 
+31 December 2017 
+ 
+15.08RMB in millionTotalAs at 
+31 December 20164.88Table 2 Central OperationsRMB in  million 
+ 
+TotalRMB in million 
+ 
+TotalAs at31 December 2017 
+ 
+23.05As at 
+31 December 2016 
+ 
+ 16.85Average 
+ 
+9.74Average4.622017Highest 
+ 
+15.572016Highest6.87Lowest 
+ 
+3.88Lowest2.30Average 
+ 
+17.87Average 
+ 
+ 17.392017Highest 
+ 
+23.052016Highest 
+ 
+ 22.79Lowest 
+ 
+12.37Lowest11.69The key market risk drivers of banking portfolios  are  USD/RMB FX position  and RMB  interest 
+rate  positions.  The  economic  value  impact  of  changes  in  foreign  exchange  and  interest  rates 
+are simulated for the banking portfolio.The estimated value volatility for RMB interest rate position as at 31 December 2017, assuming 
+a 50 basis point increase in general interest rates was an increase of RMB 24.29million. 
+ 
+The estimated value volatility for foreign exchange position as of 31 December 2017, assuming 
+USD appreciation by 3% against RMB was an increase of RMB 53.66million.67DBS BANK (CHINA) LIMITED 
+ 
+NOTES TO THE FINANCIAL STATEMENTS 
+FOR THE YEAR ENDED 31 DECEMBER 2017 
+(All amounts expressed in RMB unless otherwise stated) 
+[English translation for reference only]53  FINANCIAL RISK MANAGEMENT (continued)  
+ 
+53.4  Liquidity riskAThe  Bank’s  liquidity  risk  arises  from  its  obligations  to  honour  withdrawals  of  deposits,  repayments  of 
+borrowed funds at maturity, and the commitments to its customers to extend  loans to the customers. 
+The  Bank  seeks  to  manage  its  liquidity  in  a  manner  that  ensures  that  its  liquidity  obligations  will 
+continue to be honoured under normal as well as adverse circumstances. 
+ 
+Liquidity Risk Management 
+ 
+China MLRC is the primary party responsible for liquidity risk management based on the Liquidity Risk 
+Management Policy approved by China BRMC, and reports to China Risk Exco. 
+ 
+The  Bank’s  Assets  and Liabilities  Committee regularly  reviews  balance sheet  composition,  growth in 
+loans  and  deposits,  utilisation  of  wholesale  funding,  momentum  in  business  activities,  market 
+competition,  economic  outlook,  market  conditions  and  other  factors  that  may  affect  liquidity  in  the 
+continual refinement of the Bank’s funding strategy. 
+ 
+The Bank’s approach to liquidity risk management comprises the following building blocks: 
+ 
+Policies 
+ 
+The  Liquidity  Risk  Management  Policy  sets  out  the  Bank’s  overall  approach  towards  liquidity  risk 
+management and describes the range  of strategies employs to manage its liquidity. These strategies 
+include  maintaining  an  adequate  counterbalancing  capacity  to  address  potential  cashflow  shortfalls 
+and having diversified sources of liquidity.  
+ 
+The  Bank’s  counterbalancing  capacity  includes  liquid  assets,  the  capacity  to  borrow  from  the  money 
+markets (including the issuance of Negotiable Certificate of Deposit (NCD)), and forms of managerial 
+interventions that improve liquidity. In the event of a potential or actual crisis,  the Bank has in place a 
+set of liquidity contingency and recovery plans to ensure that the Bank maintains adequate liquidity. 
+ 
+The  Liquidity  Risk  Management  Policy  is  supported  by  Standards  that  establish  the  detailed 
+requirements  for  liquidity  risk  identification,  measurement, reporting  and control  within the  Bank.  The 
+set  of  Policies  and  Standards  communicate  these  baseline  requirements  to  ensure  consistent 
+application throughout the Bank.68DBS BANK (CHINA) LIMITED 
+ 
+NOTES TO THE FINANCIAL STATEMENTS 
+FOR THE YEAR ENDED 31 DECEMBER 2017 
+(All amounts expressed in RMB unless otherwise stated) 
+[English translation for reference only]FINANCIAL RISK MANAGEMENT (continued)53 
+ 
+53.4  Liquidity risk(continued) 
+ 
+ALiquidity Risk Management (continued) 
+ 
+Risk Methodologies 
+ 
+The  primary  measure  used  to  manage  liquidity  within  the  tolerance  defined  by  China  BRMC  is  cash 
+flow  maturity  mismatch analysis.  This  form  of  analysis  is  performed  on  a regular  basis  under  normal 
+and adverse scenarios. It assesses the adequacy of the Bank’s counterbalancing capacity  to fund or 
+mitigate  any  cash  flow  shortfalls  that  may  occur  as  forecasted  in  the  cash  flow  movements  across 
+successive  time  bands.  To  ensure  that  liquidity  is  managed  in  line  with  the  Risk  Appetite,  core 
+parameters such as the types of scenarios, the survival period and the minimum level of liquid assets, 
+are  pre-specified  for  monitoring  and  control  on  a  bank-wide  basis.  Any  occurrences  of  forecasted 
+shortfalls  that  cannot  be  covered  by  the  counterbalancing  capacity  will  be  escalated  to  the  relevant 
+committees for evaluation and action. 
+ 
+Liquidity  risk  stress  testing  is  performed  regularly  using  cashflow  maturity  mismatch  analysis,  and 
+covers  adverse  scenarios  involving  shocks  that  are  general  market  and/or  name-specific  in  nature. 
+Stress  tests  assess  the  Bank’s  vulnerability  when  liability  run-offs  increase,  asset  rollovers  increase 
+and/or  liquid  asset  buffers  decrease.  In  addition,  ad  hoc  stress  tests  are  performed  as  part  of  the 
+Bank’s ICAAP exercises.  
+ 
+Liquidity  risk  control  measures,  such  as  liquidity-related  ratios  and  balance  sheet  analysis,  are 
+complementary  tools  for  cashflow  maturity  mismatch  analysis,  and  they  are  performed  regularly  to 
+obtain  deeper  insights  and  finer  control  over  the  Bank’s  liquidity  profile.  The  liquidity  risk  control 
+measures  also  include  concentration  measures  regarding  top  depositors,  wholesale  borrowing  and 
+swapped funds. 
+ 
+Processes, Systems and Reports 
+ 
+Robust  internal  control  processes  and  systems  support  the  Bank’s  overall  approach  in  identifying, 
+measuring, aggregating, controlling and monitoring liquidity risk in the Bank.  
+ 
+The RMG Market and Liquidity Risk unit – an independent liquidity risk management function reporting 
+to CRO – manages the day-to-day liquidity risk monitoring, control reporting and analysis.   
+ 
+Liquidity Risk in 2017 
+ 
+ 
+The  Bank  actively  monitors  and  manages  the  liquidity  profile  through  cash  flow  maturity  mismatch 
+analysis. In forecasting cash flow under the analysis, behavioural profiling is necessary in cases where 
+a  product  has  indeterminate  maturity  or  the  contractual  maturity  does  not  realistically  reflect  the 
+expected cash flow.B69Non-derivative cash flows of financial assets and liabilities 
+ 
+The table below presents the contractual undiscounted cash flows of the Bank under non-derivative financial assets and liabilities by remaining contractual maturities at the balance sheet date.Within 1 monthWithin 3 months3-12 months1-5 yearsOver 5 yearsDBS BANK (CHINA) LIMITEDNOTES TO THE FINANCIAL STATEMENTS 
+FOR THE YEAR ENDED 31 DECEMBER 2017 
+(All amounts expressed in RMB unless otherwise stated)FINANCIAL RISK MANAGEMENT (continued)[English translation for reference only] 
+ 
+53 
+ 
+53.4  Liquidity risk (continued) 
+ 
+A31 December 2017Financial Liabilities 
+Deposits from other banks andfinancial institutionsBorrowing from other banksDue to customersBonds issued 
+Financial assets sold under 
+repurchase agreementsOthersTotal financial liabilitiesFinancial Assets 
+Cash and deposits with the centralbankDeposits with other banksPlacements with financial institutions 
+Financial assets at fair value throughprofit or lossLoans and advances 
+Investment securities – available-for-saleInvestment securities – loans andreceivablesOthersTotal financial assets  
+ 
+Net cash flows1,441,789,029  
+  11,218,514,672 
+  35,375,810,956  
+1,000,000,0002,059,934,659 
+1,297,046,588  
+ 
+  52,393,095,90413,073,531,814 
+ 6,017,185,907  
+ 
+6,020,010,1734,542,183,439 
+6,450,813,225159,339,0001,959,958 
+ 2,584,440,317  
+ 
+   38,849,463,833(13,543,632,071)1,048,369,103 
+6,265,720,323 
+7,214,956,846  
+1,000,000,0003,325,956,537 
+  18,468,065,057 
+7,324,432,090  
+86,000,000- 
+- 
+15,529,046,272- 
+- 
+29,204,453,684- 
+- 
+700,748,717 
+344,000,000- 
+4,161,444,096  
+5,206,192,813- 
+ 1,567,905,417  
+2,728,572,101- 
+ 
+ 
+ 3,086,606,486  
+  10,053,996,994- 
+ 
+ 
+- 
+  1,948,471,353- 
+- 
+21,312,270 
+2,258,000,000- 
+- 
+2,279,312,270- 
+- 
+-4,994,641,014 
+8,669,421,8689,501,515,850 
+  12,715,007,6521,120,724,000 
+  14,706,292,833406,420,000 
+  9,632,744,494426,457,0003,083,504 
+ - 
+ 18,390,080,9042,861,034,632701,021,145,910576,381,9101,019,184,000292,766,299 
+ 291,049,405  
+ 36,962,088,596196,841,824 
+ 90,224,605  
+ 
+  18,638,936,5257,757,634,91213,432,743,712- 
+ - 
+11,058,348,4948,779,036,224Total5,816,114,669  
+ 35,952,300,052  
+ 50,637,260,879  
+4,688,000,0002,059,934,659 
+5,458,490,684  
+104,612,100,94313,073,531,814 
+10,671,697,810 
+20,751,050,62120,565,484,303 
+52,174,280,0723,202,507,820494,651,585 
+ 2,965,714,327  
+ 123,898,918,35219,286,817,409DBS BANK (CHINA) LIMITEDNOTES TO THE FINANCIAL STATEMENTS 
+FOR THE YEAR ENDED 31 DECEMBER 2017 
+(All amounts expressed in RMB unless otherwise stated)[English translation for reference only] 
+ 
+53 
+ 
+53.4  Liquidity risk (continued)FINANCIAL RISK MANAGEMENT (continued)ANon-derivative cash flows of financial assets and liabilitiesWithin 1 monthWithin 3 months3-12 months1-5 yearsOver 5 yearsTotal8,837,995,714 
+  11,682,558,827 
+  49,272,986,7831,971,934,256 
+  2,944,000,000 
+  3,627,795,138 
+  78,337,270,71831 December 2016Financial Liabilities 
+Deposits from other banks andfinancial institutionsBorrowing from other banksDue to customers 
+Financial assets sold under 
+repurchase agreementsBonds issuedOthersTotal financial liabilitiesFinancial Assets 
+Cash and deposits with the centralbankDeposits with other banksPlacements with financial institutions 
+Financial assets at fair value throughprofit or lossLoans and advances 
+Investment securities – available-for-saleInvestment securities – loans andreceivablesOthersTotal financial assets  
+ 
+Net cash flows1,992,140,224 
+5,538,923,267 
+ 
+  27,624,023,5701,971,934,256 
+- 
+2,935,616,577 
+ 
+  40,062,637,89414,558,254,901 
+1,575,456,154 
+5,043,354,092555,339,740 
+5,324,668,143476,567,100400,931,445 
+4,460,810,330 
+6,630,365,7815,145,668,076 
+  1,055,745,458 
+  13,609,487,012- 
+600,000,000 
+- 
+12,092,107,556- 
+ 
+86,000,000 
+ 
+ 
+- 
+  19,896,900,5461,299,255,969 
+627,079,772 
+1,341,985,610- 
+2,258,000,000 
+692,178,561 
+6,218,499,912- 
+- 
+67,124,810- 
+- 
+- 
+67,124,810- 
+4,926,465,278 
+2,340,440,128- 
+ 
+907,896,583 
+ 
+  9,336,393,109- 
+ 
+- 
+ 
+  603,170,128- 
+- 
+-14,558,254,901 
+ 
+7,409,818,015 
+  17,323,357,457304,378,539 
+7,981,422,1184,600,136,789 
+  10,175,939,917899,213,000 
+ 12,999,256,422215,650,000 
+  7,284,438,9296,574,718,068 
+  43,765,725,529536,858,000581,817,920501,273,640255,355,0002,351,871,660354,606 
+ 888,682,495  
+ 28,422,677,231118,422 
+ 
+ 
+ -  
+   16,089,682,485123,150,032 
+ 
+ 
+ 265,374,435  
+  25,990,708,785- 
+ 
+ 
+ 237,859,994  
+ 15,240,773,184- 
+ 
+ 
+ -  
+   7,755,443,929123,623,060 
+ 
+ 
+ 1,391,916,924  
+   93,499,285,614(11,639,960,663)3,997,574,9296,093,808,239719,022,273,2727,688,319,11915,162,014,896DBS BANK (CHINA) LIMITEDNOTES TO THE FINANCIAL STATEMENTS 
+FOR THE YEAR ENDED 31 DECEMBER 2017 
+(All amounts expressed in RMB unless otherwise stated)FINANCIAL RISK MANAGEMENT (continued)[English translation for reference only] 
+ 
+53 
+ 
+53.4  Liquidity risk (continued) 
+ 
+B 
+ 
+(1)  Derivatives settled on a net basisDerivative cash flows31 December 2017 
+Interest rate derivatives 
+ 
+31 December 2016 
+Interest rate derivatives(7,722,484)12,622,437The Bank’s derivatives that will be settled on a net basis include interest rate swaps and other interest rate derivatives. 
+ 
+The  table  below  analyses  the  Bank’s  derivative  financial  instruments  that  will  be  settled  on  a  net  basis  into  relevant  maturity  groupings  based  on  the 
+remaining period at the balance sheet to the contractual maturity date. The amounts disclosed in the table are the contractual undiscounted cash flows.Up to 1 monthTotal1-3 months(32,086,884)(2,241,531)3-12 months 
+ 
+ 
+ (9,655,759) 
+ 
+ 
+(3,023,821)1-5 years16,963,428 
+ 
+ 
+12,266,727Over 5 years4,456,9615,908,319(28,044,738)25,532,13172DBS BANK (CHINA) LIMITEDNOTES TO THE FINANCIAL STATEMENTS 
+FOR THE YEAR ENDED 31 DECEMBER 2017 
+(All amounts expressed in RMB unless otherwise stated)FINANCIAL RISK MANAGEMENT (continued)[English translation for reference only] 
+ 
+53 
+ 
+53.4  Liquidity risk (continued) 
+ 
+BDerivative cash flows (continued)(2)  Derivatives settled on a gross basisUp to 1 monthThe Bank’s derivatives that will be settled on a gross basis mainly include derivative: foreign exchange forward, foreign exchange swap, cross-currency swap. 
+ 
+The table below analyses the Bank’s derivative financial instruments that will be settled on a gross basis into relevant maturity groupings based on the remaining 
+period at the balance sheet to the contractual maturity date. The amounts disclosed in the table are the contractual undiscounted cash flows. 
+ 
+ 
+ 
+As at 31 December 2017 
+Foreign exchange derivatives 
+− Outflow 
+− Inflow 
+ 
+As at 31 December 2016 
+Foreign exchange derivatives 
+− Outflow 
+− Inflow191,912,193,814     117,990,533,148    
+  191,634,394,761     118,135,827,680    
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  130,580,423,845 
+ 
+  130,597,031,02421,423,324,021146,867,381,807 
+  146,966,448,751241,982,761,096  
+ 240,751,080,199  
+ 
+ 
+ 
+214,233,573,945 
+215,108,669,930564,061,623,572  
+ 562,775,834,993  
+ 
+ 
+ 
+513,181,752,256 
+514,095,473,7261-3 monthsOver 5years- 
+- 
+ 
+ 
+ 
+- 
+-12,176,135,514  
+ 12,254,532,35321,500,372,6593-12 months1-5 yearsTotal73DBS BANK (CHINA) LIMITED 
+ 
+NOTES TO THE FINANCIAL STATEMENTS 
+FOR THE YEAR ENDED 31 DECEMBER 2017 
+(All amounts expressed in RMB unless otherwise stated) 
+[English translation for reference only] 
+ 
+FINANCIAL RISK MANAGEMENT (continued)5353.4  Liquidity risk (continued)Off-balance sheet itemsNo later than1 year1-5 yearsOver 5 years-C31 December 2017Letters of credit issued 
+Letters of guarantee issued  
+Irrevocable loan commitment 
+Bank acceptances 
+Standby letter of credit 
+Letters of credit confirmation 
+Operating lease commitments 
+Total31 December 2016Letters of credit issued 
+Letters of guarantee issued 
+Irrevocable loan commitment 
+Bank acceptances 
+Standby letter of credit 
+Letters of credit confirmation 
+Operating lease commitments53.5  Fair value hierarchyTotal3,327,277,162-242,695,703134,206,248547,295,203193,651,3531,607,757,4762,381,848,691-3,325,945,6591,039,540,13330,316,263 
+156,983,519- 
+200,318,257---- 
+56,236Total3,327,277,162924,197,1541,801,408,8292,381,848,6914,365,485,792 
+30,316,263357,358,0129,658,718,3502,981,822,114547,351,43913,187,891,9033,442,944,799--1,912,945,68529,483,501287,656,009105,295,427   1,983,256,2601,290,879,7432,376,076,932-7,438,376,122849,310,55023,363,087-167,423,808122,669,372----3,442,944,799 
+2,230,085,1953,379,431,4302,376,076,9328,287,686,67223,363,087290,093,18015,466,425,860  2,984,719,6831,578,535,75320,029,681,296IFRS  No.7  specifies  a  hierarchy  of  valuation  techniques  based  on  whether  the  inputs  to  those 
+valuation techniques are observable or unobservable. Observable inputs reflect market data obtained 
+from  independent  sources;  unobservable  inputs  reflect  the  Bank’s  market  assumptions.  These  two 
+types of inputs have created the following fair value hierarchy: 
+ 
+• Level 1 – Quoted prices (unadjusted) in active markets for identical assets or liabilities.• Level 2 – Inputs other than quoted prices included within Level 1 that are observable for the asset or 
+liability, either directly (that is, as prices) or indirectly (that is, derived from prices). This level includes 
+the  majority  of  the  OTC  derivative contracts  and RMB  debt  instruments  traded  in  inter-bank market. 
+The sources of input parameters like LIBOR yield curve or counterparty credit risk are Bloomberg and 
+China Bond. 
+ 
+• Level 3 – inputs for the asset or liability that are not based on observable market data (unobservable 
+inputs). This level includes structured financial instruments.This  hierarchy  requires  the  use  of  observable  market  data  when  available.  The  Bank  considers 
+relevant and observable market prices in its valuations where possible.74DBS BANK (CHINA) LIMITED 
+ 
+NOTES TO THE FINANCIAL STATEMENTS 
+FOR THE YEAR ENDED 31 DECEMBER 2017 
+(All amounts expressed in RMB unless otherwise stated) 
+[English translation for reference only] 
+ 
+FINANCIAL RISK MANAGEMENT (continued)  
+ 
+Fair value hierarchy (continued)53 
+ 
+53.5(a)  Assets and liabilities continuously measured at fair value31 December 2017 
+ 
+Financial assets at fair value through 
+profit or loss- Trading securities  
+- Derivatives assets 
+- Financial assets purchased underresale agreementsAvailable -for-sale investments 
+Total Assets 
+ 
+Financial liabilities at fair value through 
+profit or loss- Derivative liabilities- Financial assets sold underrepurchase agreementsTotal Liabilities 
+ 
+31 December 2016Financial assets at fair value through 
+profit or loss- Trading securities  
+- Derivatives assets 
+- Financial assets purchasedunder resale agreementsAvailable–for-sale investments 
+Total Assets 
+ 
+Financial liabilities at fair value 
+through profit or loss- Derivative liabilities- Financial assets sold under    
+repurchase agreementsTotal LiabilitiesLevel 1Level 2Level 3Total-  
+ --  
+ 
+ -  
+ -19,917,284,916  
+ 8,365,624,28950,539,752  
+ 
+ 2,709,065,463  
+ 31,042,514,420-   19,917,284,916 
+ -  
+ 8,365,624,28950,539,752  
+ -  
+ 
+ 
+ -  
+ 2,709,065,463  
+ -    31,042,514,420-(9,534,700,080)-    (9,534,700,080)-  
+ -(1,858,576,944) 
+(11,393,277,024)-    (1,858,576,944) 
+ -   (11,393,277,024)Level 1Level 2Level 3Total-  
+ --  
+ 
+ -  
+ ---  
+ -6,366,848,443  
+ 9,094,258,342-  
+ 93,8656,366,848,443 
+9,094,352,207-  
+ 
+ 2,150,816,247  
+ 17,611,923,032-  
+ 
+ -- 
+ 
+2,150,816,247 
+ 93,865   17,612,016,897(8,199,798,794)   (93,865)(8,199,892,659)(1,970,930,248)-  
+ (10,170,729,042)   (93,865)(1,970,930,248) 
+(10,170,822,907)75DBS BANK (CHINA) LIMITED 
+ 
+NOTES TO THE FINANCIAL STATEMENTS 
+FOR THE YEAR ENDED 31 DECEMBER 2017 
+(All amounts expressed in RMB unless otherwise stated) 
+[English translation for reference only]53  FINANCIAL RISK MANAGEMENT (continued)53.5  Fair value hierarchy(continued)(b)   Assets and liabilities not measured at fair value but disclose their fair valueFair values estimation is made in accordance with information of market and financial instruments in some 
+ specific point. Estimation is based on following methods and supposition: 
+ 
+ 
+Cash  and  due  from  other  banks  and  financial  institutions,  Deposits  with  the  central  bank,  Deposits  with 
+other  banks,Due  to  other  banks  and  financial  institutions,  Interest  receivable,  Interest  payable,  Other 
+assets and Other liabilities. 
+ 
+Given  that  maturities  of  these  financial  assets  and  liabilities  are  either  short-term  or  re-priced  more  than 
+once every year; the carrying amount approximates the fair value, belonging to level 2. 
+ 
+Loans and advances 
+ 
+Because  the  RMB  loan  interest  rates  follows  the  movement  of  PBOC  benchmark  interest  rates,  and 
+interest tares for loans denominated in foreign exchange are generally floating rates, fair value of loans is 
+close to carrying value.  
+ 
+Customer deposits  
+ 
+The  fair  value  of  current,  savings  and  money  market accounts  is  the  amount  payable  on  demand  at the 
+reporting date.  The carrying  value  of fixed interest-bearing deposits and placements  approximates to its 
+fair value because they are mainly payable in short term period. 
+ 
+The  Bank  takes  the  date  on  which  events  causing  the  transfers  between  the  levels  take  place  as  the 
+timing specific for recognising the transfers. There are no significant transfers in or out regarding to assets 
+or  liabilities  measured  at  fair  value  through  profit  or  loss  and  categorised  within  Level  3.  There  is  no 
+transfer between Level 1 and Level 2 for current year.76DBS BANK (CHINA) LIMITED 
+ 
+NOTES TO THE FINANCIAL STATEMENTS 
+FOR THE YEAR ENDED 31 DECEMBER 2017 
+(All amounts expressed in RMB unless otherwise stated) 
+[English translation for reference only] 
+ 
+FINANCIAL RISK MANAGEMENT (continued)5353.6  Capital managementThe Bank’s capital management objective is to maintain strong capital position consistent with regulatory 
+requirements  under  the  China  Banking  Regulatory  Commission  (“CBRC”)  Capital  Rules  for  Commercial 
+Banks  (Provisional)  and  the  expectation  of  various  stakeholders,  e.g.  customers,  investors  and  rating 
+agencies. The Board articulates this objective in the form of capital targets. This objective is pursued while 
+delivering returns to shareholders and ensuring that adequate capital resources are available for business 
+growth as well as adverse situations, taking into consideration our strategic plans and risk appetite. 
+ 
+The table below provides the analysis of regulatory capital and the ratios of the Bank.Core Tier 1 capital adequacy ratio 
+Tier 1 capital adequacy ratio 
+Total capital adequacy ratio 
+ 
+Core Tier 1 capital 
+Regulatory Deductions for Core Tier 1 capital 
+Net core Tier 1 capital 
+Other Tier 1 capital 
+Net Tier 1 capital 
+ 
+Tier 2 capital 
+ 
+Total regulatory capitalTotal risk-weighted assets31 December 201712.8% 
+12.8% 
+15.7% 
+ 
+10,529,497,296 
+- 
+10,529,497,296 
+- 
+10,529,497,296 
+ 
+2,434,006,200 
+ 
+12,963,503,49682,355,829,00031 December 201612.9% 
+12.9% 
+15.9% 
+ 
+10,452,644,785 
+- 
+10,452,644,785 
+- 
+10,452,644,785 
+ 
+2,376,535,200 
+ 
+12,829,179,98580,927,950,10077
