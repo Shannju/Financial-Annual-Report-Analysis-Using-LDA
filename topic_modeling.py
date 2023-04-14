@@ -5,7 +5,7 @@ import jieba
 import jieba.posseg as psg
 
 #预处理
-
+data=pd.read_excel("output.xlsx")#content type
 # 获取当前运行脚本的绝对路径
 abs_path = os.path.abspath(__file__)
 
@@ -17,7 +17,9 @@ doc_path = parent_path+r"\sentences.txt"
 output_path = parent_path+r"\result"
 file_path =  parent_path+r"\data"
 os.chdir(file_path)
-data=pd.read_excel("data.xlsx")#content type
+
+
+
 os.chdir(output_path)
 dic_file =  parent_path+r"\stop_dic\dict.txt"
 stop_file = parent_path+r"\stop_dic\stopwords.txt"
@@ -59,9 +61,7 @@ def chinese_word_cut(mytext):
 
 
 
-# data=pd.read_excel("data.xlsx")#content type
-
-data["content"] = docs
+# data["content"] = docs
 data["content_cutted"] = data.content.apply(chinese_word_cut)
 # ## 2.LDA分析
 
@@ -93,21 +93,21 @@ tf_vectorizer = CountVectorizer(strip_accents = 'unicode',
                                 max_features=n_features,
                                 stop_words='english',
                                 max_df = 0.5,
-                                min_df = 10)
+                                min_df = 10                                )
 tf = tf_vectorizer.fit_transform(data.content_cutted)
 
 
 # In[40]:
 
 
-n_topics = 8 # 主题数量！
+n_topics = 5 # 主题数量！
 #max_iter 迭代次数 可以增减
 #alpha beta可以省略 由模型来确定
 lda = LatentDirichletAllocation(n_components=n_topics, max_iter=5,
                                 learning_method='batch',
                                 learning_offset=50,
-                                doc_topic_prior=0.1,#alpha
-                                topic_word_prior=0.01,#beta
+                                # doc_topic_prior=0.1,#alpha
+                                # topic_word_prior=0.01,#beta
                                random_state=0)
 lda.fit(tf)
 

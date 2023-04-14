@@ -1,10 +1,4 @@
-import numpy as np
 import os
-import pandas as pd
-import re
-import jieba
-import jieba.posseg as psg
-
 
 #预处理
 
