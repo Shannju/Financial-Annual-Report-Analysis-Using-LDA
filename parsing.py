@@ -7,10 +7,12 @@ abs_path = os.path.abspath(__file__)
 
 # 获取当前脚本的父文件夹的绝对路径
 parent_path = os.path.dirname(abs_path)
+output_path = parent_path+r"\result"
+file_path =  parent_path+r"\data"
+dic_path = parent_path+r"\stop_dic"
 
-txt_path = parent_path+r"\txt"
-# print("当前脚本的txt文件夹的绝对路径为：", txt_path)
-keywords_path = parent_path+r"\dictionary.txt"
+txt_path = file_path+r"\txt"
+keywords_path = dic_path+r"\dictionary.txt"
 
 def clean_text(text):
     # 使用正则表达式删除非法字符
@@ -87,7 +89,7 @@ def process_folder(folder_path):
                 df = pd.concat([df, new_row], ignore_index=True)
 
     # 将DataFrame保存为一个Excel文件
-    df.to_excel('output.xlsx', index=False)
+    # df.to_excel('output.xlsx', index=False)
 
     return df
 
@@ -105,4 +107,8 @@ def write_to_file(sentences_array, output_file):
 result_df = process_folder(txt_path)
 
 # 将DataFrame保存为一个Excel文件
-result_df.to_excel('output.xlsx', index=False)
+output_path = os.path.join(file_path,'output.xlsx')
+
+# 将整理后的数据保存到Excel文件
+result_df.to_excel(output_path, index=False)
+

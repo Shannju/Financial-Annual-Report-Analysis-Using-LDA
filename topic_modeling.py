@@ -4,25 +4,26 @@ import re
 import jieba
 import jieba.posseg as psg
 
-#预处理
-data=pd.read_excel("output.xlsx")#content type
+
 # 获取当前运行脚本的绝对路径
 abs_path = os.path.abspath(__file__)
 
 # 获取当前脚本的父文件夹的绝对路径
 parent_path = os.path.dirname(abs_path)
-
-doc_path = parent_path+r"\sentences.txt"
-
 output_path = parent_path+r"\result"
 file_path =  parent_path+r"\data"
+dic_path = parent_path+r"\stop_dic"
+
+dic_file =  dic_path+r"\dictionary.txt"
+stop_file = dic_path+r"\stopwords.txt"
 os.chdir(file_path)
-
-
+doc_path = file_path+r"\sentences.txt"
+#预处理
+data=pd.read_excel("output.xlsx")#content type
 
 os.chdir(output_path)
-dic_file =  parent_path+r"\stop_dic\dict.txt"
-stop_file = parent_path+r"\stop_dic\stopwords.txt"
+
+
 
 with open(doc_path, encoding='utf-8') as file:
     # rest of your code here
@@ -146,6 +147,27 @@ data['概率最大的主题序号']=topic
 data['每个主题对应概率']=list(topics)
 data.to_excel("data_topic.xlsx",index=False)
 
+import pandas as pd
+
+# 假设你的数据对象是一个名为data的DataFrame
+
+# 首先，对data按照'chinese'和'year'进行分组，并对'概率最大的主题序号'列进行计数
+grouped_data = data.groupby(['chinese', 'year', '概率最大的主题序号']).size().reset_index(name='count')
+
+# 然后，使用pivot方法将数据整理成你想要的格式
+pivot_table = grouped_data.pivot_table(index=['chinese', 'year'], columns='概率最大的主题序号', values='count', fill_value=0)
+
+# 重置索引以使'chinese'和'year'成为普通列
+pivot_table.reset_index(inplace=True)
+
+# 重命名列名
+pivot_table.columns.name = ''
+new_columns = ['chinese', 'year', '1', '2', '3', '4', '5']
+pivot_table.columns = new_columns
+
+pivot_table.to_excel('output_pivot_table.xlsx', index=False)
+
+
 
 # ### 2.3可视化
 
@@ -168,14 +190,13 @@ pyLDAvis.save_html(pic, 'lda_pass'+str(n_topics)+'.html')
 
 # ### 2.4困惑度
 
-# In[32]:
 
 
 import matplotlib.pyplot as plt
 
 
 # In[41]:
-#困惑度 可以看出主题数量哪个最合适
+
 
 plexs = []
 scores = []
@@ -199,9 +220,6 @@ plt.plot(x,plexs[0:n_t])
 plt.xlabel("number of topics")
 plt.ylabel("perplexity")
 plt.show()
-
-
-# In[ ]:
 
 
 
