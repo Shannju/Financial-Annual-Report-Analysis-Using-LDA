@@ -35,35 +35,37 @@ def contains_keyword(sentence, keywords):
 def read_and_split_file(file_path, keywords_path):
     keywords = read_keywords(keywords_path)
 
-    with open(file_path, 'r', encoding='utf-8') as file:
-        content = file.read()
-        content = content.replace('\n', ',')
-        content = content.replace(' ', ',')
-        # 去除形如(cid:3311)的字符组合
-        content = re.sub(r'\(cid:\d+\)', '', content)
-        # 使用正则表达式分割文本，包含中文标点
-        sentences = re.split(r'[.,;!?。，；！？：]', content)
-        sentences = [
-            s.strip() for s in sentences
-            if s.strip() and is_valid_sentence(s.strip()) and contains_keyword(s.strip(), keywords)
-        ]
-    return sentences
+    try:
+        with open(file_path, 'r', encoding='utf-8') as file:
+            content = file.read()
+            content = content.replace('\n', ',')
+            content = content.replace(' ', ',')
+            # 去除形如(cid:3311)的字符组合
+            content = re.sub(r'\(cid:\d+\)', '', content)
+            # 使用正则表达式分割文本，包含中文标点
+            sentences = re.split(r'[.,;!?。，；！？：]', content)
+            sentences_with_keywords = [
+                s.strip() for s in sentences
+                if s.strip() and is_valid_sentence(s.strip()) and contains_keyword(s.strip(), keywords)
+            ]
+            sentence_without_keywords = [
+                s.strip() for s in sentences
+                if s.strip() and is_valid_sentence(s.strip())
+            ]
+    except UnicodeDecodeError:
+        print(f"Failed to open file: {file_path}")
+
+
+
+
+
+    return sentences_with_keywords, len(sentence_without_keywords)
+
 
 
 
 def is_valid_sentence(sentence):
     return bool(re.search(r'[\u4e00-\u9fa5]', sentence))
-
-def process_folder(folder_path):
-    # print(f"path in function ",folder_path)
-    all_sentences = []
-
-    for file_name in os.listdir(folder_path):
-        if file_name.endswith('.txt'):
-            file_path = os.path.join(folder_path, file_name)
-            sentences = read_and_split_file(file_path,keywords_path)
-            all_sentences.extend(sentences)
-    return all_sentences
 
 import os
 import re
@@ -73,26 +75,29 @@ def process_folder(folder_path):
     # 创建一个空的DataFrame，列名为'content', 'chinese', 'year'
     df = pd.DataFrame(columns=['content', 'chinese', 'year'])
 
+    # 创建一个新的DataFrame，用于句子数统计
+    count_df = pd.DataFrame(columns=['chinese', 'year', 'sentence_count'])
+
+
     for file_name in os.listdir(folder_path):
         if file_name.endswith('.txt'):
             file_path = os.path.join(folder_path, file_name)
-            sentences = read_and_split_file(file_path, keywords_path)
+            sentences,count = read_and_split_file(file_path, keywords_path)
+            # print(count)
 
             # 使用正则表达式提取中文字符和年份
             chinese = ''.join(re.findall(r'[\u4e00-\u9fff]+', file_name))
             year = ''.join(re.findall(r'\d{4}', file_name))
 
+            row = pd.DataFrame({'chinese': [chinese], 'year': [year],'sentence_count':[count]})
+            count_df = pd.concat([count_df, row], ignore_index=True)
+
             for sentence in sentences:
                 # 使用pandas.concat将每个句子、中文字符和年份添加到DataFrame中
-
                 new_row = pd.DataFrame({'content': [clean_text(sentence)], 'chinese': [chinese], 'year': [year]})
                 df = pd.concat([df, new_row], ignore_index=True)
 
-    # 将DataFrame保存为一个Excel文件
-    # df.to_excel('output.xlsx', index=False)
-
-    return df
-
+    return df, count_df
 
 
 def write_to_file(sentences_array, output_file):
@@ -104,11 +109,17 @@ def write_to_file(sentences_array, output_file):
 
 
 # 调用process_folder函数，并将结果存储为一个DataFrame
-result_df = process_folder(txt_path)
+result_df,count_df = process_folder(txt_path)
 
 # 将DataFrame保存为一个Excel文件
 output_path = os.path.join(file_path,'output.xlsx')
 
 # 将整理后的数据保存到Excel文件
 result_df.to_excel(output_path, index=False)
+
+# 将DataFrame保存为一个Excel文件
+output_path = os.path.join(file_path,'count.xlsx')
+
+# 将整理后的数据保存到Excel文件
+count_df.to_excel(output_path, index=False)
 
